@@ -80,268 +80,268 @@
   <Quest>
     <ID>112</ID>
     <JP-Name>「伊勢」型戦艦姉妹の全２隻を編成せよ！</JP-Name>
-    <TR-Name>A18: Form an Ise-class Fleet</TR-Name>
+    <TR-Name>A18: จัดกองเรือชั้นอิเสะ</TR-Name>
     <JP-Detail>伊勢型戦艦「伊勢」「日向」を同一艦隊に配属せよ！</JP-Detail>
-    <TR-Detail>Have Ise (伊勢) and Hyuuga (日向) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ อิเสะ (伊勢) และ ฮิวงะ (日向) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>113</ID>
     <JP-Name>戦艦と重巡による主力艦隊を編成せよ！</JP-Name>
-    <TR-Name>A13: Form a Main Fleet using BB and CA</TR-Name>
+    <TR-Name>A13: จัดกองเรือหลัก BB และ CA ในกองเรือหลัก</TR-Name>
     <JP-Detail>戦艦1隻以上、重巡2隻以上を主力とした水上打撃艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have a BB (slow or fast, BBV don't count) and 2 CA in your main fleet.</TR-Detail>
+    <TR-Detail>จัดกองเรือ BB และ CA อย่างละ 2 ลำ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>114</ID>
     <JP-Name>「南雲機動部隊」を編成せよ！</JP-Name>
-    <TR-Name>A19: Form the Nagumo Task Force</TR-Name>
+    <TR-Name>A19: จัดกองเรือบรรทุกเครื่องบินนากุโมะ</TR-Name>
     <JP-Detail>一航戦「赤城」「加賀」二航戦「飛龍」「蒼龍」からなる第一機動部隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Akagi (赤城), Kaga (加賀), Hiryuu (飛龍) and Souryuu (蒼龍) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ อาคากิ (赤城), คากะ (加賀), ฮิริว (飛龍), โซริว (蒼龍) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>115</ID>
     <JP-Name>第２艦隊を編成せよ！</JP-Name>
-    <TR-Name>A6: Form a Second Fleet</TR-Name>
+    <TR-Name>A6: จัดกองเรือที่ 2</TR-Name>
     <JP-Detail>二つ目の艦隊、第２艦隊の旗艦を指定して、第２艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have a flagship in your second fleet.</TR-Detail>
+    <TR-Detail>จัดเรือธงลงในกองเรือที่ 2</TR-Detail>
   </Quest>
   <Quest>
     <ID>116</ID>
     <JP-Name>「水上機母艦」を配備せよ！</JP-Name>
-    <TR-Name>A9: Deploy a Seaplane Tender</TR-Name>
+    <TR-Name>A9: จัดกองเรือบรรทุกเครื่องบินทะเล</TR-Name>
     <JP-Detail>多数の水上偵察機を運用する「水上機母艦」を艦隊に配備せよ！</JP-Detail>
-    <TR-Detail>Have an AV in your main fleet.</TR-Detail>
+    <TR-Detail>จัดกองเรือ AV ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>117</ID>
     <JP-Name>第２艦隊で空母機動部隊を編成せよ！</JP-Name>
-    <TR-Name>A11: Form a Carrier Task Force in the Second Fleet</TR-Name>
+    <TR-Name>A11: จัดกองเรือบรรทุกเครื่องบินลงในกองเรือที่ 2</TR-Name>
     <JP-Detail>第２艦隊に空母を配備して、空母機動部隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have a CV/CVL and 3 DD in your second fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ CV หรือ CVL จำนวน 1 ลำ และ DD 3 ลำ ลงในกองเรือที่ 2</TR-Detail>
   </Quest>
   <Quest>
     <ID>118</ID>
     <JP-Name>「金剛」型による高速戦艦部隊を編成せよ！</JP-Name>
-    <TR-Name>A16: Form a Kongou-class Fleet</TR-Name>
+    <TR-Name>A16: จัดกองเรือชั้นคองโก</TR-Name>
     <JP-Detail>金剛型戦艦「金剛」「比叡」「榛名」「霧島」全４隻の高速戦艦を集中配備せよ！</JP-Detail>
-    <TR-Detail>Have Kongou (金剛), Hiei (比叡), Haruna (榛名) and Kirishima (霧島) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ คองโก (金剛), ฮิเอย์ (比叡), ฮารุนะ (榛名), คิริชิมะ (霧島) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>119</ID>
     <JP-Name>「三川艦隊」を編成せよ！</JP-Name>
-    <TR-Name>A20: Form the Mikawa Fleet</TR-Name>
+    <TR-Name>A20: จัดกองเรือมิคาวะ</TR-Name>
     <JP-Detail>「鳥海」「青葉」「加古」「古鷹」「天龍」を含む高速艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Choukai (鳥海), Aoba (青葉), Kako (加古), Furutaka (古鷹), Tenryuu (天龍) and a FAST speed ship in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ โจไค (鳥海), อาโอบะ (青葉), คาโกะ (加古), ฟุรุทากะ (古鷹), เทนริว (天龍) และ เรือเร็ว 1ลำ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>120</ID>
     <JP-Name>「第六駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>A10: Form the 6th Destroyer Division</TR-Name>
+    <TR-Name>A10: จัดกองเรือพิฆาตชั้นอาคัทสึกิ</TR-Name>
     <JP-Detail>「暁」「響」「雷」「電」4隻による第六駆逐隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Akatsuki (暁), Hibiki (響), Inazuma (雷) and Ikazuchi (電) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ อาคัทสึกิ (暁), ฮิบิกิ (響), อินาซึมะ (雷), อิคาซึจิ (電) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>121</ID>
     <JP-Name>「第四戦隊」を編成せよ！</JP-Name>
-    <TR-Name>A21: Form the 4th Cruiser Division</TR-Name>
+    <TR-Name>A21: จัดกองเรือลาดตระเวนหนักที่ 4</TR-Name>
     <JP-Detail>「愛宕」「高雄」「鳥海」「摩耶」を基幹とした第四戦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Atago (愛宕), Takao (高雄), Choukai (鳥海) and Maya (摩耶) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ อาตาโกะ (愛宕), ทาคาโอะ (高雄), โจไค (鳥海), มายะ (摩耶) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>122</ID>
     <JP-Name>「西村艦隊」を編成せよ！</JP-Name>
-    <TR-Name>A22: Form the Nishimura Fleet</TR-Name>
+    <TR-Name>A22: จัดกองเรือนิชิมูระ</TR-Name>
     <JP-Detail>「扶桑」「山城」「最上」「時雨」を基幹とした西村艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Fusou (扶桑), Yamashiro (山城), Mogami (最上) and Shigure (時雨) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุโซ (扶桑), ยามาชิโระ (山城), โมกามิ (最上), ชิงุเระ (時雨) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>123</ID>
     <JP-Name>「第五航空戦隊」を編成せよ！</JP-Name>
-    <TR-Name>A23: Form the 5th Carrier Division</TR-Name>
+    <TR-Name>A23: จัดกองเรือบรรทุกเครื่องบินที่ 5</TR-Name>
     <JP-Detail>「翔鶴」「瑞鶴」を基幹とし、駆逐艦2隻を加えた第五航空戦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Shoukaku (翔鶴), Zuikaku (瑞鶴) and 2 DD in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ โชคาคุ (翔鶴), ซุยคาคุ (瑞鶴) และ DD 2 ลำ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>124</ID>
     <JP-Name>新「三川艦隊」を編成せよ！</JP-Name>
-    <TR-Name>A24: Form the New Mikawa Fleet</TR-Name>
+    <TR-Name>A24: จัดกองเรือมิคาวะทีมใหม่</TR-Name>
     <JP-Detail>「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」からなる三川艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Choukai (鳥海), Aoba (青葉), Kinugasa (衣笠), Kako (加古), Furutaka (古鷹) and Tenryuu (天龍) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ โจไค (鳥海), อาโอบะ (青葉), คินุกาสะ (衣笠), คาโกะ (加古), ฟุรุทากะ (古鷹), เทนริว (天龍) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>125</ID>
     <JP-Name>潜水艦隊を編成せよ！</JP-Name>
-    <TR-Name>A25: Form a Submarine Fleet</TR-Name>
+    <TR-Name>A25: จัดกองเรือดำน้ำ</TR-Name>
     <JP-Detail>伊号潜水艦2隻からなる潜水艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have 2 SS/SSV in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ SS 2 ลำ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>126</ID>
     <JP-Name>航空水上打撃艦隊を編成せよ！</JP-Name>
-    <TR-Name>A26: Form a Naval Aviation Strike Fleet</TR-Name>
+    <TR-Name>A26: จัดกองเรือเครื่องบินจู่โจม</TR-Name>
     <JP-Detail>航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have ONLY 2 BBV and 2 CAV in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ 2 BBV และ 2 CAV ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>127</ID>
     <JP-Name>中規模潜水艦隊を編成せよ！</JP-Name>
-    <TR-Name>A27: Form a Medium-Sized Submarine Fleet</TR-Name>
+    <TR-Name>A27: จัดกองเรือดำน้ำขนาดกลาง</TR-Name>
     <JP-Detail>伊号潜水艦3隻以上からなる潜水艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have 3 SS/SSV in your fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ 3 SS ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>128</ID>
     <JP-Name>「第六戦隊」を編成せよ！</JP-Name>
-    <TR-Name>A28: Form the 6th Cruiser Division</TR-Name>
+    <TR-Name>A28: จัดกองเรือลาดตระเวนหนักที่ 6</TR-Name>
     <JP-Detail>「古鷹」「加古」「青葉」「衣笠」を基幹とした第六戦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Furutaka (古鷹), Kako (加古), Aoba (青葉) and Kinugasa (衣笠) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุรุทากะ (古鷹), คาโกะ (加古), อาโอบะ (青葉), คินุกาสะ (衣笠) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>129</ID>
     <JP-Name>「第五艦隊」を編成せよ！</JP-Name>
-    <TR-Name>A29: Form the 5th Fleet</TR-Name>
+    <TR-Name>A29: จัดกองเรือที่ 5</TR-Name>
     <JP-Detail>「那智」「足柄」「多摩」「木曾」を中核とした「第五艦隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have Nachi (那智), Ashigara (足柄), Tama (多摩) and Kiso (木曾) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ นาจิ (那智), อาชิงาระ (足柄), ทามะ (多摩), คิโสะ (木曾) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>130</ID>
     <JP-Name>「第一水雷戦隊」を編成せよ！</JP-Name>
-    <TR-Name>A30: Form the 1st Torpedo Squadron</TR-Name>
+    <TR-Name>A30: จัดกองเรือตอร์ปิโดที่ 1</TR-Name>
     <JP-Detail>「阿武隈」「曙」「潮」「霞」「不知火」を中核とした「第一水雷戦隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have Abukuma (阿武隈), Akebono (曙), Ushio (潮), Kasumi (霞) and Shiranui (不知火) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ อาบุคุมะ (阿武隈), อาเคโบโนะ (曙), อุชิโอะ (潮), คาสุมิ (霞), ชิรานุอิ (不知火) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>131</ID>
     <JP-Name>「第八駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>A31: Form the 8th Destroyer Division</TR-Name>
+    <TR-Name>A31: จัดกองเรือพิฆาตที่ 8</TR-Name>
     <JP-Detail>「朝潮」「満潮」「大潮」「荒潮」4隻による第八駆逐隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Asashio (朝潮), Michishio (満潮), Ooshio (大潮) and Arashio (荒潮) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ อาซาชิโอะ (朝潮), มิจิซิโอะ (満潮), โอชิโอะ (大潮), อาราชิโอะ (荒潮) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>132</ID>
     <JP-Name>「第十八駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>A32: Form the 18th Destroyer Division</TR-Name>
+    <TR-Name>A32: จัดกองเรือพิฆาตที่ 18</TR-Name>
     <JP-Detail>「霞」「霰」「陽炎」「不知火」4隻による第十八駆逐隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Kasumi (霞), Arare (霰), Kagerou (陽炎) and Shiranui (不知火) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ คาสุมิ (霞), อาราเระ (霰), คาเงโร่ (陽炎), ชิรานุอิ (不知火) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>133</ID>
     <JP-Name>「第三十駆逐隊(第一次)」を編成せよ！</JP-Name>
-    <TR-Name>A33: Form the 30th Destroyer Division (Gen.1)</TR-Name>
+    <TR-Name>A33: จัดกองเรือพิฆาตที่ 30 (Gen-1)</TR-Name>
     <JP-Detail>「睦月」「如月」「弥生」「望月」4隻による第三十駆逐隊(第一次)を編成せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Mutsuki (睦月), Kisaragi (如月), Yayoi (弥生) and Mochizuki (望月) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ มุทสึกิ (睦月), คิซารากิ (如月), ยาโยอิ (弥生), โมจิสึกิ (望月) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>134</ID>
     <JP-Name>式の準備！(その参)</JP-Name>
-    <TR-Name>WA01: In Preparation of Love (Part 3)</TR-Name>
+    <TR-Name>WA01: แต่งงานกับเรือที่รัก 3</TR-Name>
     <JP-Detail>第一艦隊旗艦に練度の高い(Lv.90以上～99以下)艦娘を配備して気持ちを整理せよ！</JP-Detail>
-    <TR-Detail>Organize your feelings and deploy your fleet with a high level flagship (Lv.90~99)!</TR-Detail>
+    <TR-Detail>ตั้งเรือ Lv.90~99 ที่คุณรักเป็นเรือธงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>135</ID>
     <JP-Name>新たなる旅立ち！</JP-Name>
-    <TR-Name>WA02: Journey Anew</TR-Name>
+    <TR-Name>WA02: การเดินทางครั้งใหม่</TR-Name>
     <JP-Detail>第一艦隊旗艦に強い絆を結んだLv.100以上の艦娘を配備した6隻の艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Organize a fleet of 6 ships with your newly bonded ship of Lv.100 or more as flagship!</TR-Detail>
+    <TR-Detail>ตั้งเรือ LV.100 เป็นเรือธง และ จัดกองเรืออื่น ๆ ให้ครบ 6 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>136</ID>
     <JP-Name>「第三十駆逐隊(第二次)」を編成せよ！</JP-Name>
-    <TR-Name>A34: Form the 30th Destroyer Division (Gen.2)</TR-Name>
+    <TR-Name>A34: จัดกองเรือพิฆาตที่ 30 (Gen-2)</TR-Name>
     <JP-Detail>「睦月」「弥生」「卯月」「望月」4隻による第三十駆逐隊(第二次)を編成せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Mutsuki (睦月), Yayoi (弥生), Uzuki (卯月) and Mochizuki (望月) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ มุทสึกิ (睦月), ยาโยอิ (弥生), อุซึกิ (卯月), โมจิสึกิ (望月) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>137</ID>
     <JP-Name>「第五戦隊」を編成せよ！</JP-Name>
-    <TR-Name>A35: Form the 5th Cruiser Division</TR-Name>
+    <TR-Name>A35: จัดกองเรือรูปแบบที่ 5</TR-Name>
     <JP-Detail>「妙高」「那智」「羽黒」を基幹とした第五戦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Myoukou (妙高), Nachi (那智) and Haguro (羽黒) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ เมียวโค (妙高), นาจิ (那智), ฮากุโระ (羽黒) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>138</ID>
     <JP-Name>新編「第二航空戦隊」を編成せよ！</JP-Name>
-    <TR-Name>A36: Form the new 2nd Carrier Division</TR-Name>
+    <TR-Name>A36: จัดกองเรือบรรทุกเครื่องบินที่ 2 (กองใหม่)</TR-Name>
     <JP-Detail>「飛龍改二」(※旗艦)及び「蒼龍」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！</JP-Detail>
-    <TR-Detail>Have Hiryuu Kai2 (飛龍改二) as the flagship, Souryuu (蒼龍) and 2 DD in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ ฮิริว ไคนิ (飛龍改二) ให้เป็นเรือธง และจัด โซริว (蒼龍) กับ DD 2 ลำ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>139</ID>
     <JP-Name>潜水艦隊「第六艦隊」を編成せよ！</JP-Name>
-    <TR-Name>A37: Form the 6th Submarine Fleet</TR-Name>
+    <TR-Name>A37: จัดกองเรือดำน้ำที่ 6</TR-Name>
     <JP-Detail>「潜水母艦」と複数の潜水艦(4隻以上)からなる潜水艦隊「第六艦隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have an AS as flagship and 4 (or more) SS/SSV in your main fleet.</TR-Detail>
+    <TR-Detail>ตั้งเรือ AS เป็นเรือธง และ SS 4 ลำ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>140</ID>
     <JP-Name>新型電探を配備せよ！</JP-Name>
-    <TR-Name>A38: Test the New RADAR</TR-Name>
+    <TR-Name>A38: ทดสอบเรดาห์ใหม่</TR-Name>
     <JP-Detail>新型電探運用試験のため、第一艦隊の旗艦に「妙高改二」を配備せよ！</JP-Detail>
-    <TR-Detail>Have Myoukou Kai2 (妙高改二) as the flagship of your fleet.</TR-Detail>
+    <TR-Detail>ตั้งเรือ เมียวโค ไคนิ (妙高改二) เป็นเรือธงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>141</ID>
     <JP-Name>再編成「第二航空戦隊」を強化せよ！</JP-Name>
-    <TR-Name>A39: Strengthen the Reorganized 2nd Carrier Division</TR-Name>
+    <TR-Name>A39: ปรับความแข็งแกร่งกองเรือบรรทุกเครื่องบินที่ 2</TR-Name>
     <JP-Detail>「蒼龍改二」(※旗艦)及び「飛龍改二」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！</JP-Detail>
-    <TR-Detail>Have Souryuu Kai2 (蒼龍改二) as flagship, Hiryuu Kai2 (飛龍改二) and 2 DD in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ โซริว ไคนิ (蒼龍改二) ให้เป็นเรือธง และจัด ฮิริว ไคนิ (飛龍改二) กับ DD 2 ลำ ในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>142</ID>
     <JP-Name>精鋭「第三戦隊」全艦集結せよ！</JP-Name>
-    <TR-Name>A40: Form the Elite 3rd Battleship Division</TR-Name>
+    <TR-Name>A40: จัดกองเรือประจัญบานที่ 3</TR-Name>
     <JP-Detail>第二次改装を完了した改装金剛型高速戦艦4隻を集結させよ！</JP-Detail>
-    <TR-Detail>Have all four Kongou-class Kai2 battleships in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ คองโก ไคนิ, ฮิเอย์ ไคนิ, ฮารุนะ ไคนิ, คิริชิมะ ไคนิ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>143</ID>
     <JP-Name>「新型正規空母」を配備せよ！</JP-Name>
-    <TR-Name>A41: Deploy a New Standard Aircraft Carrier</TR-Name>
+    <TR-Name>A41: จัดกองเรือบรรทุกเครื่องบินมาตรฐานใหม่</TR-Name>
     <JP-Detail>雲龍型航空母艦一番艦「雲龍」を第一艦隊機旗艦に配備せよ！</JP-Detail>
-    <TR-Detail>Have Unryuu (雲龍) as your flagship.</TR-Detail>
+    <TR-Detail>ตั้งเรือ อุนริว (雲龍) เป็นเรือธงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>144</ID>
     <JP-Name>主力戦艦部隊「第二戦隊」を編成せよ！</JP-Name>
-    <TR-Name>A42: Form the Main Battleship Fleet: the 2nd Squadron</TR-Name>
+    <TR-Name>A42: จัดกองเรือหลักประจัญบานที่ 2</TR-Name>
     <JP-Detail>長門型2隻及び扶桑型2隻の計4隻の主力戦艦からなる第二戦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have both Nagato-class and both Fusou-class battleships (and no other ships) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ นางาโตะ, มุทสึ, ฟุโซ, ยามาชิโระ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>145</ID>
     <JP-Name>戦艦を主力とした水上打撃部隊を編成せよ！</JP-Name>
-    <TR-Name>A43: Form the Surface Strike Fleet</TR-Name>
+    <TR-Name>A43: จัดกองเรือประจัญบานหลัก</TR-Name>
     <JP-Detail>大和型・長門型・伊勢型・扶桑型のいずれか3隻と軽巡1隻他の水上打撃部隊を配備せよ！</JP-Detail>
-    <TR-Detail>Have 3 battleships of Nagato, Fusou, Ise or Yamato classes and a CL in your main fleet.</TR-Detail>
+    <TR-Detail>เลือกเรือจากชั้น นางาโตะคลาส, อิเสะคลาส, ฟุโซคลาส, ยามาโตะคลาส มาจำนวน 3 ลำ และ CL อีก 1 ลำ (เท่านั้น) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>146</ID>
     <JP-Name>改修工廠を準備せよ！</JP-Name>
-    <TR-Name>A45: Prepare the Arsenal for Renovations</TR-Name>
+    <TR-Name>A45: เตรียมซ่อมแซมบำรุงคลังอาวุธ</TR-Name>
     <JP-Detail>第一艦隊の旗艦に工作艦「明石」を配備、改修工廠の準備を実施せよ！</JP-Detail>
-    <TR-Detail>Have Akashi (明石) as your flagship in your main fleet.</TR-Detail>
+    <TR-Detail>ตั้งเรือ อาคาชิ (明石) เป็นเรือธงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>147</ID>
     <JP-Name>「西村艦隊」を再編成せよ！</JP-Name>
-    <TR-Name>A44: Form the Reorganised Nishimura Fleet</TR-Name>
+    <TR-Name>A44: จัดกองเรือรูปแบบนิชิมูระ</TR-Name>
     <JP-Detail>「扶桑」「山城」「最上」「時雨」「満潮」を基幹とした西村艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุโซ (扶桑), ยามาชิโระ (山城), โมกามิ (最上), ชิงุเระ (時雨), มิจิซิโอะ (満潮) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>148</ID>
     <JP-Name>軽快な「水上反撃部隊」を編成せよ！</JP-Name>
-    <TR-Name>A46: Form a Counterattack Squadron</TR-Name>
+    <TR-Name>A46: จัดกองเรือตอบโต้ฝูงบิน</TR-Name>
     <JP-Detail>駆逐艦「霞」を旗艦とした重巡「足柄」及び軽巡1隻駆逐艦4隻の水上挺身部隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Kasumi (霞) as the flagship, Ashigara (足柄), 1 CL and 3 more DD in your main fleet.</TR-Detail>
+    <TR-Detail>ตั้งเรือ คาสุมิ (霞) เป็นเรือธง, อาชิงาระ (足柄), 1 CL และ ที่เหลือเป็น DD ทั้งหมด ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>149</ID>
     <JP-Name>「第十一駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>A47: Form the 11th Destroyer Division</TR-Name>
+    <TR-Name>A47: จัดกองเรือพิฆาตที่ 11</TR-Name>
     <JP-Detail>特I型駆逐艦「吹雪」「白雪」「初雪」「叢雲」4隻による第十一駆逐隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪) and Murakumo (叢雲) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุบุกิ (吹雪), ชิรายูกิ (白雪), ฮัทสึยูกิ (初雪), มุราคุโมะ (叢雲) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>150</ID>
