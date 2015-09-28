@@ -10,72 +10,72 @@
   <Quest>
     <ID>102</ID>
     <JP-Name>「駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>A2: Form a Destroyer Division</TR-Name>
+    <TR-Name>A2: จัดกองเรือพิฆาต</TR-Name>
     <JP-Detail>駆逐艦４隻以上で構成される「駆逐隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have 4 DD in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ 4 DD (เรือพิฆาต) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>103</ID>
     <JP-Name>「水雷戦隊」を編成せよ！</JP-Name>
-    <TR-Name>A3: Form a Torpedo Squadron</TR-Name>
+    <TR-Name>A3: จัดกองเรือตอร์ปิโด</TR-Name>
     <JP-Detail>軽巡洋艦を旗艦とし、数隻の駆逐艦で構成される「水雷戦隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have a CL as a flagship and 3-5 DD in your main fleet.</TR-Detail>
+    <TR-Detail>ให้ CL เป็นเรือธงและมี 5 DD อยู่ในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>104</ID>
     <JP-Name>６隻編成の艦隊を編成せよ！</JP-Name>
-    <TR-Name>A4: Form a Six Ship Fleet</TR-Name>
+    <TR-Name>A4: จัดกองเรือหกลำ</TR-Name>
     <JP-Detail>全6隻で構成される主力艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have 6 ships in your main fleet.</TR-Detail>
+    <TR-Detail>จัดกองเรือ 6 ลำ ในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>105</ID>
     <JP-Name>軽巡２隻を擁する隊を編成せよ！</JP-Name>
-    <TR-Name>A5: Form a Squadron with two CL</TR-Name>
+    <TR-Name>A5: จัดกองเรือลาดตระเวนเบา 2 ลำ</TR-Name>
     <JP-Detail>軽巡洋艦２隻を擁する高速艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have 2 CL in your main fleet.</TR-Detail>
+    <TR-Detail>จัดกองเรือ CL 2 ลำ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>106</ID>
     <JP-Name>「重巡戦隊」を編成せよ！</JP-Name>
-    <TR-Name>A7: Form a Heavy Cruiser Division</TR-Name>
+    <TR-Name>A7: จัดกองเรือลาดตระเวนหนัก</TR-Name>
     <JP-Detail>重巡洋艦２隻を擁する重巡艦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have 2 CA in your main fleet.</TR-Detail>
+    <TR-Detail>จัดกองเรือให้ CV หรือ CVL 1 ลำ และ DD 3 ลำ ลงในกองเรือที่ 2</TR-Detail>
   </Quest>
   <Quest>
     <ID>107</ID>
     <JP-Name>「空母機動部隊」を編成せよ！</JP-Name>
-    <TR-Name>A12: Form a Carrier Task Force</TR-Name>
+    <TR-Name>A12: จัดกองเรือบรรทุกเครื่องบิน</TR-Name>
     <JP-Detail>空母1隻以上を旗艦とし、その護衛艦艇と共に、空母機動部隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have a CV/CVL as a flagship and 3 DD in your main fleet.</TR-Detail>
+    <TR-Detail>จัดกองเรือให้ CV หรือ CVL 1 ลำ และ DD 3 ลำ ลงในกองเรือที่ 2</TR-Detail>
   </Quest>
   <Quest>
     <ID>108</ID>
     <JP-Name>「天龍」型軽巡姉妹の全２艦を編成せよ！</JP-Name>
-    <TR-Name>A8: Form a Tenryuu-class Fleet</TR-Name>
+    <TR-Name>A8: จัดกองเรือชั้นเทนริว</TR-Name>
     <JP-Detail>天龍型軽巡洋艦「天龍」「龍田」を同一艦隊に配属せよ！</JP-Detail>
-    <TR-Detail>Have Tenryuu (天龍) and Tatsuta (龍田) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ เทนริว (天龍) และ ทัตสึตะ (龍田) ลงในหองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>109</ID>
     <JP-Name>「川内」型軽巡姉妹の全３艦を編成せよ！</JP-Name>
-    <TR-Name>A14: Form a Sendai-class Fleet</TR-Name>
+    <TR-Name>A14: จัดกองเรือชั้นเซนได</TR-Name>
     <JP-Detail>川内型軽巡洋艦「川内」「神通」「那珂」を同一艦隊に配属せよ！</JP-Detail>
-    <TR-Detail>Have Sendai (川内), Jintsuu (神通) and Naka (那珂) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ เซนได (川内), จินซือ (神通), นากะ (那珂) ลำลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>110</ID>
     <JP-Name>「妙高」型重巡姉妹の全４隻を編成せよ！</JP-Name>
-    <TR-Name>A15: Form a Myoukou-class Fleet</TR-Name>
+    <TR-Name>A15: จัดกองเรือชั้นเมียวโค</TR-Name>
     <JP-Detail>妙高型重巡洋艦「妙高」「那智」「足柄」「羽黒」を同一艦隊に配属せよ！</JP-Detail>
-    <TR-Detail>Have Myoukou (妙高), Nachi (那智), Ashigara (足柄) and Haguro (羽黒) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ เมียวโค (妙高), นาจิ (那智), อาชิงาระ (足柄), ฮากุโระ (羽黒) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>111</ID>
     <JP-Name>「扶桑」型戦艦姉妹の全２隻を編成せよ！</JP-Name>
-    <TR-Name>A17: Form a Fusou-class Fleet</TR-Name>
+    <TR-Name>A17: จัดกองเรือชั้นฟุโซ</TR-Name>
     <JP-Detail>扶桑型戦艦「扶桑」「山城」を同一艦隊に配属せよ！</JP-Detail>
-    <TR-Detail>Have Fusou (扶桑) and Yamashiro (山城) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุโซ (扶桑) และ ยามาชิโระ (山城) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>112</ID>
