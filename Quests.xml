@@ -423,9 +423,9 @@
    <Quest>
     <ID>201</ID>
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
-    <TR-Name>Bd1: ชัยชนะครั้งแรก</TR-Name>
+    <TR-Name>Bd1: ออกรบ 1</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>ส่งกองเรือออกรบให้ชนะ 1 ครั้ง</TR-Detail>
+    <TR-Detail>จมกองเรือศัตรู</TR-Detail>
   </Quest>
   <Quest>
     <ID>202</ID>
@@ -444,303 +444,303 @@
   <Quest>
     <ID>204</ID>
     <JP-Name>南西諸島沖に出撃せよ！</JP-Name>
-    <TR-Name>B4: Sortie to the Sea Around Nansei Islands</TR-Name>
+    <TR-Name>B4: ปฏิบัติการสู่ชายฝั่งเกาะนันเซอิ</TR-Name>
     <JP-Detail>南西諸島沖に艦隊を出撃させ、敵艦隊と交戦せよ！</JP-Detail>
-    <TR-Detail>Sortie to World 1-2 and clear the stage.</TR-Detail>
+    <TR-Detail>ส่งกองเรือไปรบด่าน 1-2 จนจบด่าน</TR-Detail>
   </Quest>
   <Quest>
     <ID>205</ID>
     <JP-Name>接近する「敵前衛艦隊」を迎撃せよ！</JP-Name>
-    <TR-Name>B5: Intercept Approaching Enemy Vanguard Fleet</TR-Name>
+    <TR-Name>B5: ขัดขวางกองทัพเรือศัตรูที่ใกล้เข้ามา</TR-Name>
     <JP-Detail>南西諸島沖に接近する「敵前衛艦隊」を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie to World 1-2 AGAIN and clear the stage.</TR-Detail>
+    <TR-Detail>ส่งกองเรือไปรบด่าน 1-2 อีกครั้ง และ ชนะบอสให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>206</ID>
     <JP-Name>「水雷戦隊」で出撃せよ！</JP-Name>
-    <TR-Name>B6: Sortie a Torpedo Squadron</TR-Name>
+    <TR-Name>B6: ปฏิบัติการกองเรือตอปิโด</TR-Name>
     <JP-Detail>軽巡洋艦1隻を旗艦とし、複数の駆逐艦からなる水雷戦隊で出撃せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with a CL as flagship and 3 DD as escorts.</TR-Detail>
+    <TR-Detail>ตั้งเรือ CL เป็นเรือธง และ DD 3 ลำ ไปออกรบ</TR-Detail>
   </Quest>
   <Quest>
     <ID>207</ID>
     <JP-Name>「重巡洋艦」を出撃させよ！</JP-Name>
-    <TR-Name>B7: Sortie a Heavy Cruiser</TR-Name>
+    <TR-Name>B7: ปฏิบัติการกองเรือลาดตะเวนหนัก</TR-Name>
     <JP-Detail>重巡洋艦を旗艦とした艦隊を編成、これを出撃させよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with a CA as flagship.</TR-Detail>
+    <TR-Detail>ตั้งเรือ CA เป็นเรือธง และ ออกไปรบ</TR-Detail>
   </Quest>
   <Quest>
     <ID>208</ID>
     <JP-Name>「戦艦」を出撃させよ！</JP-Name>
-    <TR-Name>B8: Sortie a Battleship</TR-Name>
+    <TR-Name>B8: ปฏิบัติการกองเรือประจัญบาน</TR-Name>
     <JP-Detail>海上の覇者、戦艦を旗艦とした艦隊を編成、これを出撃させよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with a BB (slow or fast, BBV don't count) as flagship.</TR-Detail>
+    <TR-Detail>ตั้งเรือ BB เป็นเรือธง และ ออกไปรบ (เรือ BBV ไม่สามารถใช้แทนได้)</TR-Detail>
   </Quest>
   <Quest>
     <ID>209</ID>
     <JP-Name>「空母機動部隊」出撃せよ！</JP-Name>
-    <TR-Name>B9: Sortie a Carrier Task Force</TR-Name>
+    <TR-Name>B9: ปฏิบัติการกองเรือบรรทุกเครื่องบิน</TR-Name>
     <JP-Detail>空母1隻とその護衛艦艇で構成した空母機動部隊を出撃させよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with CV/CVL as flagship and 5 DD/CL/AV.</TR-Detail>
+    <TR-Detail>ตั้งเรือ CVL เป็นเรือธง และ เรือที่เหลือ 5 ลำต้องเป็น CL, DD, AV เท่านั้น</TR-Detail>
   </Quest>
   <Quest>
     <ID>210</ID>
     <JP-Name>敵艦隊を10回邀撃せよ！</JP-Name>
-    <TR-Name>Bd3: Defeat 10 Enemy Fleets</TR-Name>
+    <TR-Name>Bd3: ออกรบ 3</TR-Name>
     <JP-Detail>艦隊全力出撃！遊弋する敵艦隊を10回邀撃せよ！</JP-Detail>
-    <TR-Detail>Score 10 victories against any enemy fleets.</TR-Detail>
+    <TR-Detail>จมกองเรือศัตรู ให้ได้ Rank B ขึ้นไป จำนวน 10 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>211</ID>
     <JP-Name>敵空母を３隻撃沈せよ！</JP-Name>
-    <TR-Name>Bd4: Sink 3 Enemy Carriers</TR-Name>
+    <TR-Name>Bd4: ออกรบ 4</TR-Name>
     <JP-Detail>艦隊の脅威となる敵空母群。これを捕捉撃滅し、3隻轟沈せよ！</JP-Detail>
-    <TR-Detail>Sink 3 enemy aircraft carriers (CV/CVL).</TR-Detail>
+    <TR-Detail>จมเรือ CV หรือ CVL ของศัตรู จำนวน 3 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>212</ID>
     <JP-Name>敵輸送船団を叩け！</JP-Name>
-    <TR-Name>Bd6: Strike the Enemy Transports</TR-Name>
+    <TR-Name>Bd6: ออกรบ 6</TR-Name>
     <JP-Detail>敵の輸送船5隻以上を撃沈し、敵の補給路を寸断せよ！</JP-Detail>
-    <TR-Detail>Sink 5 enemy transport ships.</TR-Detail>
+    <TR-Detail>จมเรือ AP (เรือขนส่ง) จำนวน 5 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>213</ID>
     <JP-Name>海上通商破壊作戦</JP-Name>
-    <TR-Name>Bw3: Disrupt the Marine Trade</TR-Name>
+    <TR-Name>Bw3: ออกรบ 3</TR-Name>
     <JP-Detail>1週間で敵輸送船を20隻以上撃沈せよ！</JP-Detail>
-    <TR-Detail>Sink 20 enemy transport ships.</TR-Detail>
+    <TR-Detail>จมเรือ AP (เรือขนส่ง) จำนวน 20 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>214</ID>
     <JP-Name>あ号作戦</JP-Name>
-    <TR-Name>Bw1: Operation A-Go</TR-Name>
+    <TR-Name>Bw1: ออกรบ 1</TR-Name>
     <JP-Detail>1週間の全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！</JP-Detail>
-    <TR-Detail>Sortie your fleet 36 times, encounter 24 bosses, defeat 12 bosses and get 6 Perfect S rank victories.</TR-Detail>
+    <TR-Detail>ไปออกรบ 36 ครั้ง, สู้บอส 24 ครั้ง, ชนะบอส 12 ครั้ง, และชนะบอสให้ได้ Perfect Rank S จำนวน 6 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>215</ID>
     <JP-Name>第２艦隊、出撃せよ！</JP-Name>
-    <TR-Name>B3: Second Fleet's Deployment</TR-Name>
+    <TR-Name>B3: ปฏิบัติการกองเรือทีม 2</TR-Name>
     <JP-Detail>新たに編成した「第２艦隊」を出撃させよ！</JP-Detail>
-    <TR-Detail>Sortie your 2nd Fleet on a combat mission.</TR-Detail>
+    <TR-Detail>ส่งกองเรือที่ 2 ไปออกรบ</TR-Detail>
   </Quest>
   <Quest>
     <ID>216</ID>
     <JP-Name>敵艦隊主力を撃滅せよ！</JP-Name>
-    <TR-Name>Bd2: Sink an Enemy Flagship</TR-Name>
+    <TR-Name>Bd2: ออกรบ 2</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵艦隊「主力」を捕捉！これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Sink a flagship of any enemy fleet.</TR-Detail>
+    <TR-Detail>จมเรือธงของกองเรือศัตรู</TR-Detail>
   </Quest>
   <Quest>
     <ID>217</ID>
     <JP-Name>敵空母を撃沈せよ！</JP-Name>
-    <TR-Name>B10: Sink an Enemy Carrier</TR-Name>
+    <TR-Name>B10: จมเรือบรรทุกเครื่องบินของศัตรู</TR-Name>
     <JP-Detail>敵機動部隊を捕捉し、これを邀撃、敵空母を轟沈せよ！</JP-Detail>
-    <TR-Detail>Sink an enemy aircraft carrier (CV/CVL).</TR-Detail>
+    <TR-Detail>จมเรือบรรทุกเครื่องบินของศัตรู 1 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>218</ID>
     <JP-Name>敵補給艦を3隻撃沈せよ！</JP-Name>
-    <TR-Name>Bd5: Sink 3 Transport Ships</TR-Name>
+    <TR-Name>Bd5: ออกรบ 5</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵補給艦を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Sink 3 enemy transport ships.</TR-Detail>
+    <TR-Detail>จมเรือ AP (เรือขนส่ง) จำนวน 3 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>219</ID>
     <JP-Name>「三川艦隊」出撃せよ！</JP-Name>
-    <TR-Name>B11: Sortie the Mikawa Fleet</TR-Name>
+    <TR-Name>B11: ปฏิบัติการกองเรือมิคาวะ</TR-Name>
     <JP-Detail>新編成した「三川艦隊」で出撃せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Choukai (鳥海), Aoba (青葉), Kako (加古), Furutaka (古鷹), Tenryuu (天龍) and another fast ship.</TR-Detail>
+    <TR-Detail>จัดเรือ โจไค, ฟุรุทากะ, คาโกะ, อาโอบะ, เทนริว, และเรือเร็วอีก 1 ลำ ไปออกรบ (BB กับ CV ไม่สามารถใช้แทนได้)</TR-Detail>
   </Quest>
   <Quest>
     <ID>220</ID>
     <JP-Name>い号作戦</JP-Name>
-    <TR-Name>Bw2: Operation I-Go</TR-Name>
+    <TR-Name>Bw2: ออกรบ 2</TR-Name>
     <JP-Detail>有力な母艦航空隊で1週間の全力出撃を行い、可能な限り多くの敵空母を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sink 20 enemy aircraft carriers (CV/CVL).</TR-Detail>
+    <TR-Detail>จมเรือ CV หรือ CVL จำนวน 20 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>221</ID>
     <JP-Name>ろ号作戦</JP-Name>
-    <TR-Name>Bw4: Operation Ro-Go</TR-Name>
+    <TR-Name>Bw4: ออกรบ 4</TR-Name>
     <JP-Detail>1週間の全力出撃を行い、敵輸送船団を捕捉・撃滅、敵の補給路を寸断せよ！</JP-Detail>
-    <TR-Detail>Sink 50 enemy transport ships.</TR-Detail>
+    <TR-Detail>จมเรือ AP (เรือขนส่ง) จำนวน 50 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>222</ID>
     <JP-Name>「第六駆逐隊」出撃せよ！</JP-Name>
-    <TR-Name>B12: Sortie the 6th Destroyer Division</TR-Name>
+    <TR-Name>B12: ปฏิบัติการกองเรือพิฆาตที่ 6</TR-Name>
     <JP-Detail>「暁」「響」「雷」「電」による第六駆逐隊、出撃せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with ONLY Akatsuki (暁), Hibiki (響), Inazuma (電), and Ikazuchi (雷).</TR-Detail>
+    <TR-Detail>จัดเรือ อาคัทสึกิ, ฮิบิกิ (หรือเวลนุยก็ได้), อินาซึมะ, อิคาซึจิ ไปออกรบ</TR-Detail>
   </Quest>
   <Quest>
     <ID>223</ID>
     <JP-Name>「第四戦隊」出撃せよ！</JP-Name>
-    <TR-Name>B13: Sortie the 4th Cruiser Division</TR-Name>
+    <TR-Name>B13: ปฏิบัติการกองเรือลาดตะเวนหนักที่ 4</TR-Name>
     <JP-Detail>「愛宕」「高雄」「鳥海」「摩耶」を基幹とする第四戦隊で、バシー島沖の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Atago (愛宕), Takao (高雄), Choukai (鳥海), Maya (摩耶) and any 2 ships. Score a victory against World 2-2 Boss.</TR-Detail>
+    <TR-Detail>จัดเรือ อาตาโกะ, ทาคาโอะ, โจไค, มายะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 2-2 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>224</ID>
     <JP-Name>「西村艦隊」出撃せよ！</JP-Name>
-    <TR-Name>B14: Sortie the Nishimura Fleet</TR-Name>
+    <TR-Name>B14: ปฏิบัติการกองเรือนิชิมุระ</TR-Name>
     <JP-Detail>「扶桑」「山城」「最上」「時雨」を基幹とする西村艦隊で、オリョール海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Fusou (扶桑改二), Yamashiro (山城改二), Mogami (最上), Shigure (時雨) and any 2 ships. Score a victory against World 2-3 Boss.</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุโซ, ยามาชิโระ, โมกามิ, ชิงุเระ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 2-3 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>225</ID>
     <JP-Name>「第五航空戦隊」出撃せよ！</JP-Name>
-    <TR-Name>B15: Sortie the 5th Carrier Division</TR-Name>
+    <TR-Name>B15: ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 5</TR-Name>
     <JP-Detail>「翔鶴」「瑞鶴」を基幹とする第五航空戦隊で、北方海域モーレイ海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Shoukaku (翔鶴), Zuikaku (瑞鶴) and any 4 ships. Score a victory against World 3-1 Boss.</TR-Detail>
+    <TR-Detail>จัดเรือ โชคาคุ, ซุยคาคุ และอะไรก็ได้อีก 4 ลำ ไปชนะบอสด่าน 3-1 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>226</ID>
     <JP-Name>南西諸島海域の制海権を握れ！</JP-Name>
-    <TR-Name>Bd7: Gain Control of the Nansei Islands</TR-Name>
+    <TR-Name>Bd7: ออกรบ 7</TR-Name>
     <JP-Detail>艦隊を南西諸島海域に全力出撃させ、多数の敵艦隊「主力」群を捕捉、撃滅せよ！</JP-Detail>
-    <TR-Detail>Defeat 5 bosses in World 2.</TR-Detail>
+    <TR-Detail>ชนะบอสใน World-2 จำนวน 5 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>227</ID>
     <JP-Name>新「三川艦隊」出撃せよ！</JP-Name>
-    <TR-Name>B16: Sortie the New Mikawa Fleet</TR-Name>
+    <TR-Name>B16: ปฏิบัติการกองเรือมิคาวะ (ใหม่)</TR-Name>
     <JP-Detail>完全編成した「三川艦隊」をもって、オリョール海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Choukai (鳥海), Aoba (青葉), Kinugasa (衣笠), Kako (加古), Furutaka (古鷹) and Tenryuu (天龍). Score a victory against World 2-3 Boss.</TR-Detail>
+    <TR-Detail>จัดเรือ โจไค, อาโอบะ, คินุกาสะ, คาโกะ, ฟุรุทากะ, เทนริว ไปชนะบอสด่าน 2-3 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>228</ID>
     <JP-Name>海上護衛戦</JP-Name>
-    <TR-Name>Bw5: Maritime Escort Operation</TR-Name>
+    <TR-Name>Bw5: ออกรบ 5</TR-Name>
     <JP-Detail>有力な対潜能力を持つ海上護衛隊によって、可能な限り多くの敵潜水艦を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sink 15 enemy submarines.</TR-Detail>
+    <TR-Detail>จมเรือ SS จำนวน 15 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>229</ID>
     <JP-Name>敵東方艦隊を撃滅せよ！</JP-Name>
-    <TR-Name>Bw6: Eliminate the Enemy's Eastern Fleet</TR-Name>
+    <TR-Name>Bw6: ออกรบ 6</TR-Name>
     <JP-Detail>西方海域に出撃し、敵東方艦隊の主力を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Defeat 12 bosses in World 4.</TR-Detail>
+    <TR-Detail>ชนะบอสใน World-4 จำนวน 12 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>230</ID>
     <JP-Name>敵潜水艦を制圧せよ！</JP-Name>
-    <TR-Name>Bd8: Suppress the Enemy Submarines</TR-Name>
+    <TR-Name>Bd8: ออกรบ 8</TR-Name>
     <JP-Detail>対潜能力の充実した艦隊で出撃、敵潜水艦狩りを実施せよ！</JP-Detail>
-    <TR-Detail>Sink 6 enemy submarines.</TR-Detail>
+    <TR-Detail>จมเรือดำน้ำ (SS) จำนวน 6 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>231</ID>
     <JP-Name>「潜水艦隊」出撃せよ！</JP-Name>
-    <TR-Name>B17: Sortie a Submarine Fleet</TR-Name>
+    <TR-Name>B17: ปฏิบัติการกองเรือดำน้ำ</TR-Name>
     <JP-Detail>伊号潜水艦2隻からなる潜水艦隊でオリョール海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with 2 SS and 4 additional ships. Score a victory against World 2-3 Boss.</TR-Detail>
+    <TR-Detail>จัดเรือ SS 2 ลำ และอะไรก็ได้อีก 4 ลำ ไปชนะบอสด่าน 2-3 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>232</ID>
     <JP-Name>「航空水上打撃艦隊」出撃せよ！</JP-Name>
-    <TR-Name>B18: Sortie a Naval Aviation Strike Fleet</TR-Name>
+    <TR-Name>B18: ปฏิบัติการกองเรือบรรทุกเครื่องบินทะเล</TR-Name>
     <JP-Detail>航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊でカレー洋の制海権を握れ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with 2 BBV, 2 CAV and 2 additional ships. Score a victory against World 4-2 Boss.</TR-Detail>
+    <TR-Detail>จัดเรือ BBV 2 ลำ, CAV 2 ลำ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 4-2 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>233</ID>
     <JP-Name>「第六戦隊」出撃せよ！</JP-Name>
-    <TR-Name>B19: Sortie the 6th Cruiser Division</TR-Name>
+    <TR-Name>B19: ปฏิบัติการกองเรือลาดตะเวนหนักที่ 6</TR-Name>
     <JP-Detail>編成した「第六戦隊」をもって出撃し、オリョール海の敵を撃滅「完全勝利」せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Furutaka (古鷹), Kako (加古), Kinugasa (衣笠), Aoba (青葉) and 2 additional ships. Score a S rank victory against World 2-3 Boss.</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุรุทากะ, คาโกะ, คินุกาสะ, อาโอบะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>239</ID>
     <JP-Name>「第八駆逐隊」出撃せよ！</JP-Name>
-    <TR-Name>B20: Sortie the 8th Destroyer Division</TR-Name>
+    <TR-Name>B20: ปฏิบัติการกองเรือพิฆาตที่ 8</TR-Name>
     <JP-Detail>編成した「第八駆逐隊」を含む艦隊で出撃し、オリョール海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Asashio (朝潮), Michishio (満潮), Ooshio (大潮), Arashio (荒潮) and 2 additional ships. Score a victory against World 2-3 Boss.</TR-Detail>
+    <TR-Detail>จัดเรือ อาราชิโอะ, มิจิซิโอะ, โอชิโอะ, อาราชิโอะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 2-3 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>240</ID>
     <JP-Name>「第十八駆逐隊」出撃せよ！</JP-Name>
-    <TR-Name>B21: Sortie the 18th Destroyer Division</TR-Name>
+    <TR-Name>B21: ปฏิบัติการกองเรือพิฆาตที่ 18</TR-Name>
     <JP-Detail>編成した「第十八駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Kasumi (霞), Arare (霰), Kagerou (陽炎), Shiranui (不知火) and 2 additional ships. Score a victory against World 3-1 Boss.</TR-Detail>
+    <TR-Detail>จัดเรือ คาสุมิ, อาราเระ, คาเงโร่, ชิรานุอิ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 3-1 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>241</ID>
     <JP-Name>敵北方艦隊主力を撃滅せよ！</JP-Name>
-    <TR-Name>Bw7: Eliminate the Main Forces of the Enemy's Northern Fleet</TR-Name>
+    <TR-Name>Bw7: ออกรบ 7</TR-Name>
     <JP-Detail>北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Defeat 5 bosses in Worlds 3-3, 3-4 or 3-5.</TR-Detail>
+    <TR-Detail>ชนะบอสใน 3-3 หรือ 3-4 หรือ 3-5 จำนวน 5 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>242</ID>
     <JP-Name>敵東方中枢艦隊を撃破せよ！</JP-Name>
-    <TR-Name>Bw8: Crush the Core of the Eastern Fleet</TR-Name>
+    <TR-Name>Bw8: ออกรบ 8</TR-Name>
     <JP-Detail>西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！</JP-Detail>
-    <TR-Detail>Defeat World 4-4 boss.</TR-Detail>
+    <TR-Detail>ชนะบอส 4-4 จำนวน 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>243</ID>
     <JP-Name>南方海域珊瑚諸島沖の制空権を握れ！</JP-Name>
-    <TR-Name>Bw9: Seize Air Superiority in the South</TR-Name>
+    <TR-Name>Bw9: ออกรบ 9</TR-Name>
     <JP-Detail>南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を捕捉撃滅、これに完全勝利せよ！</JP-Detail>
-    <TR-Detail>Score two S rank victories at the boss node of World 5-2.</TR-Detail>
+    <TR-Detail>ชนะบอส 5-2 ให้ได้ Rank S จพนวน 2 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>244</ID>
     <JP-Name>「第三十駆逐隊(第一次)」出撃せよ！</JP-Name>
-    <TR-Name>B22: Sortie the 30th Destroyer Division (Gen.1)</TR-Name>
+    <TR-Name>B22: ปฏิบัติการกองเรือพิฆาตที่ 30 (Gen-1)</TR-Name>
     <JP-Detail>「第三十駆逐隊(第一次)」を含む艦隊で出撃し、キス島沖の主力艦隊と交戦せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet that consists of Mutsuki (睦月), Kisaragi (如月), Yayoi (弥生), Mochizuki (望月) and up to 2 additional DD to World 3-2 and encounter the boss. C rank or above is required.</TR-Detail>
+    <TR-Detail>จัดเรือ มุทสึกิ (睦月), คิซารากิ (如月), ยาโยอิ (弥生), โมจิสึกิ (望月) และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 3-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>245</ID>
     <JP-Name>式の準備！(最終)</JP-Name>
-    <TR-Name>WB01: In Preparation of Love (Final)</TR-Name>
+    <TR-Name>WB01: แต่งงานกับเรือที่รัก 4</TR-Name>
     <JP-Detail>練度の高い(Lv.90～99)第一艦隊旗艦で出撃し、オリョール海の暁に勝利を刻め！</JP-Detail>
-    <TR-Detail>Sortie a fleet with a high level (Lv.90~99) flagship to 2-3 obtain an S rank victory against the boss.</TR-Detail>
+    <TR-Detail>ตั้งเรือ Lv.90~99 ที่คุณรักเป็นเรือธง ไปชนะบอสให้ได้ Rank S ในด่าน 2-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>246</ID>
     <JP-Name>二人でする初めての任務！</JP-Name>
-    <TR-Name>WB02: Your First Mission Together</TR-Name>
+    <TR-Name>WB02: พาเรือที่รักไปทำภารกิจ</TR-Name>
     <JP-Detail>強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S rank victory against the boss.</TR-Detail>
+    <TR-Detail>ตั้งเรือ Lv.100+ ที่คุณแต่งงานเป็นเรือธง ไปชนะบอสให้ได้ Rank S ในด่าน 4-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>247</ID>
     <JP-Name>「航空戦艦」抜錨せよ！</JP-Name>
-    <TR-Name>B23: Sortie an Aviation Battleship Fleet</TR-Name>
+    <TR-Name>B23: ปฏิบัติการกองเรือประจัญบานบรรทุกเครื่องบิน</TR-Name>
     <JP-Detail>航空戦艦2隻を基幹とする艦隊で、西方海域カスガダマ島の敵勢力を撃破せよ！</JP-Detail>
-    <TR-Detail>Have 2 BBV ships in your main fleet and score a victory against World 4-4 Boss.</TR-Detail>
+    <TR-Detail>จัดเรือ BBV 2 ลำ และอะไรก็ได้อีก 4 ลำ ไปชนะบอสด่าน 4-4 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>248</ID>
     <JP-Name>「第三十駆逐隊」対潜哨戒！</JP-Name>
-    <TR-Name>B24: 30th Destroyer Division's Anti-Submarine Patrol</TR-Name>
+    <TR-Name>B24: กองเรือพิฆาตที่ 30 (กองลาดตะเวนต่อต้านเรือดำน้ำ)</TR-Name>
     <JP-Detail>「第三十駆逐隊(第二次)」は直ちに抜錨！鎮守府正面の対潜哨戒を実施せよ！</JP-Detail>
-    <TR-Detail>Sortie Mutsuki (睦月), Yayoi (弥生), Uzuki (卯月) and Mochizuki (望月) to World 1-5 and reach the boss, scoring at least a C rank.</TR-Detail>
+    <TR-Detail>จัดเรือ มุทสึกิ, ยาโยอิ, อุซึกิ, โมจิสึกิ ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 1-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>249</ID>
     <JP-Name>「第五戦隊」出撃せよ！</JP-Name>
-    <TR-Name>Bm1: Sortie the 5th Fleet</TR-Name>
+    <TR-Name>Bm1: ออกรบ 1</TR-Name>
     <JP-Detail>「第五戦隊」は沖ノ島沖の戦闘哨戒を実施、敵艦隊主力を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Myoukou (妙高), Nachi (那智) and Haguro (羽黒) to World 2-5. You may add 3 other ships. Score an S rank victory against the boss.</TR-Detail>
+    <TR-Detail>จัดเรือ เมียวโค, นาจิ, ฮากุโระ, และอะไรก็ได้อีก 3 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>250</ID>
     <JP-Name>新編「第二航空戦隊」出撃せよ！</JP-Name>
-    <TR-Name>B25: Sortie the 2nd Carrier Division</TR-Name>
+    <TR-Name>B25: ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 2</TR-Name>
     <JP-Detail>新編「二航戦」を基幹とした艦隊で、珊瑚諸島沖に出撃、敵機動部隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Hiryuu Kai2 (飛龍改二) as the flagship, Souryuu (蒼龍) and 2 DD to World 5-2. You may add 2 other ships. Score an S rank victory against the boss.</TR-Detail>
+    <TR-Detail>จัดเรือ ฮิริว ไคนิ (飛龍改二) เป็นเรือธง, โซริว (蒼龍) และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>251</ID>
     <JP-Name>精鋭「第二航空戦隊」抜錨せよ！</JP-Name>
-    <TR-Name>B26: Sortie the Elite 2nd Carrier Division</TR-Name>
+    <TR-Name>B26: ปฏิบัตการกองเรือบรรทุกเครื่องบินที่ 2 ออกรบอีกครั้ง</TR-Name>
     <JP-Detail>錬成を終え再編成「二航戦」を基幹とした艦隊で、敵リランカ島を空襲、破砕せよ！</JP-Detail>
-    <TR-Detail>Sortie Souryuu Kai2 (蒼龍改二) as the flagship, Hiryuu Kai2 (飛龍改二) and 2 DD to World 4-3. You may add 2 other ships. Score an S rank victory against the boss.</TR-Detail>
+    <TR-Detail>จัดเรือ โซริว ไคนิ (蒼龍改二) เป็นเรือธง, ฮิริว ไคนิ (飛龍改二), DD 2 ลำ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 4-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>252</ID>
