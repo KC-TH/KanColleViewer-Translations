@@ -3,9 +3,9 @@
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
-    <TR-Name>A1: First Formation</TR-Name>
+    <TR-Name>A1: จัดทีมครั้งแรก</TR-Name>
     <JP-Detail>２隻以上の艦で構成される「艦隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have 2 ships in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ 2 ลำลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>102</ID>
