@@ -745,233 +745,233 @@
   <Quest>
     <ID>252</ID>
     <JP-Name>戦艦「榛名」出撃せよ！</JP-Name>
-    <TR-Name>B27: Deploy a Fleet Led By Haruna</TR-Name>
+    <TR-Name>B27: ปฏิบัติการกองเรือฮารุนะ</TR-Name>
     <JP-Detail>第二次改装実施した「榛名」を基幹とした艦隊で「南方海域」へ進出、敵艦隊主力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Haruna Kai2 (榛名改二) as the flagship and up to 5 additional ships to World 5-1 and score an S rank victory against the boss.</TR-Detail>
+    <TR-Detail>จัดเรือ ฮารุนะ ไคนิ เป็นเรือธง และอะไรก็ได้อีก 5 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>253</ID>
     <JP-Name>「第六〇一航空隊」出撃せよ！</JP-Name>
-    <TR-Name>B28: Sortie the 601 Air Group</TR-Name>
+    <TR-Name>B28: ปฏิบัติการฝูงบิน 601</TR-Name>
     <JP-Detail>雲龍型航空母艦「雲龍改」含む機動部隊で珊瑚島沖に出撃、敵機動部隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Unryuu Kai (雲龍改) as the flagship to World 5-2 and score an S rank victory against the boss.</TR-Detail>
+    <TR-Detail>จัดเรือ อุนริว ไค เป็นเรือธง และอะไรก็ได้อีก 5 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>254</ID>
     <JP-Name>「軽空母」戦隊、出撃せよ！</JP-Name>
-    <TR-Name>B29: Sortie a Light Carrier Squadron</TR-Name>
+    <TR-Name>B29: ปฏิบัติการกองเรือบรรทุกเครื่องบินเบา</TR-Name>
     <JP-Detail>軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でカムラン半島の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet of 1-2 CVL, 1 CL and 3-4 DD to World 2-1 and score an S rank victory against the boss.</TR-Detail>
+    <TR-Detail>จัดเรือ CVL 1-2 ลำ, CL 1 ลำ, DD 3-4 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>255</ID>
     <JP-Name>「水雷戦隊」バシー島沖緊急展開</JP-Name>
-    <TR-Name>B30: Sortie a Torpedo Squadron to Bashi Islands</TR-Name>
+    <TR-Name>B30: ปฏิบัติการกองเรือตอปิโดที่เกาะบาชิ</TR-Name>
     <JP-Detail>軽巡を旗艦とした水雷戦隊(軽巡最大2隻他駆逐艦)でバシー島沖の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet of 1-2 CL (one as the flagship) and 4-5 DD to World 2-2. Score a victory at the boss and sink the enemy flagship.</TR-Detail>
+    <TR-Detail>จัดเรือ CL 1-2 ลำ เป็นเรือธง และ DD 4-5 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>256</ID>
     <JP-Name>「潜水艦隊」出撃せよ！</JP-Name>
-    <TR-Name>Bm2: Sortie a Submarine Fleet</TR-Name>
+    <TR-Name>Bm2: ออกรบ 2</TR-Name>
     <JP-Detail>潜水艦戦力を中核とした艦隊で中部海域哨戒線へ反復出撃、敵戦力を漸減せよ！</JP-Detail>
-    <TR-Detail>Sortie to World 6-1 and obtain an S rank victory at the boss node 3 times.</TR-Detail>
+    <TR-Detail>ชนะบอส 6-1 ให้ได้ Rank S จำนวน 3 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>257</ID>
     <JP-Name>「水雷戦隊」南西へ！</JP-Name>
-    <TR-Name>Bm3: Sortie a Torpedo Squadron</TR-Name>
+    <TR-Name>Bm3: ออกรบ 3</TR-Name>
     <JP-Detail>軽巡旗艦の水雷戦隊(軽巡最大3隻他駆逐艦)を急派、南西諸島防衛線で敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet of 1-3 CL (one as the flagship) and 3-5 DD to World 1-4. Score an S rank victory against the boss.</TR-Detail>
+    <TR-Detail>จัดเรือ CL 1-3 ลำ (ตั้ง CL ให้เป็นเรือธง 1 ลำ), ที่เหลือเป็น DD ทั้งหมด ไปชนะบอสให้ได้ Rank S ในด่าน 1-4</TR-Detail>
   </Quest>
   <Quest>
     <ID>258</ID>
     <JP-Name>「第二戦隊」抜錨！</JP-Name>
-    <TR-Name>B31: Sortie the 2nd Squadron</TR-Name>
+    <TR-Name>B31: ปฏิบัติการกองเรือที่ 2</TR-Name>
     <JP-Detail>「第二戦隊」を基幹とした艦隊でカレー洋に進出、反復出撃により敵海上兵力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Nagato (長門), Mutsu (陸奥), Fusou (扶桑), Yamashiro (山城) and up to 2 additional ships to World 4-2. Score two S rank victories at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ นางาโตะ, มุทสึ, ฟุโซ, ยามาชิโระ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 4-2 จำนวน 2 รอบ</TR-Detail>
   </Quest>
   <Quest>
     <ID>259</ID>
     <JP-Name>「水上打撃部隊」南方へ！</JP-Name>
-    <TR-Name>Bm4: Surface Strike Fleet, Onwards to the South!</TR-Name>
+    <TR-Name>Bm4: ออกรบ 4</TR-Name>
     <JP-Detail>戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie 3 BB/BBV (only slow battleships), 1 CL and up to 2 additional ships to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ BB (ช้า) 3 ลำ, CL 1 ลำ, และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>260</ID>
     <JP-Name>「戦艦部隊」北方海域に突入せよ！</JP-Name>
-    <TR-Name>B32: Sortie a Battleship Squadron to the Northern Sea</TR-Name>
+    <TR-Name>B32: ปฏิบัติการกองเรือประจัญบานในทะเลทางตอนเหนือ</TR-Name>
     <JP-Detail>戦艦2隻と直援軽空母1隻(正規空母無し)基幹の艦隊で北方AL海域に突入、敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie 2 BB (slow or fast, BBV don't count), 1 CVL and up to 3 additional ships to World 3-5 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ BB 2 ลำ (ห้ามใช้ BBV), CVL 1 ลำ และอะไรก็ได้อีก 3 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 3-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>261</ID>
     <JP-Name>海上輸送路の安全確保に努めよ！</JP-Name>
-    <TR-Name>Bw10: Secure the Marine Transportation Route</TR-Name>
+    <TR-Name>Bw10: ออกรบ 10</TR-Name>
     <JP-Detail>鎮守府正面の対潜哨戒を反復実施し、安全な海上輸送路を確保せよ！</JP-Detail>
-    <TR-Detail>Sortie to World 1-5 and score an A rank victory (or higher) at the boss node 3 times.</TR-Detail>
+    <TR-Detail>ชนะบอส 1-5 ให้ได้ Rank A ขึ้นไป จำนวน 3 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>262</ID>
     <JP-Name>「西村艦隊」南方海域へ進出せよ！</JP-Name>
-    <TR-Name>B33: Sortie the Nishimura Fleet to the Southern Waters</TR-Name>
+    <TR-Name>B33: ปฏิบัติการกองเรือนิชิมุระในทะเลทางตอนใต้</TR-Name>
     <JP-Detail>「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) (you may also add another ship) to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุโซ, ยามาชิโระ, โมกามิ, ชิงุเระ, มิจิซิโอะ และอะไรก็ได้อีก 1 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>263</ID>
     <JP-Name>「第六戦隊」南西海域へ出撃せよ！</JP-Name>
-    <TR-Name>B34: Sortie the 6th Squadron to the Southwestern Waters</TR-Name>
+    <TR-Name>B34: ปฏิบัติการกองเรือที่ 6 ในทะเลทางตะวันตกเฉียงใต้</TR-Name>
     <JP-Detail>「古鷹」「加古」「青葉」「衣笠」を基幹とした「第六戦隊」で、沖ノ島沖の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Furutaka (古鷹), Kako (加古), Aoba (青葉), Kinugasa (衣笠) and up to 2 additional ships to World 2-5 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุรุทากะ, คาโกะ, อาโอบะ, คินุกาสะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>264</ID>
     <JP-Name>「空母機動部隊」西へ！</JP-Name>
-    <TR-Name>Bm6: Carrier Task Force, Onwards to the West!</TR-Name>
+    <TR-Name>Bm6: ออกรบ 6</TR-Name>
     <JP-Detail>航空母艦2隻(随伴駆逐艦2隻)を基幹とする空母機動艦隊で、カレー洋の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet consisting of 2 CV/CVL, 2 DD and 2 additional ships to World 4-2. Score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ CV 2 ลำ, DD 2 ลำ, และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 4-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>265</ID>
     <JP-Name>海上護衛強化月間</JP-Name>
-    <TR-Name>Bm5: Monthly Escort Duty</TR-Name>
+    <TR-Name>Bm5: ออกรบ 5</TR-Name>
     <JP-Detail>鎮守府正面海域の対潜哨戒を強化し、敵潜水艦を制圧、安全な海上輸送体制を確立せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet to World 1-5 and score 10 A rank (or above) victories at the boss node.</TR-Detail>
+    <TR-Detail>ชนะบอส 1-5 ให้ได้ Rank A ขึ้นไป ในด่าน 1-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>266</ID>
     <JP-Name>「水上反撃部隊」突入せよ！</JP-Name>
-    <TR-Name>Bm7: Sortie the Counterattack Squadron</TR-Name>
+    <TR-Name>Bm7: ออกรบ 7</TR-Name>
     <JP-Detail>駆逐艦を旗艦とした重巡1隻軽巡1隻駆逐艦4隻からなる水上挺身部隊、沖ノ島沖に突入せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with a DD flagship, 1 CA, 1 CL and 3 more DD to World 2-5 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>ตั้งเรือ DD เป็นเรือธง 1 ลำ, CA 1 ลำ, CL 1 ลำ, และลำที่เหลือเป็น DD ไปชนะบอสให้ได้ Rank S ในด่าน 2-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>267</ID>
     <JP-Name>「第十一駆逐隊」出撃せよ！</JP-Name>
-    <TR-Name>B35: Sortie the 11th Destroyer Division</TR-Name>
+    <TR-Name>B35: ปฏิบัติการกองเรือพิฆาตที่ 11</TR-Name>
     <JP-Detail>「第十一駆逐隊」を含む艦隊で出撃し、オリョール海の敵を撃破せよ！</JP-Detail>
-    <TR-Detail>Sortie Fubuki (吹雪), Shirayuki (白雪), Hatsuyuki (初雪), Murakumo (叢雲) and up to 2 additional ships to World 2-3 and score a victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุบุกิ, ซิรายูกิ, ฮัทสึยูกิ, มุราคุโมะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสในด่าน 2-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>268</ID>
     <JP-Name>「第十一駆逐隊」対潜哨戒！</JP-Name>
-    <TR-Name>B36: 11th Destroyer Division's Anti-Submarine Patrol</TR-Name>
+    <TR-Name>B36: กองเรือพิฆาตที่ 11 (กองเรือลาดตะเวนต่อต้านเรือดำน้ำ)</TR-Name>
     <JP-Detail>「第十一駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！</JP-Detail>
-    <TR-Detail>Sortie Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪) and Murakumo (叢雲) to World 1-5 and get a score of at least C at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุบุกิ, ซิรายูกิ, ฮัทสึยูกิ, มุราคุโมะ ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 1-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>269</ID>
     <JP-Name>「第二一駆逐隊」出撃せよ！</JP-Name>
-    <TR-Name>B37: Sortie the 21st Destroyer Division</TR-Name>
+    <TR-Name>B37: ปฏิบัติการกองเรือพิฆาตที่ 21</TR-Name>
     <JP-Detail>「第二一駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Hatsuharu (初春), Nenohi (子日), Wakaba (若葉) and Hatsushimo (初霜) and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ ฮัทสึฮารุ , เนโนฮิ, วาคาบะ, ฮัทสึชิโมะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 3-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>270</ID>
     <JP-Name>「第二二駆逐隊」出撃せよ！</JP-Name>
-    <TR-Name>B39: Sortie the 22nd Destroyer Division</TR-Name>
+    <TR-Name>B39: ปฏิบัติการกองเรือพิฆาตที่ 22</TR-Name>
     <JP-Detail>「第二二駆逐隊」を含む艦隊で南西諸島防衛線に出撃、敵主力艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Satsuki (皐月), Fumizuki (文月), Nagatsuki (長月), 1 more DD and up to 2 additional ships to World 1-4 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ ซัทสึกิ, ฟุมิสึกิ, นางาสึกิ, DD 1 ลำ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 1-4</TR-Detail>
   </Quest>
   <Quest>
     <ID>271</ID>
     <JP-Name>「那智戦隊」抜錨せよ！</JP-Name>
-    <TR-Name>B38: Sortie Nachi's Squadron</TR-Name>
+    <TR-Name>B38: ปฏิบัติการกองเรือนาจิ</TR-Name>
     <JP-Detail>旗艦「那智」及び「初霜」「霞」「潮」「曙」他1隻の艦隊でバシー島沖の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Nachi (那智) as flagship, Hatsushimo (初霜), Kasumi (霞), Ushio (潮), Akebono (曙) and 1 additional ship to World 2-2 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>ตั้งเรือ นาจิ เป็นเรือธง, ฮัทสึชิโมะ, คาสุมิ, อุชิโอะ, อาเคโบโนะ และอะไรก็ได้อีก 1 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-2</TR-Detail>
   </Quest>
  <Quest>
     <ID>272</ID>
     <JP-Name>「改装防空重巡」出撃せよ！</JP-Name>
-    <TR-Name>B40: Sortie the Remodelled Anti-Aircraft Heavy Cruiser</TR-Name>
+    <TR-Name>B40: ปฏิบัติการกองเรือลาดตะเวนหนักต่อต้านอากาศยาน</TR-Name>
     <JP-Detail>摩耶改または摩耶改二及び軽巡1駆逐2隻を含む艦隊でオリョール海の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with Maya (摩耶) Kai or Kai2, 1 CL, 2 DD and up to 2 additional ships to World 2-3 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ มายะ, CL 1 ลำ, DD 2 ลำ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>273</ID>
     <JP-Name>新編「三川艦隊」ソロモン方面へ！</JP-Name>
-    <TR-Name>B41: Sortie the Mikawa Fleet to Solomon Islands</TR-Name>
+    <TR-Name>B41: ปฏิบัติการกองเรือมิคาวะที่เกาะโซโลม่อน</TR-Name>
     <JP-Detail>第一艦隊に編成した「三川艦隊」を南方海域に進出させ、同方面の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie the main fleet with Choukai Kai2 (鳥海改ニ) as the flagship and any 5 of Aoba (青葉), Kinugasa (衣笠), Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>ตั้งเรือ โจไค ไคนิ เป็นเรือธง, และเลือกเรือมา 5 ลำ จากรายการนี้ อาโอบะ, คินุกาสะ, คาโกะ, ฟุรุทากะ, เทนริว, ยูบาริ ไปชนะบอสให้ได้ Rank S ในด่าน 5-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>274</ID>
     <JP-Name>「第六駆逐隊」対潜哨戒なのです！</JP-Name>
-    <TR-Name>B42: 6th Destroyer Division's Anti-Submarine Patrol</TR-Name>
+    <TR-Name>B42: ปฏิบัติการกองเรือพิฆาตที่ 6 (ต่อต้านเรือดำน้ำ)</TR-Name>
     <JP-Detail>「第六駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！</JP-Detail>
-    <TR-Detail>Sortie Akatsuki (暁), Hibiki (響 or Верный), Inazuma (雷) and Ikazuchi (電) to World 1-5. At least C rank is required at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ อาคัทสึกิ, ฮิบิกิ (หรือเวลนุยก็ได้), อินาซึมะ, อิคาซึจิ ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 1-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>275</ID>
     <JP-Name>抜錨！「第十八戦隊」</JP-Name>
-    <TR-Name>B43: 18th Cruiser Division, Set Sail!</TR-Name>
+    <TR-Name>B43: ปฏิบัติการกองเรือที่ 18</TR-Name>
     <JP-Detail>「天龍」「龍田」を基幹戦力とした「第十八戦隊」で出撃し、オリョール海の敵主力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Tenryuu (天龍), Tatsuta (龍田) and 2 or more other ships to World 2-3 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ เทนริว, ทัตสึตะ, และอะไรก็ได้อีก 4 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>276</ID>
     <JP-Name>海上突入部隊、進発せよ！</JP-Name>
-    <TR-Name>B44: Sortie the Maritime Assault Fleet</TR-Name>
+    <TR-Name>B44: ปฏิบัติการกองเรือจู่โจมภาคพื้นน้ำ</TR-Name>
     <JP-Detail>「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方海域進出作戦を実施、敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Hiei (比叡), Kirishima (霧島), Nagara (長良), Akatsuki (暁), Ikazuchi (雷) and Inazuma (電) to World 5-1 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ ฮิเอย์, คิริชิมะ, นาการะ, อาคัทสึกิ, อิคาซึจิ, อินาซึมะ ไปชนะบอสให้ได้ Rank S ในด่าน 5-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>277</ID>
     <JP-Name>「第六駆逐隊」対潜哨戒を徹底なのです！</JP-Name>
-    <TR-Name>B45: 6th Destroyer Division's Thorough Anti-Submarine Patrol na no desu</TR-Name>
+    <TR-Name>B45: ปฏิบัติการอีกครั้งกองเรือพิฆาติที่ 6 (ต่อต้านเรือดำน้ำ)</TR-Name>
     <JP-Detail>「第六駆逐隊」を含む艦隊で鎮守府正面で対潜哨戒を実施、敵潜水艦部隊を痛打せよ！</JP-Detail>
-    <TR-Detail>Sortie Akatsuki Kai2 (暁改二) as the flagship, Hibiki (響 or Верный), Ikazuchi (雷) and Inazuma (電) to World 1-5 and score an A rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ อาคัทสึกิ ไคนิ, ฮิบิกิ (หรือเวลนุยก็ได้), อิคาซึจิ, อินาซึมะ ไปชนะบอสให้ได้ Rank A ขึ้นไป ในด่าน 1-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>278</ID>
     <JP-Name>「第一水雷戦隊」ケ号作戦、突入せよ！</JP-Name>
-    <TR-Name>B46: Sortie the 1st Torpedo Squadron on Operation Ke</TR-Name>
+    <TR-Name>B46: ปฏิบัติการกองเรือตอปิโดที่ 1 กับภาระกิจ KE</TR-Name>
     <JP-Detail>北方突入準備を完了した「一水戦」で北方キス島に突入！包囲網を破り、友軍を救出せよ！</JP-Detail>
-    <TR-Detail>Sortie Abukuma (阿武隈) as the flagship, Hibiki (響 or Верный), Hatsushimo (初霜), Wakaba (若葉), Samidare (五月雨) and Shimakaze (島風) to World 3-2 and score a victory at the boss node.</TR-Detail>
+    <TR-Detail>ตั้งเรือ อาบุคุมะ เป็นเรือธง, ฮิบิกิ (หรือเวลนุยก็ได้), ฮัทสึชิโมะ, วาคาบะ, ซามิดาเระ, ชิมะคาเซะ ไปชนะบอสให้ได้ Rank B ขึ้นไป ในด่าน 3-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>279</ID>
     <JP-Name>「第一水雷戦隊」北方ケ号作戦、再突入！</JP-Name>
-    <TR-Name>B47: Sortie the 1st Torpedo Squadron on Operation Ke Again</TR-Name>
+    <TR-Name>B47: ปฏิบัติการกองเรือตอปิโดที่ 1 กับภาระกิจ KE (อีกครั้ง)</TR-Name>
     <JP-Detail>北方再突入準備の新編「一水戦」で北方キス島に再突入を敢行、同撤収作戦を完遂せよ！</JP-Detail>
-    <TR-Detail>Sortie Abukuma Kai2 (阿武隈改二) as the flagship, Hibiki (響 or Верный), Yuugumo (夕雲), Naganami (長波), Akigumo (秋雲) and Shimakaze (島風) to World 3-2 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>ตั้งเรือ อาบุคุมะ ไคนิ เป็นเรือธง, ฮิบิกิ (หรือเวลนุยก็ได้), ยูกุโมะ, นากานามิ, อากิกุโมะ, ชิมะคาเซะ ไปชนะบอสให้ได้ Rank S ในด่าน 3-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>285</ID>
     <JP-Name>「空母機動部隊」北方海域に進出せよ！</JP-Name>
-    <TR-Name>B49: Sortie an Aircraft Carrier Task Force to the Aleutian Islands</TR-Name>
+    <TR-Name>B49: กองเรือบรรทุกเครื่องบินมุงหน้าสู่ทะเลทางตอนเหนือ!</TR-Name>
     <JP-Detail>航空母艦を旗艦とした空母機動部隊を北方AL海域方面に展開、敵戦力を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie a fleet with an CV flagship to World 3-5 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ CV เป็นเรือธง, และอะไรก็ได้อีก 5 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 3-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>286</ID>
     <JP-Name>鎮守府正面の対潜哨戒を強化せよ！</JP-Name>
-    <TR-Name>B48: Strengthen the Anti-Submarine Patrol in Front of the Naval Base</TR-Name>
+    <TR-Name>B48: เสริมความแข็งแกร่งทีมเรือลาดตะเวนต่อต้านเรือดำน้ำของฐานทัพเรือ</TR-Name>
     <JP-Detail>鎮守府正面の対潜哨戒を強化し、海上資源輸送路の安全を確立せよ！</JP-Detail>
-    <TR-Detail>Sortie to World 1-5 and score 4 victories at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือไปชนะบอสให้ได้ Rank B ขึ้นไปในด่าน 1-5 จำนวน 4 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>287</ID>
     <JP-Name>「第五航空戦隊」珊瑚諸島沖に出撃せよ！</JP-Name>
-    <TR-Name>B50: Sortie the 5th CarDiv to the South</TR-Name>
+    <TR-Name>B50: ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 5 ที่หมู่เกาะ Coral</TR-Name>
     <JP-Detail>再編成した「第五航空戦隊」を珊瑚諸島沖に展開、敵機動部隊を捕捉撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Shoukaku (翔鶴), Zuikaku (瑞鶴), Oboro (朧), Akigumo (秋雲) and up to 2 additional ships to World 5-2 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ โชคาคุ (翔鶴), ซุยคาคุ (瑞鶴), โอโบโระ (朧), อากิกุโมะ (秋雲) และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>288</ID>
     <JP-Name>新編「第二一戦隊」北方へ出撃せよ！</JP-Name>
-    <TR-Name>B51: Sortie the New 21st Cruiser Division</TR-Name>
+    <TR-Name>B51: ปฏิบัติการกองเรือที่ 21 ทางเหนือ</TR-Name>
     <JP-Detail>新編「第二一戦隊」を基幹とする艦隊で北方海域モーレイ海に出撃、敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Nachi Kai2 (那智改二), Ashigara Kai2 (足柄改二), Tama (多摩), Kiso (木曾) and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ นาจิ ไคนิ (那智改二), อาชิงาระ ไคนิ (足柄改二), ทามะ (多摩), คิโสะ (木曾) และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 3-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>289</ID>
     <JP-Name>「第十六戦隊(第一次)」出撃せよ！</JP-Name>
-    <TR-Name>B52: Sortie the 16th Squadron (1st Gen.)</TR-Name>
+    <TR-Name>B52: ปฏิบัติการกองเรือลาดตระเวนที่ 16 รุ่นใหม่</TR-Name>
     <JP-Detail>「第十六戦隊(第一次)」をバシー島沖に展開、敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie Ashigara (足柄) as the flagship, Kuma (球磨), Nagara (長良) and up to 3 additional ships to World 2-2 and score an S rank victory at the boss node.</TR-Detail>
+    <TR-Detail>จัดเรือ อาชิงาระ (足柄) เป็นเรือธง, คุมะ (球磨), นาการะ (長良) ไปชนะบอสให้ได้ Rank S ในด่าน 2-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
