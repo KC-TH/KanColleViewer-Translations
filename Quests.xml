@@ -976,400 +976,400 @@
   <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
-    <TR-Name>C1: Your First Exercise</TR-Name>
+    <TR-Name>C1: ซ้อมรบครั้งแรก</TR-Name>
     <JP-Detail>他の提督(プレイヤー)の艦隊と「演習」を行おう！</JP-Detail>
-    <TR-Detail>Challenge another fleet in exercises.</TR-Detail>
+    <TR-Detail>ซ้อมรบ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>302</ID>
     <JP-Name>大規模演習</JP-Name>
-    <TR-Name>C4w: Large-scale Exercises</TR-Name>
+    <TR-Name>C4w: ซ้อมรบ 3</TR-Name>
     <JP-Detail>今週中に「演習」で他の提督の艦隊に対して20回「勝利」しよう！</JP-Detail>
-    <TR-Detail>Get 20 victories in exercises within the same week.</TR-Detail>
+    <TR-Detail>ชนะซ้อมรบ 20 ครั้ง ใน 1 สัปดาห์</TR-Detail>
   </Quest>
   <Quest>
     <ID>303</ID>
     <JP-Name>「演習」で練度向上！</JP-Name>
-    <TR-Name>C2d1: Do Exercises</TR-Name>
+    <TR-Name>C2d1: ซ้อมรบ 1</TR-Name>
     <JP-Detail>本日中に他の司令官の艦隊に対して3回「演習」を挑もう！</JP-Detail>
-    <TR-Detail>Challenge 3 other fleets in exercises within the same day.</TR-Detail>
+    <TR-Detail>ซ้อมรบ 3 ครั้ง (แพ้หรือชนะก็ได้)</TR-Detail>
   </Quest>
   <Quest>
     <ID>304</ID>
     <JP-Name>「演習」で他提督を圧倒せよ！</JP-Name>
-    <TR-Name>C3d2: Defeat Other Admirals</TR-Name>
+    <TR-Name>C3d2: ซ้อมรบ 2</TR-Name>
     <JP-Detail>本日中に他の司令官の艦隊との「演習」で5回以上「勝利」をおさめよう！</JP-Detail>
-    <TR-Detail>Get 5 victories in exercises within the same day.</TR-Detail>
+    <TR-Detail>ชนะซ้อมรบ 5 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>306</ID>
     <JP-Name>式の準備！(その弐)</JP-Name>
-    <TR-Name>WC01: In Preparation of Love (Part 2)</TR-Name>
+    <TR-Name>WC01: แต่งงานกับเรือที่รัก 2</TR-Name>
     <JP-Detail>本日中に「演習」で2回以上「勝利」をおさめ、式への気持ちを整理しよう！</JP-Detail>
-    <TR-Detail>Show your love by getting 2 victories in exercises.</TR-Detail>
+    <TR-Detail>แสดงความรักที่คุณมีให้กับเรือ โดยการชนะการซ้อมรบ 2 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>307</ID>
     <JP-Name>艦隊の練度向上に努めよ！</JP-Name>
-    <TR-Name>C5: Improve the Efficiency of the Fleet</TR-Name>
+    <TR-Name>C5: ซ้อมรบเสริม 1</TR-Name>
     <JP-Detail>作戦前に艦隊の練度向上を図る！本日中に「演習」で3回以上「勝利」をおさめよう！</JP-Detail>
-    <TR-Detail>Get 3 victories in exercises within the same day.</TR-Detail>
+    <TR-Detail>ชนะซ้อมรบ 3 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>308</ID>
     <JP-Name>演習を強化、艦隊の練度向上に努めよ！</JP-Name>
-    <TR-Name>C6: Improve the Efficiency of the Fleet Again</TR-Name>
+    <TR-Name>C6: ซ้อมรบเสริม 2</TR-Name>
     <JP-Detail>艦隊のさらなる練度向上を図る！本日中に「演習」で4回以上「勝利」をおさめよう！</JP-Detail>
-    <TR-Detail>Get 4 victories in exercises within the same day.</TR-Detail>
+    <TR-Detail>ชนะซ้อมรบ 4 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>309</ID>
     <JP-Name>北方再突入に備え、練度向上に努めよ！</JP-Name>
-    <TR-Name>C7: Prepare for the Second Iteration of Operation Ke</TR-Name>
+    <TR-Name>C7: ซ้อมรบเสริม 3</TR-Name>
     <JP-Detail>艦隊再突入に備え、艦隊練度向上を図る！本日中に「演習」で4回以上「勝利」せよ！</JP-Detail>
-    <TR-Detail>Get 4 victories in exercises within the same day.</TR-Detail>
+    <TR-Detail>ชนะซ้อมรบ 4 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>311</ID>
     <JP-Name>精鋭艦隊演習</JP-Name>
-    <TR-Name>C8m: Exercises for the Elite</TR-Name>
+    <TR-Name>C8m: ซ้อมรบเสริม 4</TR-Name>
     <JP-Detail>同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！</JP-Detail>
-    <TR-Detail>Get 7 victories in exercises within the same day.</TR-Detail>
+    <TR-Detail>ชนะซ้อมรบ 7 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>401</ID>
     <JP-Name>はじめての「遠征」！</JP-Name>
-    <TR-Name>D1: First Expedition</TR-Name>
+    <TR-Name>D1: ส่งสำรวจครั้งแรก</TR-Name>
     <JP-Detail>艦隊を「遠征」に出発させよう！</JP-Detail>
-    <TR-Detail>Perform an expedition.</TR-Detail>
+    <TR-Detail>ส่งสำรวจจำนวน 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>402</ID>
     <JP-Name>「遠征」を３回成功させよう！</JP-Name>
-    <TR-Name>D2d1: Complete 3 Expeditions</TR-Name>
+    <TR-Name>D2d1: สำรวจ 1</TR-Name>
     <JP-Detail>本日中に「遠征」３回成功させよう！</JP-Detail>
-    <TR-Detail>Perform 3 successful expeditions within the same day.</TR-Detail>
+    <TR-Detail>ส่งสำรวจให้สำเร็จ 3 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>403</ID>
     <JP-Name>「遠征」を１０回成功させよう！</JP-Name>
-    <TR-Name>D3d2: Complete 10 Expeditions</TR-Name>
+    <TR-Name>D3d2: สำรวจ 2</TR-Name>
     <JP-Detail>本日中に「遠征」10回成功させよう！</JP-Detail>
-    <TR-Detail>Perform 10 successful expeditions within the same day.</TR-Detail>
+    <TR-Detail>ส่งสำรวจให้สำเร็จ 10 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>404</ID>
     <JP-Name>大規模遠征作戦、発令！</JP-Name>
-    <TR-Name>D4w1: Large-scale Expedition Operation</TR-Name>
+    <TR-Name>D4w1: สำรวจ 3</TR-Name>
     <JP-Detail>今週中に「遠征」30回成功させよう！</JP-Detail>
-    <TR-Detail>Perform 30 successful expeditions within the same week.</TR-Detail>
+    <TR-Detail>ส่งสำรวจให้สำเร็จ 30 ครั้ง ใน 1 สัปดาห์</TR-Detail>
   </Quest>
   <Quest>
     <ID>405</ID>
     <JP-Name>第一次潜水艦派遣作戦</JP-Name>
-    <TR-Name>D5: The First Submarine Operation</TR-Name>
+    <TR-Name>D5: ส่งสำรวจเรือดำน้ำ 1</TR-Name>
     <JP-Detail>はじめての潜水艦派遣作戦を成功させよう！</JP-Detail>
-    <TR-Detail>Complete Expedition 30 (潜水艦派遣作戦).</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 30 ให้สำเร็จ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>406</ID>
     <JP-Name>第二次潜水艦派遣作戦</JP-Name>
-    <TR-Name>D6: The Second Submarine Operation</TR-Name>
+    <TR-Name>D6: ส่งสำรวจเรือดำน้ำ 2</TR-Name>
     <JP-Detail>第二次潜水艦派遣作戦を成功させよう！</JP-Detail>
-    <TR-Detail>Complete Expedition 30 (潜水艦派遣作戦) one more time.</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 30 ให้สำเร็จ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>408</ID>
     <JP-Name>潜水艦派遣作戦による技術入手の継続！</JP-Name>
-    <TR-Name>D7: Continuation of Submarine Operations</TR-Name>
+    <TR-Name>D7: ส่งสำรวจเรือดำน้ำ 3</TR-Name>
     <JP-Detail>第三次及び第四次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！</JP-Detail>
-    <TR-Detail>Complete Expedition 30 (潜水艦派遣作戦) two more times.</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 30 ให้สำเร็จ 2 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>409</ID>
     <JP-Name>潜水艦派遣による海外艦との接触作戦</JP-Name>
-    <TR-Name>D8: Strategy Meeting with Overseas Submarine Dispatch</TR-Name>
+    <TR-Name>D8: ส่งสำรวจเรือดำน้ำ 4</TR-Name>
     <JP-Detail>有力な潜水艦隊派遣による海外艦との接触作戦を成功させよ！</JP-Detail>
-    <TR-Detail>Complete expedition 31 (海外艦との接触) and receive foreign destroyer Z1!</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 31 ให้สำเร็จ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>410</ID>
     <JP-Name>南方への輸送作戦を成功させよ！</JP-Name>
-    <TR-Name>D9w2: Transportation Towards South</TR-Name>
+    <TR-Name>D9w2: สำรวจ 4</TR-Name>
     <JP-Detail>激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！</JP-Detail>
-    <TR-Detail>Complete expedition 37 or 38 (東京急行).</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 37 หรือ 38 ให้สำเร็จ 1 ครั้ง ใน 1 สัปดาห์</TR-Detail>
   </Quest>
   <Quest>
     <ID>411</ID>
     <JP-Name>南方への鼠輸送を継続実施せよ！</JP-Name>
-    <TR-Name>D11w3: Transportation Towards South (Cont.)</TR-Name>
+    <TR-Name>D11w3: สำรวจ 5</TR-Name>
     <JP-Detail>今週中に「東京急行」系遠征を継続的に実施、同種作戦を7回成功させよう！</JP-Detail>
-    <TR-Detail>Complete expedition 37 or 38 (東京急行) a total of 7 times in a week.</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 37 หรือ 38 ให้สำเร็จ 7 ครั้ง ใน 1 สัปดาห์</TR-Detail>
   </Quest>
   <Quest>
     <ID>412</ID>
     <JP-Name>航空火力艦の運用を強化せよ！</JP-Name>
-    <TR-Name>D10: Strengthen the Operation of the BBV</TR-Name>
+    <TR-Name>D10: ส่งสำรวจเรือประจัญบานบรรทุกเครื่องบิน 1</TR-Name>
     <JP-Detail>「航空戦艦運用演習」を実施し、航空火力艦の運用の強化に努めよ！</JP-Detail>
-    <TR-Detail>Complete expedition 23 (航空戦艦運用演習).</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 23 ให้สำเร็จ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>413</ID>
     <JP-Name>(続)航空火力艦の運用を強化せよ！</JP-Name>
-    <TR-Name>D12: Strengthen the Operation of the BBV (Cont.)</TR-Name>
+    <TR-Name>D12: ส่งสำรวจเรือประจัญบานบรรทุกเครื่องบิน 2</TR-Name>
     <JP-Detail>「航空戦艦運用演習」を継続実施し、航空火力艦の運用の強化に引き続き努めよ！</JP-Detail>
-    <TR-Detail>Complete expedition 23 (航空戦艦運用演習) 4 more times.</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 23 ให้สำเร็จ 4 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>414</ID>
     <JP-Name>遠洋潜水艦作戦を実施せよ！</JP-Name>
-    <TR-Name>D13: Blue Waters Submarine Operation</TR-Name>
+    <TR-Name>D13: สำรวจ 39</TR-Name>
     <JP-Detail>「遠洋潜水艦作戦」を実施し、潜水艦隊の練度向上と敵艦隊漸減に努めよ！</JP-Detail>
-    <TR-Detail>Complete expedition 39 (遠洋潜水艦作戦).</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 39 ให้สำเร็จ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>415</ID>
     <JP-Name>遠洋潜水艦作戦の成果を拡大せよ！</JP-Name>
-    <TR-Name>D14: Blue Waters Extended Submarine Operation</TR-Name>
+    <TR-Name>D14: สำรวจ 39 อีกครั้ง</TR-Name>
     <JP-Detail>「遠洋潜水艦作戦」を継続実施し、潜水艦隊の練度向上と敵艦隊漸減に努めよ！</JP-Detail>
-    <TR-Detail>Complete expedition 39 (遠洋潜水艦作戦) 2 more times.</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 39 ให้สำเร็จ 2 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>416</ID>
     <JP-Name>防空射撃演習を実施せよ！</JP-Name>
-    <TR-Name>D15: Air Defence Exercises</TR-Name>
+    <TR-Name>D15: สำรวจ 6</TR-Name>
     <JP-Detail>「防空射撃演習」を複数回実施し、艦隊の防空能力を高めよ！</JP-Detail>
-    <TR-Detail>Complete expedition 6 (防空射撃演習) 3 times.</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 6 ให้สำเร็จ 3 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>417</ID>
     <JP-Name>囮機動部隊支援作戦を実施せよ！</JP-Name>
-    <TR-Name>D16: Deploy the Decoy Task Force</TR-Name>
+    <TR-Name>D16: สำรวจ 15</TR-Name>
     <JP-Detail>「囮機動部隊支援作戦」を実施し、これを成功させよ！</JP-Detail>
-    <TR-Detail>Complete expedition 15 (囮機動部隊支援作戦).</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 15 ให้สำเร็จ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>418</ID>
     <JP-Name>観艦式予行を実施せよ！</JP-Name>
-    <TR-Name>D17: Naval Ceremony Preparations</TR-Name>
+    <TR-Name>D17: สำรวจ 7</TR-Name>
     <JP-Detail>観艦式を実施する。予行として「観艦式予行」を複数回実施し、これを2回成功させよ！</JP-Detail>
-    <TR-Detail>Complete expedition 7 (観艦式予行) 2 times.</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 7 ให้สำเร็จ 2 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>419</ID>
     <JP-Name>観艦式を敢行せよ！</JP-Name>
-    <TR-Name>D18: Naval Review</TR-Name>
+    <TR-Name>D18: สำรวจ 8</TR-Name>
     <JP-Detail>練度の高い艦隊で観艦式本番を実施する。「観艦式」を実施し、これを成功させよ！</JP-Detail>
-    <TR-Detail>Complete expedition 8 (観艦式).</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 8 ให้สำเร็จ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>420</ID>
     <JP-Name>機動部隊の運用を強化せよ！</JP-Name>
-    <TR-Name>D19: Strengthen the Carrier Task Force Operations</TR-Name>
+    <TR-Name>D19: สำรวจเพื่อเพิ่มประสิทธิภาพของกองทัพ</TR-Name>
     <JP-Detail>機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！</JP-Detail>
-    <TR-Detail>Complete expeditions 26 (MO作戦) and 35 (敵母港空襲作戦).</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 35 และ 26</TR-Detail>
   </Quest>
   <Quest>
     <ID>501</ID>
     <JP-Name>はじめての「補給」！</JP-Name>
-    <TR-Name>E1: First Supply</TR-Name>
+    <TR-Name>E1: เติมเสบียงครั้งแรก</TR-Name>
     <JP-Detail>補給は大事です！燃料・弾薬を艦に「補給」しよう！</JP-Detail>
-    <TR-Detail>Resupply a ship.</TR-Detail>
+    <TR-Detail>เติมเสบียง 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>502</ID>
     <JP-Name>はじめての「入渠」！</JP-Name>
-    <TR-Name>E2: First Docking</TR-Name>
+    <TR-Name>E2: ซ่อมเรือครั้งแรก</TR-Name>
     <JP-Detail>戦闘で傷ついた艦を「入渠」させて修理して、次の出撃に備えよう！</JP-Detail>
-    <TR-Detail>Repair a ship.</TR-Detail>
+    <TR-Detail>ซ่อมเรือ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>503</ID>
     <JP-Name>艦隊大整備！</JP-Name>
-    <TR-Name>E3d1: Daily Repairs</TR-Name>
+    <TR-Name>E3d1: ซ่อมเรือ 1</TR-Name>
     <JP-Detail>各艦隊から整備が必要な艦を5隻以上ドック入りさせ、大規模な整備をしよう！</JP-Detail>
-    <TR-Detail>Repair 5 ships.</TR-Detail>
+    <TR-Detail>ซ่อมเรือ 5 ลำ ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>504</ID>
     <JP-Name>艦隊酒保祭り！</JP-Name>
-    <TR-Name>E4d2: Daily Resupplies</TR-Name>
+    <TR-Name>E4d2: เติมเสบียง 1</TR-Name>
     <JP-Detail>艦隊酒保祭り！各艦に延べ15回以上の補給を実施しよう！</JP-Detail>
-    <TR-Detail>Resupply your ships 15 times.</TR-Detail>
+    <TR-Detail>เติมเสบียง 15 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>601</ID>
     <JP-Name>はじめての「建造」！</JP-Name>
-    <TR-Name>F1: First Construction</TR-Name>
+    <TR-Name>F1: ต่อเรือครั้งแรก</TR-Name>
     <JP-Detail>「工廠」で鋼材などの資材を使って新しい艦を「建造」しよう！</JP-Detail>
-    <TR-Detail>Craft a ship.</TR-Detail>
+    <TR-Detail>ต่อเรือ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>602</ID>
     <JP-Name>はじめての「開発」！</JP-Name>
-    <TR-Name>F2: First Development</TR-Name>
+    <TR-Name>F2: สร้างอาวุธครั้งแรก</TR-Name>
     <JP-Detail>「工廠」でボーキサイトなどの資材を使って新しい装備アイテムを「開発」しよう！</JP-Detail>
-    <TR-Detail>Craft a piece of equipment.</TR-Detail>
+    <TR-Detail>สร้างอาวุธ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>603</ID>
     <JP-Name>はじめての「解体」！</JP-Name>
-    <TR-Name>F3: First Dismantlement</TR-Name>
+    <TR-Name>F3: ย่อยเรือครั้งแรก</TR-Name>
     <JP-Detail>「工廠」で不要な艦を「解体」してみよう！</JP-Detail>
-    <TR-Detail>Dismantle a ship.</TR-Detail>
+    <TR-Detail>ย่อยเรือ 1 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>604</ID>
     <JP-Name>はじめての「廃棄」！</JP-Name>
-    <TR-Name>F4: First Scrapping</TR-Name>
+    <TR-Name>F4: ย่อยอาวุธครั้งแรก</TR-Name>
     <JP-Detail>「工廠」で不要な装備アイテムを「廃棄」してみよう！</JP-Detail>
-    <TR-Detail>Scrap a piece of equipment.</TR-Detail>
+    <TR-Detail>ย่อยอาวุธ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>605</ID>
     <JP-Name>新装備「開発」指令</JP-Name>
-    <TR-Name>F5d1: Develop New Equipment</TR-Name>
+    <TR-Name>F5d1: สร้างอาวุธ 1</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを新たに「開発」しよう(失敗もOK)！</JP-Detail>
-    <TR-Detail>Craft a piece of equipment. (Failures are OK)</TR-Detail>
+    <TR-Detail>สร้างอาวุธ 1 ครั้ง ใน 1 วัน (ล้มเหลวได้)</TR-Detail>
   </Quest>
   <Quest>
     <ID>606</ID>
     <JP-Name>新造艦「建造」指令</JP-Name>
-    <TR-Name>F6d2: Construct New Ship</TR-Name>
+    <TR-Name>F6d2: ต่อเรือ 1</TR-Name>
     <JP-Detail>「工廠」で艦娘を本日中に新たに「建造」しよう！</JP-Detail>
-    <TR-Detail>Craft a ship.</TR-Detail>
+    <TR-Detail>ต่อเรือ 1 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>607</ID>
     <JP-Name>装備「開発」集中強化！</JP-Name>
-    <TR-Name>F7d3: Develop More Equipment</TR-Name>
+    <TR-Name>F7d3: สร้างอาวุธ 2</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを本日中に3回「開発」しよう(失敗もOK)！</JP-Detail>
-    <TR-Detail>Craft 3 pieces of equipment. (Failures are OK)</TR-Detail>
+    <TR-Detail>สร้างอาวุธ 3 ครั้ง ใน 1 วัน (ล้มเหลวได้)</TR-Detail>
   </Quest>
   <Quest>
     <ID>608</ID>
     <JP-Name>艦娘「建造」艦隊強化！</JP-Name>
-    <TR-Name>F8d4: Construct More New Ships</TR-Name>
+    <TR-Name>F8d4: ต่อเรือ 2</TR-Name>
     <JP-Detail>艦隊強化のため、「工廠」で艦娘を本日中に3隻「建造」しよう！</JP-Detail>
-    <TR-Detail>Craft 3 ships.</TR-Detail>
+    <TR-Detail>ต่อเรือ 3 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>609</ID>
     <JP-Name>軍縮条約対応！</JP-Name>
-    <TR-Name>F9d5: Dismantlement Duty</TR-Name>
+    <TR-Name>F9d5: ย่อยเรือ 1</TR-Name>
     <JP-Detail>少し艦隊規模が大きくなりすぎました！「工廠」で不要な艦を2隻「解体」してください！</JP-Detail>
-    <TR-Detail>Scrap 2 ships.</TR-Detail>
+    <TR-Detail>ย่อยเรือ 2 ลำ ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>610</ID>
     <JP-Name>「大型艦建造」の準備！(その弐)</JP-Name>
-    <TR-Name>F10: Preparation for LSC (Part 2)</TR-Name>
+    <TR-Name>F10: ปลดล็อกอู่ต่อเรือใหญ่ 2 (LSC)</TR-Name>
     <JP-Detail>大型艦建造の準備をします！「工廠」で装備アイテムを4回「廃棄」してみてください！</JP-Detail>
-    <TR-Detail>Scrap equipment 4 times.</TR-Detail>
+    <TR-Detail>ย่อยอาวุธ 4 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>611</ID>
     <JP-Name>式の準備！(その壱)</JP-Name>
-    <TR-Name>WF01: In Preparation of Love (Part 1)</TR-Name>
+    <TR-Name>WF01: แต่งงานกับเรือที่รัก 1</TR-Name>
     <JP-Detail>式の準備をします！「工廠」で装備アイテムを2回「廃棄」して身の回りの整理を！</JP-Detail>
-    <TR-Detail>Scrap equipment 2 times to show your love!</TR-Detail>
+    <TR-Detail>แสดงความรักที่คุณมีให้กับเรือที่รัก โดยการย่อยอาวุธ 2 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>612</ID>
     <JP-Name>輸送用ドラム缶の準備</JP-Name>
-    <TR-Name>F11: Prepare the Drum Canisters</TR-Name>
+    <TR-Name>F11: เตรียมความพร้อมถังสำรวจ</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを3回「廃棄」して、輸送用のドラム缶を準備します。</JP-Detail>
-    <TR-Detail>Scrap equipment 3 times to acquire a shipping barrel.</TR-Detail>
+    <TR-Detail>ย่อยอาวุธ 3 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>613</ID>
     <JP-Name>資源の再利用</JP-Name>
-    <TR-Name>F12w: Recycling Resources</TR-Name>
+    <TR-Name>F12w: ย่อยอาวุธ 1</TR-Name>
     <JP-Detail>「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！</JP-Detail>
-    <TR-Detail>Scrap equipment 24 times.</TR-Detail>
+    <TR-Detail>ย่อยอาวุธ 24 ครั้ง ใน 1 สัปดาห์</TR-Detail>
   </Quest>
   <Quest>
     <ID>614</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F13: Model Conversion (to Tenzan)</TR-Name>
+    <TR-Name>F13: ปรับโมเดลเครื่องบิน [Type 97 Torpedo Bomber (Tomonaga Squadron)]</TR-Name>
     <JP-Detail>「九七式艦攻(友永隊)」搭載空母を秘書艦にした状態で新たに「天山」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Type 97 Torpedo Bomber (Tomonaga Squadron) as your secretary, scrap 2 Tenzans (simultaneously) to upgrade the Type 97 to Tenzan Model 12 (Tomonaga Squadron). The Type 97 must not be locked or you'll lose the Tenzans.</TR-Detail>
+    <TR-Detail>ตั้งเรือ ฮิริว ไคนิ เป็นเรือธง, และ ติดตั้งเครื่องบิน Type 97 Torpedo Bomber (Tomonaga  [ห้ามล็อกเครื่องบินเด็ดขาด], จากนั้นย่อยเครื่องบิน Tenzan (Heavenly Mountain) จำนวน 2 ลำ [ให้กดย่อยทีละลำ]</TR-Detail>
   </Quest>
   <Quest>
     <ID>615</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F14: Model Conversion (to Suisei)</TR-Name>
+   <TR-Name>F14: ปรับโมเดลเครื่องบิน [Type 99 Dive Bomber (Egusa Squadron)]</TR-Name>
     <JP-Detail>「九九式艦爆(江草隊)」搭載空母を秘書艦にした状態で新たに「彗星」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Type 99 Dive Bomber (Ekusa Squadron) as your secretary, scrap 2 Suiseis (simultaneously) to upgrade the Type 99 to Suisei (Ekusa Squadron). The Type 99 must not be locked or you'll lose the Suiseis.</TR-Detail>
+    <TR-Detail>ตั้งเรือ โซริว เป็นเรือธง, และติดตั้งเครื่องบิน Type 99 Dive Bomber (Egusa Squadron) [ห้ามล็อกเครื่องบินเด็ดขาด], จากนั้นย่อยเครื่องบิน Suisei (Comet) จำนวน 2 ลำ [ให้กดย่อยทีละลำ]</TR-Detail>
   </Quest>
   <Quest>
     <ID>616</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F15: Model Conversion (to Reppuu)</TR-Name>
+    <TR-Name>F15: ปรับโมเดลเครื่องบิน [Zero Fighter Type 52 Type C (601 Air Group)]</TR-Name>
     <JP-Detail>「零戦52型丙(六〇一空)」搭載空母を秘書艦にした状態で新たに「烈風」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With an aircraft carrier equipped with Zero Fighter Type 52 Type C (601 Air Group) as your secretary, scrap 2 Reppuus to upgrade the Type 52 to Reppuu (601 Air Group). The Type 52 must not be locked or you'll lose the Reppuus.</TR-Detail>
+    <TR-Detail>ให้เรือธง ติดตั้งเครื่องบิน Zero Fighter Type 52 Type C (601 Air Group) [ห้ามล็อกเครื่องบินเด็ดขาด], จากนั้นย่อยเครื่องบิน Reppuu (Strong Gale) จำนวน 2 ลำ [ให้กดย่อยทีละลำ]</TR-Detail>
   </Quest>
   <Quest>
     <ID>617</ID>
     <JP-Name>「伊良湖」の準備</JP-Name>
-    <TR-Name>F16: Preparing for Irako</TR-Name>
+    <TR-Name>F16: เตรียมความพร้อมขนมอิราโกะ</TR-Name>
     <JP-Detail>「工廠」で不要な装備アイテムをいくつか「廃棄」して、新型給糧艦召喚の準備をしましょう！</JP-Detail>
-    <TR-Detail>Scrap equipment 10 times.</TR-Detail>
+    <TR-Detail>ย่อยอาวุธ 10 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>618</ID>
     <JP-Name>はじめての「装備改修」！</JP-Name>
-    <TR-Name>F17: First Equipment Modernisation</TR-Name>
+    <TR-Name>F17: อัพเกรดอาวุธครั้งแรก</TR-Name>
     <JP-Detail>「改修工廠」で「装備」を改修してみましょう！明石さん、お願いします！</JP-Detail>
-    <TR-Detail>Perform equipment modernisation once.</TR-Detail>
+    <TR-Detail>อัพเกรดอาวุธ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>619</ID>
     <JP-Name>装備の改修強化</JP-Name>
-    <TR-Name>F18d6: Improve Equipment</TR-Name>
+    <TR-Name>F18d6: อัพเกรดอาวุธ 1</TR-Name>
     <JP-Detail>「改修工廠」で「装備」の改修強化に努めます。</JP-Detail>
-    <TR-Detail>Perform equipment modernisation once.</TR-Detail>
-  </Quest>
-  <Quest>
-    <ID>622</ID>
-    <JP-Name>機種転換</JP-Name>
-    <TR-Name>F20: Model Conversion</TR-Name>
-    <JP-Detail>「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！</JP-Detail>
-    <TR-Detail>With Shoukaku equipped with a Type 97 Torpedo Bomber (Murata Squadron)‎ as your secretary, scrap 2 Tenzans to upgrade the Type 97 to Tenzan Model 12 (Murata Squadron).</TR-Detail>
+    <TR-Detail>อัพเกรดอาวุธ 1 ครั้ง ใน 1 วัน (ล้มเหลวได้)</TR-Detail>
   </Quest>
   <Quest>
     <ID>623</ID>
+    <JP-Name>機種転換</JP-Name>
+    <TR-Name>F20: ปรับโมเดลเครื่องบิน [Type 97 Torpedo Bomber (Murata Squadron)]</TR-Name>
+    <JP-Detail>「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！</JP-Detail>
+   <TR-Detail>ตั้งเรือ โชคาคุ เป็นเรือธง, และติดตั้งเครื่องบิน Type 97 Torpedo Bomber (Murata Squadron) [ห้ามล็อกเครื่องบินเด็ดขาด], จากนั้นย่อยเครื่องบิน Tenzan (Heavenly Mountain) 2 ครั้ง [ให้กดย่อยทีละลำ]</TR-Detail>
+   </Quest>
+  <Quest>
+    <ID>622</ID>
     <JP-Name>精鋭「九七式艦攻」部隊の編成</JP-Name>
-    <TR-Name>F19: Formation of the Elite Type 97 Torpedo Bomber Squadron</TR-Name>
+    <TR-Name>F19: กำหนดการใหม่มุราตะ</TR-Name>
     <JP-Detail>「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！</JP-Detail>
-    <TR-Detail>With Shoukaku (翔鶴) or Akagi (赤城) as your secretary, dismantle 3 Type 97 Torpedo Bombers to obtain a Type 97 Torpedo Bomber (Murata Squadron)‎.</TR-Detail>
+    <TR-Detail>ตั้งเรือ อาคากิ หรือ โชคาคุ เป็นเรือธง จากนั้นย่อย Type 97 Torpedo Bomber) 3 ครั้ง [ให้กดย่อยทีละลำ]</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
-    <TR-Name>G1: First Modernization</TR-Name>
+    <TR-Name>G1: อัพเกรดเรือครั้งแรก</TR-Name>
     <JP-Detail>任意の艦を近代化改修(合成)して、強化せよ！</JP-Detail>
-    <TR-Detail>Perform a successful modernization.</TR-Detail>
+    <TR-Detail>อัพเกรดเรือให้สำเร็จ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>702</ID>
     <JP-Name>艦の「近代化改修」を実施せよ！</JP-Name>
-    <TR-Name>G2d: Ship Modernizations</TR-Name>
+    <TR-Name>G2d: อัพเกรดเรือ 1</TR-Name>
     <JP-Detail>近代化改修を実施して、２回以上これを成功させよ！</JP-Detail>
-    <TR-Detail>Perform 2 successful modernizations within the same day.</TR-Detail>
+    <TR-Detail>อัพเกรดเรือให้สำเร็จ 2 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>703</ID>
     <JP-Name>「近代化改修」を進め、戦備を整えよ！</JP-Name>
-    <TR-Name>G3w: Proceed with Modernizations</TR-Name>
+    <TR-Name>G3w: อัพเกรดเรือ 2</TR-Name>
     <JP-Detail>一週間の間に、近代化改修を１5回成功させよ！</JP-Detail>
-    <TR-Detail>Perform 15 successful modernizations within the same week.</TR-Detail>
+    <TR-Detail>อัพเกรดเรือให้สำเร็จ 15 ครั้ง ใน 1 สัปดาห์</TR-Detail>
   </Quest>
   <Quest>
     <ID>704</ID>
     <JP-Name>「大型艦建造」の準備！(その壱)</JP-Name>
-    <TR-Name>G4: Preparation for LSC (Part 1)</TR-Name>
+    <TR-Name>G4: ปลดล็อกอู่ต่อเรือใหญ่ 1 (LSC)</TR-Name>
     <JP-Detail>大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！</JP-Detail>
-    <TR-Detail>Perform 4 successful modernizations.</TR-Detail>
+    <TR-Detail>อัพเกรดเรือให้สำเร็จ 4 ครั้ง</TR-Detail>
   </Quest>
 </Quests>
