@@ -346,100 +346,100 @@
   <Quest>
     <ID>150</ID>
     <JP-Name>「第二一駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>A48: Form the 21st Destroyer Division</TR-Name>
+    <TR-Name>A48: จัดกองเรือพิฆาตที่ 21</TR-Name>
     <JP-Detail>「初春」「子日」「若葉」「初霜」4隻による第二一駆逐隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Hatsuharu (初春), Nenohi (子日), Wakaba (若葉) and Hatsushimo (初霜) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ ฮัทสึฮารุ (初春), เนโนฮิ (子日), วาคาบะ (若葉), ฮัทสึชิโมะ (初霜) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>151</ID>
     <JP-Name>「第二二駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>A49: Form the 22nd Destroyer Division</TR-Name>
+    <TR-Name>A49: จัดกองเรือพิฆาตที่ 22</TR-Name>
     <JP-Detail>「皐月」「文月」「長月」他1隻計駆逐艦4隻による第二二駆逐隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Satsuki (皐月), Fumizuki (文月), Nagatsuki (長月) and 1 more DD in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ ซัทสึกิ (皐月), ฟุมิสึกิ (文月), นางาสึกิ (長月) และ DD อีก 1 ลำ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>152</ID>
     <JP-Name>「三川艦隊」を新編、突入準備せよ！</JP-Name>
-    <TR-Name>A50: Form the New Edition of the Mikawa Fleet</TR-Name>
+    <TR-Name>A50: จัดกองเรือมิคาวะรุ่นใหม่</TR-Name>
     <JP-Detail>第一艦隊において、「鳥海改ニ」を旗艦とする「三川艦隊」を編成せよ！</JP-Detail>
-    <TR-Detail>Have Choukai Kai2 (鳥海改ニ) as the flagship and any 5 of Aoba (青葉), Kinugasa (衣笠), Kako (加古), Furutaka (古鷹), Tenryuu (天龍), Yuubari (夕張) in your main fleet.</TR-Detail>
+    <TR-Detail>ตั้งเรือ โจไค ไคนิ (鳥海改ニ) เป็นเรือธง และ เลือกเรืออีก 5 ลำจากรายการนี้ อาโอบะ, คินุกาสะ, คาโกะ, ฟุรุทากะ, เทนริว, ยูบาริ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>153</ID>
     <JP-Name>「第十八戦隊」を新編成せよ！</JP-Name>
-    <TR-Name>A51: Form the 18th Cruiser Division</TR-Name>
+    <TR-Name>A51: จัดกองเรือที่ 18</TR-Name>
     <JP-Detail>軽巡洋艦「天龍」「龍田」を基幹戦力とした「第十八戦隊」を4隻以上で新編成せよ！</JP-Detail>
-    <TR-Detail>Have Tenryuu (天龍), Tatsuta (龍田) and 2 or more other ships in your fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ เทนริว, ทัตสึตะ และอะไรก็ได้อีก 4 ลำ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>154</ID>
     <JP-Name>海上突入部隊を編成せよ！</JP-Name>
-    <TR-Name>A52: Form the Maritime Assault Fleet</TR-Name>
+    <TR-Name>A52: จัดกองเรือจู่โจมภาคพื้นน้ำ</TR-Name>
     <JP-Detail>戦艦「比叡」「霧島」軽巡「長良」駆逐艦「暁」「雷」「電」による海上突入部隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Hiei (比叡), Kirishima (霧島), Nagara (長良), Akatsuki (暁), Ikazuchi (雷) and Inazuma (電) in your main fleet.</TR-Detail>
+    <TR-Detail>จัดเรือ ฮิเอย์, คิริชิมะ, นาการะ, อาคัทสึกิ, อิคาซึจิ, อินาซึมะ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>155</ID>
     <JP-Name>新編「第六駆逐隊」を編成せよ！</JP-Name>
-    <TR-Name>A53: Form the New 6th Destroyer Division</TR-Name>
+    <TR-Name>A53: จัดกองเรือพิฆาตที่ 6 (ใหม่)</TR-Name>
     <JP-Detail>「暁改二」を旗艦とした「響」「雷」「電」4隻による第六駆逐隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have ONLY Akatsuki Kai2 (暁改二) as the flagship, Hibiki (響 or Верный), Ikazuchi (雷) and Inazuma (電) in your main fleet.</TR-Detail>
+    <TR-Detail>ตั้งเรือ อาคัทสึกิ ไคนิ เป็นเรือธง, ฮิบิกิ (หรือเวลนุยก็ได้) อิคาซึจิ, อินาซึมะ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>156</ID>
     <JP-Name>「第一水雷戦隊」北方突入準備！</JP-Name>
-    <TR-Name>A54: Prepare the 1st Torpedo Squadron for the Deployment to the Northern Sea</TR-Name>
+    <TR-Name>A54: จัดกองเรือตอปิโดที่ 1 เตรียมความพร้อมที่ทะเลเหนือ</TR-Name>
     <JP-Detail>「阿武隈」を旗艦として「響」「初霜」「若葉」「五月雨」「島風」による一水戦を編成せよ！</JP-Detail>
-    <TR-Detail>Have Abukuma (阿武隈) as the flagship, Hibiki (響 or Верный), Hatsushimo (初霜), Wakaba (若葉), Samidare (五月雨) and Shimakaze (島風) in your main fleet.</TR-Detail>
+    <TR-Detail>ตั้งเรือ อาบุคุมะ เป็นเรือธง, ฮิบิกิ (หรือเวลนุยก็ได้), ฮัทสึชิโมะ, วาคาบะ, ซามิดาเระ, ชิมะคาเซะ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>157</ID>
     <JP-Name>「第一水雷戦隊」北方再突入準備！</JP-Name>
-    <TR-Name>A55: Prepare the 1st Torpedo Squadron for Another Sortie to the Northern Sea</TR-Name>
+    <TR-Name>A55: จัดกองเรือตอปิโดที่ 1 เตรียมความพร้อมอีกครั้งที่ทะเลเหนือ</TR-Name>
     <JP-Detail>「阿武隈改二」を旗艦として「響」「夕雲」「長波」「秋雲」「島風」の一水戦を再編成せよ！</JP-Detail>
-    <TR-Detail>Have Abukuma Kai2 (阿武隈改二) as the flagship, Hibiki (響 or Верный), Yuugumo (夕雲), Naganami (長波), Akigumo (秋雲) and Shimakaze (島風) in your main fleet.</TR-Detail>
+    <TR-Detail>ตั้งเรือ อาบุคุมะ เป็นเรือธง, ฮิบิกิ (หรือเวลนุยก็ได้), ยูกุโมะ, นากานามิ, อากิกุโมะ, ชิมะคาเซะ ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>161</ID>
     <JP-Name>「第五航空戦隊」を再編成せよ！</JP-Name>
-    <TR-Name>A56: Reorganise the 5th Carrier Division</TR-Name>
+    <TR-Name>A56: จัดกองเรือบรรทุกเครื่องบินที่ 5</TR-Name>
     <JP-Detail>「翔鶴」「瑞鶴」と随伴駆逐艦「朧」「秋雲」を基幹とした第五航空戦隊を再編成せよ！</JP-Detail>
-    <TR-Detail>Have Shoukaku (翔鶴), Zuikaku (瑞鶴), Oboro (朧) and Akigumo (秋雲) in your main fleet.</TR-Detail>
+    <TR-Detail>ตั้งเรือ โชคาคุ (翔鶴), ซุยคาคุ (瑞鶴), โอโบโระ (朧), อากิกุโมะ (秋雲) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>162</ID>
     <JP-Name>新編「第二一戦隊」出撃準備！</JP-Name>
-    <TR-Name>A57: Prepare the New 21st Cruiser Division for Sortie</TR-Name>
+    <TR-Name>A57: จัดกองเรือลาดตระเวนที่ 21 รุ่นใหม่</TR-Name>
     <JP-Detail>「那智改二」「足柄改二」及び「多摩」「木曾」を基幹とした、第二一戦隊を編成せよ！</JP-Detail>
-    <TR-Detail>Have Nachi Kai2 (那智改二), Ashigara Kai2 (足柄改二), Tama (多摩) and Kiso (木曾) in your main fleet.</TR-Detail>
+    <TR-Detail>ตั้งเรือ นาจิ ไคนิ (那智改二), อาชิงาระ ไคนิ (足柄改二), ทามะ (多摩), คิโสะ (木曾) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
   <Quest>
     <ID>163</ID>
     <JP-Name>「第十六戦隊(第一次)」を編成せよ！</JP-Name>
-    <TR-Name>A58: Organise the 16th Squadron (1st Gen.)</TR-Name>
+    <TR-Name>A58: จัดกองเรือลาดตระเวนที่ 16 รุ่นใหม่</TR-Name>
     <JP-Detail>「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！</JP-Detail>
-    <TR-Detail>Have Ashigara (足柄) as the flagship, Kuma (球磨) and Nagara (長良) in your main fleet.</TR-Detail>
+    <TR-Detail>ตั้งเรือ อาชิงาระ (足柄) เป็นเรือธง, คุมะ (球磨), นาการะ (長良) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
    <Quest>
     <ID>201</ID>
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
-    <TR-Name>Bd1: Defeat an Enemy Fleet</TR-Name>
+    <TR-Name>Bd1: ชัยชนะครั้งแรก</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>Sortie to any map and score a victory.</TR-Detail>
+    <TR-Detail>ส่งกองเรือออกรบให้ชนะ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>202</ID>
     <JP-Name>はじめての「出撃」！</JP-Name>
-    <TR-Name>B1: First Sortie</TR-Name>
+    <TR-Name>B1: ออกรบครั้งแรก</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵艦隊と交戦せよ！</JP-Detail>
-    <TR-Detail>Sortie your main fleet on a combat mission.</TR-Detail>
+    <TR-Detail>ส่งกองเรือที่ 1 ออกรบ</TR-Detail>
   </Quest>
   <Quest>
     <ID>203</ID>
     <JP-Name>鎮守府正面海域を護れ！</JP-Name>
-    <TR-Name>B2: Protect the Sea Near the Naval Base</TR-Name>
+    <TR-Name>B2: ปกป้องท้องทะเลจินจุฟุ</TR-Name>
     <JP-Detail>鎮守府正面海域に艦隊を出撃させ、敵艦の跳梁を阻止せよ！</JP-Detail>
-    <TR-Detail>Sortie to World 1-1 and clear the stage.</TR-Detail>
+    <TR-Detail>ส่งกองเรือที่ไปรบด่าน 1-1 ชนะบอสจนจบด่าน</TR-Detail>
   </Quest>
   <Quest>
     <ID>204</ID>
