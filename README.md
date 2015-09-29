@@ -3,11 +3,13 @@
 
 ทีมงาน KCV แปลไทย'BETA
 
-ร่วมทดสอบการภาษาไทยสำหรับ เควส ใน KCV'BETA rev1
+ร่วมทดสอบการภาษาไทยสำหรับ เควส ใน KCV'BETA rev
+1
 ทดสอบทำงานกับ KCV เวอร์ชั่น 3.8.2 ของ gakada/yuyuvn/yuubari/grabacr07
 
 แปลโดย KC-TH (https://github.com/KC-TH)
 @Arialypse @Anime-Thai
+
 อิงบนพื้นฐานคำแปลจาก KC3 Kai ภาษาไทย เวอร์ชั่น 21 (จะออกอัพเดทวันที่ 6 ตุลาคม 2015)
 
 KCV (KanColleViewer) คือโปรแกรมสำหรับเล่น KanColle ชนิดหนึ่งที่ช่วยแสดงผลค่าต่าง ๆ ในเกม โดยพื้นฐานใช้ IE ในการเล่น รองรับ Windows 8/8.1/10, .NET 4.5 และ IE 11 ขึ้นไป
@@ -43,4 +45,5 @@ https://github.com/KCV-Localisation/KanColleViewer/releases
 https://goo.gl/xITYyl
 
 ความเสี่ยงในการใช้งาน โปรดทราบว่าการโดนแบนหรือไม่ขึ้นกับพฤติกรรมผู้การในการเล่นมากกว่าตัวโปรแกรมครับ
+
 ขอบคุณครับ @Arialypse
