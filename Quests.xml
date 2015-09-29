@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Quests Version="1.0.38">
   <Quest>
     <ID>101</ID>
@@ -1343,6 +1343,13 @@
     <TR-Name>F19: กำหนดการใหม่มุราตะ</TR-Name>
     <JP-Detail>「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！</JP-Detail>
     <TR-Detail>ตั้งเรือ อาคากิ หรือ โชคาคุ เป็นเรือธง จากนั้นย่อย Type 97 Torpedo Bomber) 3 ครั้ง [ให้กดย่อยทีละลำ]</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>624</ID>
+    <JP-Name>試作艤装の準備</JP-Name>
+    <TR-Name>F21: เตรียมความพร้อมสำหรับยุทโธปกรณ์ต้นแบบ</TR-Name>
+    <JP-Detail>「工廠」で装備アイテムを7つ「廃棄」して、「試製甲板カタパルト」を準備します。</JP-Detail>
+    <TR-Detail>ย่อยอาวุธ 7 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
