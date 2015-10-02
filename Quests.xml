@@ -521,9 +521,9 @@
   <Quest>
     <ID>215</ID>
     <JP-Name>第２艦隊、出撃せよ！</JP-Name>
-    <TR-Name>B3: ปฏิบัติการกองเรือทีม 2</TR-Name>
+    <TR-Name>B3: ปฏิบัติการกองเรือที่ 2</TR-Name>
     <JP-Detail>新たに編成した「第２艦隊」を出撃させよ！</JP-Detail>
-    <TR-Detail>ส่งกองเรือที่ 2 ไปออกรบ</TR-Detail>
+    <TR-Detail>ส่งกองเรือที่ 2 ออกรบ</TR-Detail>
   </Quest>
   <Quest>
     <ID>216</ID>
@@ -537,532 +537,532 @@
     <JP-Name>敵空母を撃沈せよ！</JP-Name>
     <TR-Name>B10: จมเรือบรรทุกเครื่องบินของศัตรู</TR-Name>
     <JP-Detail>敵機動部隊を捕捉し、これを邀撃、敵空母を轟沈せよ！</JP-Detail>
-    <TR-Detail>จมเรือบรรทุกเครื่องบินของศัตรู 1 ลำ</TR-Detail>
+    <TR-Detail>จมเรือบรรทุกเครื่องบินของศัตรู (CV/CVL) 1 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>218</ID>
     <JP-Name>敵補給艦を3隻撃沈せよ！</JP-Name>
     <TR-Name>Bd5: ออกรบ 5</TR-Name>
     <JP-Detail>艦隊を出撃させ、敵補給艦を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>จมเรือ AP (เรือขนส่ง) จำนวน 3 ลำ</TR-Detail>
+    <TR-Detail>จมกองเรือขนส่งของศัตรู (AP) 3 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>219</ID>
     <JP-Name>「三川艦隊」出撃せよ！</JP-Name>
     <TR-Name>B11: ปฏิบัติการกองเรือมิคาวะ</TR-Name>
     <JP-Detail>新編成した「三川艦隊」で出撃せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ โจไค, ฟุรุทากะ, คาโกะ, อาโอบะ, เทนริว, และเรือเร็วอีก 1 ลำ ไปออกรบ (BB กับ CV ไม่สามารถใช้แทนได้)</TR-Detail>
+    <TR-Detail>จัดเรือ โจไค (鳥海/Choukai), อาโอบะ (青葉/Aoba), คาโกะ (加古/Kako), ฟุรุทากะ (古鷹/Furutaka), เทนริว (天龍/Tenryuu) และเรือเร็วอะไรก็ได้อีก 1 ลำ [ห้ามใช้ BB/CV] ไปออกรบ</TR-Detail>
   </Quest>
   <Quest>
     <ID>220</ID>
     <JP-Name>い号作戦</JP-Name>
     <TR-Name>Bw2: ออกรบ 2</TR-Name>
     <JP-Detail>有力な母艦航空隊で1週間の全力出撃を行い、可能な限り多くの敵空母を撃滅せよ！</JP-Detail>
-    <TR-Detail>จมเรือ CV หรือ CVL จำนวน 20 ลำ</TR-Detail>
+    <TR-Detail>จมกองเรือบรรทุกเครื่องบินของศัตรู (CV/CVL) 20 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>221</ID>
     <JP-Name>ろ号作戦</JP-Name>
     <TR-Name>Bw4: ออกรบ 4</TR-Name>
     <JP-Detail>1週間の全力出撃を行い、敵輸送船団を捕捉・撃滅、敵の補給路を寸断せよ！</JP-Detail>
-    <TR-Detail>จมเรือ AP (เรือขนส่ง) จำนวน 50 ลำ</TR-Detail>
+    <TR-Detail>จมกองเรือขนส่งของศัตรู (AP) 50 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>222</ID>
     <JP-Name>「第六駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>B12: ปฏิบัติการกองเรือพิฆาตที่ 6</TR-Name>
     <JP-Detail>「暁」「響」「雷」「電」による第六駆逐隊、出撃せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ อาคัทสึกิ, ฮิบิกิ (หรือเวลนุยก็ได้), อินาซึมะ, อิคาซึจิ ไปออกรบ</TR-Detail>
+    <TR-Detail>จัดเรือ อาคัทสึกิ (暁/Akatsuki), ฮิบิกิ/เวลนุย (響/Hibiki/Верный), อินาซึมะ (雷/Inazuma), อิคาซึจิ (電/Ikazuchi) ไปออกรบ</TR-Detail>
   </Quest>
   <Quest>
     <ID>223</ID>
     <JP-Name>「第四戦隊」出撃せよ！</JP-Name>
     <TR-Name>B13: ปฏิบัติการกองเรือลาดตะเวนหนักที่ 4</TR-Name>
     <JP-Detail>「愛宕」「高雄」「鳥海」「摩耶」を基幹とする第四戦隊で、バシー島沖の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ อาตาโกะ, ทาคาโอะ, โจไค, มายะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 2-2 ให้ได้</TR-Detail>
+    <TR-Detail>จัดเรือ ทาคาโอะ (高雄/Takao), อาตาโกะ (愛宕/Atago), โจไค (鳥海/Choukai), มายะ (摩耶/Maya) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 2-2 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>224</ID>
     <JP-Name>「西村艦隊」出撃せよ！</JP-Name>
-    <TR-Name>B14: ปฏิบัติการกองเรือนิชิมุระ</TR-Name>
+    <TR-Name>B14: ปฏิบัติการกองเรือนิชิมูระ</TR-Name>
     <JP-Detail>「扶桑」「山城」「最上」「時雨」を基幹とする西村艦隊で、オリョール海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ ฟุโซ, ยามาชิโระ, โมกามิ, ชิงุเระ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 2-3 ให้ได้</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุโซ (扶桑/Fusou), ยามาชิโระ (山城/Yamashiro), โมกามิ (最上/Mogami), ชิกุเระ (時雨/Shigure) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 2-3 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>225</ID>
     <JP-Name>「第五航空戦隊」出撃せよ！</JP-Name>
     <TR-Name>B15: ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 5</TR-Name>
     <JP-Detail>「翔鶴」「瑞鶴」を基幹とする第五航空戦隊で、北方海域モーレイ海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ โชคาคุ, ซุยคาคุ และอะไรก็ได้อีก 4 ลำ ไปชนะบอสด่าน 3-1 ให้ได้</TR-Detail>
+    <TR-Detail>จัดเรือ โชคาคุ (翔鶴/Shoukaku), ซุยคาคุ (瑞鶴/Zuikaku) และเรืออะไรก็ได้อีก 4 ลำ ไปชนะบอสด่าน 3-1 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>226</ID>
     <JP-Name>南西諸島海域の制海権を握れ！</JP-Name>
     <TR-Name>Bd7: ออกรบ 7</TR-Name>
     <JP-Detail>艦隊を南西諸島海域に全力出撃させ、多数の敵艦隊「主力」群を捕捉、撃滅せよ！</JP-Detail>
-    <TR-Detail>ชนะบอสใน World-2 จำนวน 5 ครั้ง</TR-Detail>
+    <TR-Detail>ชนะบอสด่าน 2 ให้ได้ Rank B ขึ้นไป 5 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>227</ID>
     <JP-Name>新「三川艦隊」出撃せよ！</JP-Name>
-    <TR-Name>B16: ปฏิบัติการกองเรือมิคาวะ (ใหม่)</TR-Name>
+    <TR-Name>B16: ปฏิบัติการกองเรือมิคาวะรุ่นใหม่</TR-Name>
     <JP-Detail>完全編成した「三川艦隊」をもって、オリョール海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ โจไค, อาโอบะ, คินุกาสะ, คาโกะ, ฟุรุทากะ, เทนริว ไปชนะบอสด่าน 2-3 ให้ได้</TR-Detail>
+    <TR-Detail>จัดเรือ โจไค (鳥海/Choukai), อาโอบะ (青葉/Aoba), คินุกาสะ (衣笠/Kinugasa), คาโกะ (加古/Kako), ฟุรุทากะ (古鷹/Furutaka), เทนริว (天龍/Tenryuu) ไปชนะบอสด่าน 2-3 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>228</ID>
     <JP-Name>海上護衛戦</JP-Name>
     <TR-Name>Bw5: ออกรบ 5</TR-Name>
     <JP-Detail>有力な対潜能力を持つ海上護衛隊によって、可能な限り多くの敵潜水艦を撃滅せよ！</JP-Detail>
-    <TR-Detail>จมเรือ SS จำนวน 15 ลำ</TR-Detail>
+    <TR-Detail>จมกองเรือดำน้ำของศัตรู (SS) 15 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>229</ID>
     <JP-Name>敵東方艦隊を撃滅せよ！</JP-Name>
     <TR-Name>Bw6: ออกรบ 6</TR-Name>
     <JP-Detail>西方海域に出撃し、敵東方艦隊の主力を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>ชนะบอสใน World-4 จำนวน 12 ครั้ง</TR-Detail>
+    <TR-Detail>ชนะบอสด่าน 4 ให้ได้ Rank B ขึ้นไป 12 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>230</ID>
     <JP-Name>敵潜水艦を制圧せよ！</JP-Name>
     <TR-Name>Bd8: ออกรบ 8</TR-Name>
     <JP-Detail>対潜能力の充実した艦隊で出撃、敵潜水艦狩りを実施せよ！</JP-Detail>
-    <TR-Detail>จมเรือดำน้ำ (SS) จำนวน 6 ลำ</TR-Detail>
+    <TR-Detail>จมกองเรือดำน้ำของศัตรู (SS) 6 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>231</ID>
     <JP-Name>「潜水艦隊」出撃せよ！</JP-Name>
     <TR-Name>B17: ปฏิบัติการกองเรือดำน้ำ</TR-Name>
     <JP-Detail>伊号潜水艦2隻からなる潜水艦隊でオリョール海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ SS 2 ลำ และอะไรก็ได้อีก 4 ลำ ไปชนะบอสด่าน 2-3 ให้ได้</TR-Detail>
+    <TR-Detail>จัดเรือดำน้ำ (SS) 2 ลำ และเรืออะไรก็ได้อีก 4 ลำ ไปชนะบอสด่าน 2-3 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>232</ID>
     <JP-Name>「航空水上打撃艦隊」出撃せよ！</JP-Name>
-    <TR-Name>B18: ปฏิบัติการกองเรือบรรทุกเครื่องบินทะเล</TR-Name>
+    <TR-Name>B18: ปฏิบัติการกองเรือบรรทุกเครื่องบินจู่โจม</TR-Name>
     <JP-Detail>航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊でカレー洋の制海権を握れ！</JP-Detail>
-    <TR-Detail>จัดเรือ BBV 2 ลำ, CAV 2 ลำ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 4-2 ให้ได้</TR-Detail>
+    <TR-Detail>จัดเรือ BBV 2 ลำ, CAV 2 ลำ และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 4-2 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>233</ID>
     <JP-Name>「第六戦隊」出撃せよ！</JP-Name>
     <TR-Name>B19: ปฏิบัติการกองเรือลาดตะเวนหนักที่ 6</TR-Name>
     <JP-Detail>編成した「第六戦隊」をもって出撃し、オリョール海の敵を撃滅「完全勝利」せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ ฟุรุทากะ, คาโกะ, คินุกาสะ, อาโอบะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-3</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุรุทากะ (古鷹/Furutaka), คาโกะ (加古/Kako), คินุกาสะ (衣笠/Kinugasa), อาโอบะ (青葉/Aoba) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>239</ID>
     <JP-Name>「第八駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>B20: ปฏิบัติการกองเรือพิฆาตที่ 8</TR-Name>
     <JP-Detail>編成した「第八駆逐隊」を含む艦隊で出撃し、オリョール海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ อาราชิโอะ, มิจิซิโอะ, โอชิโอะ, อาราชิโอะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 2-3 ให้ได้</TR-Detail>
+    <TR-Detail>จัดเรือ อาซาชิโอะ (朝潮/Asashio), มิจิชิโอะ (満潮/Michishio), โอชิโอะ (大潮/Ooshio), อาราชิโอะ (荒潮/Arashio) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 2-3 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>240</ID>
     <JP-Name>「第十八駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>B21: ปฏิบัติการกองเรือพิฆาตที่ 18</TR-Name>
     <JP-Detail>編成した「第十八駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ คาสุมิ, อาราเระ, คาเงโร่, ชิรานุอิ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 3-1 ให้ได้</TR-Detail>
+    <TR-Detail>จัดเรือ คาสุมิ (霞/Kasumi), อาราเระ (霰/Arare), คาเงโร่ (陽炎/Kagerou), ชิรานุอิ (不知火/Shiranui) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 3-1 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>241</ID>
     <JP-Name>敵北方艦隊主力を撃滅せよ！</JP-Name>
     <TR-Name>Bw7: ออกรบ 7</TR-Name>
     <JP-Detail>北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>ชนะบอสใน 3-3 หรือ 3-4 หรือ 3-5 จำนวน 5 ครั้ง</TR-Detail>
+    <TR-Detail>ชนะบอสด่าน 3-3, 3-4, 3-5 รวมกันให้ได้ Rank B ขึ้นไป 5 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>242</ID>
     <JP-Name>敵東方中枢艦隊を撃破せよ！</JP-Name>
     <TR-Name>Bw8: ออกรบ 8</TR-Name>
     <JP-Detail>西方海域カスガダマ島沖に出撃し、敵東方中枢艦隊を捕捉、これを撃破せよ！</JP-Detail>
-    <TR-Detail>ชนะบอส 4-4 จำนวน 1 ครั้ง</TR-Detail>
+    <TR-Detail>ชนะบอสด่าน 4-4 ให้ได้ Rank B ขึ้นไป 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>243</ID>
     <JP-Name>南方海域珊瑚諸島沖の制空権を握れ！</JP-Name>
     <TR-Name>Bw9: ออกรบ 9</TR-Name>
     <JP-Detail>南方海域珊瑚諸島沖に出撃し、敵機動部隊本体を捕捉撃滅、これに完全勝利せよ！</JP-Detail>
-    <TR-Detail>ชนะบอส 5-2 ให้ได้ Rank S จพนวน 2 ครั้ง</TR-Detail>
+    <TR-Detail>ชนะบอสด่าน 5-2 ให้ได้ Rank S ขึ้นไป 2 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>244</ID>
     <JP-Name>「第三十駆逐隊(第一次)」出撃せよ！</JP-Name>
-    <TR-Name>B22: ปฏิบัติการกองเรือพิฆาตที่ 30 (Gen-1)</TR-Name>
+    <TR-Name>B22: ปฏิบัติการกองเรือพิฆาตที่ 30 รุ่นที่ 1</TR-Name>
     <JP-Detail>「第三十駆逐隊(第一次)」を含む艦隊で出撃し、キス島沖の主力艦隊と交戦せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ มุทสึกิ (睦月), คิซารากิ (如月), ยาโยอิ (弥生), โมจิสึกิ (望月) และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 3-2</TR-Detail>
+    <TR-Detail>จัดเรือ มุทสึกิ (睦月/Mutsuki), คิซารากิ (如月/Kisaragi), ยาโยอิ (弥生/Yayoi), โมจิสึกิ (望月/Mochizuki) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 3-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>245</ID>
     <JP-Name>式の準備！(最終)</JP-Name>
     <TR-Name>WB01: แต่งงานกับเรือที่รัก 4</TR-Name>
     <JP-Detail>練度の高い(Lv.90～99)第一艦隊旗艦で出撃し、オリョール海の暁に勝利を刻め！</JP-Detail>
-    <TR-Detail>ตั้งเรือ Lv.90~99 ที่คุณรักเป็นเรือธง ไปชนะบอสให้ได้ Rank S ในด่าน 2-3</TR-Detail>
+    <TR-Detail>จัดเรือเลเวล 90~99 ที่คุณรัก เป็นเรือธง ไปชนะบอสให้ได้ Rank S ในด่าน 2-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>246</ID>
     <JP-Name>二人でする初めての任務！</JP-Name>
     <TR-Name>WB02: พาเรือที่รักไปทำภารกิจ</TR-Name>
     <JP-Detail>強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！</JP-Detail>
-    <TR-Detail>ตั้งเรือ Lv.100+ ที่คุณแต่งงานเป็นเรือธง ไปชนะบอสให้ได้ Rank S ในด่าน 4-3</TR-Detail>
+    <TR-Detail>จัดเรือเลเวล 100 เป็นเรือธง และเรืออะไรก็ได้อีก 5 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 4-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>247</ID>
     <JP-Name>「航空戦艦」抜錨せよ！</JP-Name>
     <TR-Name>B23: ปฏิบัติการกองเรือประจัญบานบรรทุกเครื่องบิน</TR-Name>
     <JP-Detail>航空戦艦2隻を基幹とする艦隊で、西方海域カスガダマ島の敵勢力を撃破せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ BBV 2 ลำ และอะไรก็ได้อีก 4 ลำ ไปชนะบอสด่าน 4-4 ให้ได้</TR-Detail>
+    <TR-Detail>จัดเรือ BBV 2 ลำ และเรืออะไรก็ได้อีก 4 ลำ ไปชนะบอสด่าน 4-4 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>248</ID>
     <JP-Name>「第三十駆逐隊」対潜哨戒！</JP-Name>
-    <TR-Name>B24: กองเรือพิฆาตที่ 30 (กองลาดตะเวนต่อต้านเรือดำน้ำ)</TR-Name>
+    <TR-Name>B24: ปฏิบัติการกองเรือพิฆาตที่ 30 ต่อต้านเรือดำน้ำ</TR-Name>
     <JP-Detail>「第三十駆逐隊(第二次)」は直ちに抜錨！鎮守府正面の対潜哨戒を実施せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ มุทสึกิ, ยาโยอิ, อุซึกิ, โมจิสึกิ ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 1-5</TR-Detail>
+    <TR-Detail>จัดเรือ มุทสึกิ (睦月/Mutsuki), อุซึกิ (卯月/Uzuki), ยาโยอิ (弥生/Yayoi), โมจิสึกิ (望月/Mochizuki) ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 1-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>249</ID>
     <JP-Name>「第五戦隊」出撃せよ！</JP-Name>
-    <TR-Name>Bm1: ออกรบ 1</TR-Name>
+    <TR-Name>Bm1: ปฏิบัติการกองเรือลาดตระเวนที่ 5</TR-Name>
     <JP-Detail>「第五戦隊」は沖ノ島沖の戦闘哨戒を実施、敵艦隊主力を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ เมียวโค, นาจิ, ฮากุโระ, และอะไรก็ได้อีก 3 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-5</TR-Detail>
+    <TR-Detail>จัดเรือ เมียวโค (妙高/Myoukou), นาจิ (那智/Nachi), ฮากุโระ (羽黒/Haguro) และเรืออะไรก็ได้อีก 3 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>250</ID>
     <JP-Name>新編「第二航空戦隊」出撃せよ！</JP-Name>
     <TR-Name>B25: ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 2</TR-Name>
     <JP-Detail>新編「二航戦」を基幹とした艦隊で、珊瑚諸島沖に出撃、敵機動部隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ ฮิริว ไคนิ (飛龍改二) เป็นเรือธง, โซริว (蒼龍), DD 2 ลำ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-2</TR-Detail>
+    <TR-Detail>จัดเรือ ฮิริว ไคนิ (飛龍改二/Hiryuu Kai Ni) เป็นเรือธง, โซริว (蒼龍/Souryuu), เรือพิฆาต (DD) 2 ลำ และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 5-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>251</ID>
     <JP-Name>精鋭「第二航空戦隊」抜錨せよ！</JP-Name>
-    <TR-Name>B26: ปฏิบัตการกองเรือบรรทุกเครื่องบินที่ 2 ออกรบอีกครั้ง</TR-Name>
+    <TR-Name>B26: ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 2 อีกครั้ง</TR-Name>
     <JP-Detail>錬成を終え再編成「二航戦」を基幹とした艦隊で、敵リランカ島を空襲、破砕せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ โซริว ไคนิ (蒼龍改二) เป็นเรือธง, ฮิริว ไคนิ (飛龍改二), DD 2 ลำ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 4-3</TR-Detail>
+    <TR-Detail>จัดเรือ โซริว ไคนิ (蒼龍改二/Souryuu Kai Ni) ให้เป็นเรือธง, ฮิริว ไคนิ (飛龍改二/Hiryuu Kai Ni), เรือพิฆาต (DD) 2 ลำ และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 4-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>252</ID>
     <JP-Name>戦艦「榛名」出撃せよ！</JP-Name>
     <TR-Name>B27: ปฏิบัติการกองเรือฮารุนะ</TR-Name>
     <JP-Detail>第二次改装実施した「榛名」を基幹とした艦隊で「南方海域」へ進出、敵艦隊主力を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ ฮารุนะ ไคนิ เป็นเรือธง และอะไรก็ได้อีก 5 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-1</TR-Detail>
+    <TR-Detail>จัดเรือ ฮารุนะ ไคนิ (榛名改二/Haruna Kai Ni) เป็นเรือธง และเรืออะไรก็ได้อีก 5 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 5-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>253</ID>
     <JP-Name>「第六〇一航空隊」出撃せよ！</JP-Name>
     <TR-Name>B28: ปฏิบัติการฝูงบิน 601</TR-Name>
     <JP-Detail>雲龍型航空母艦「雲龍改」含む機動部隊で珊瑚島沖に出撃、敵機動部隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ อุนริว ไค เป็นเรือธง และอะไรก็ได้อีก 5 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-2</TR-Detail>
+    <TR-Detail>จัดเรือ อุนริว ไค (雲龍改/Unryuu Kai) เป็นเรือธง และเรืออะไรก็ได้อีก 5 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 5-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>254</ID>
     <JP-Name>「軽空母」戦隊、出撃せよ！</JP-Name>
     <TR-Name>B29: ปฏิบัติการกองเรือบรรทุกเครื่องบินเบา</TR-Name>
     <JP-Detail>軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でカムラン半島の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ CVL 1-2 ลำ, CL 1 ลำ, DD 3-4 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-1</TR-Detail>
+    <TR-Detail>จัดเรือ CVL 1-2 ลำ, CL 1 ลำ, DD 3-4 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>255</ID>
     <JP-Name>「水雷戦隊」バシー島沖緊急展開</JP-Name>
-    <TR-Name>B30: ปฏิบัติการกองเรือตอปิโดที่เกาะบาชิ</TR-Name>
+    <TR-Name>B30: ปฏิบัติการกองเรือตอร์ปิโดที่เกาะบาชิ</TR-Name>
     <JP-Detail>軽巡を旗艦とした水雷戦隊(軽巡最大2隻他駆逐艦)でバシー島沖の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ CL 1-2 ลำ เป็นเรือธง และ DD 4-5 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-2</TR-Detail>
+    <TR-Detail>จัดเรือ CL เป็นเรือธง, CL 1-2 ลำ และเรือ DD 4-5 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>256</ID>
     <JP-Name>「潜水艦隊」出撃せよ！</JP-Name>
     <TR-Name>Bm2: ออกรบ 2</TR-Name>
     <JP-Detail>潜水艦戦力を中核とした艦隊で中部海域哨戒線へ反復出撃、敵戦力を漸減せよ！</JP-Detail>
-    <TR-Detail>ชนะบอส 6-1 ให้ได้ Rank S จำนวน 3 ครั้ง</TR-Detail>
+    <TR-Detail>ชนะบอสด่าน 6-1 ให้ได้ Rank S ขึ้นไป 3 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>257</ID>
     <JP-Name>「水雷戦隊」南西へ！</JP-Name>
     <TR-Name>Bm3: ออกรบ 3</TR-Name>
     <JP-Detail>軽巡旗艦の水雷戦隊(軽巡最大3隻他駆逐艦)を急派、南西諸島防衛線で敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ CL 1-3 ลำ (ตั้ง CL ให้เป็นเรือธง 1 ลำ), ที่เหลือเป็น DD ทั้งหมด ไปชนะบอสให้ได้ Rank S ในด่าน 1-4</TR-Detail>
+    <TR-Detail>จัดเรือ CL เป็นเรือธง, CL 1-3 ลำ และเรือ DD 3-5 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 1-4</TR-Detail>
   </Quest>
   <Quest>
     <ID>258</ID>
     <JP-Name>「第二戦隊」抜錨！</JP-Name>
-    <TR-Name>B31: ปฏิบัติการกองเรือที่ 2</TR-Name>
+    <TR-Name>B31: ปฏิบัติการกองเรือประจัญบานที่ 2</TR-Name>
     <JP-Detail>「第二戦隊」を基幹とした艦隊でカレー洋に進出、反復出撃により敵海上兵力を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ นางาโตะ, มุทสึ, ฟุโซ, ยามาชิโระ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 4-2 จำนวน 2 รอบ</TR-Detail>
+    <TR-Detail>จัดเรือ นางาโตะ (長門/Nagato), มุทสึ (陸奥/Mutsu), ฟุโซ (扶桑/Fusou), ยามาชิโระ (山城/Yamashiro) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 4-2 2 รอบ</TR-Detail>
   </Quest>
   <Quest>
     <ID>259</ID>
     <JP-Name>「水上打撃部隊」南方へ！</JP-Name>
     <TR-Name>Bm4: ออกรบ 4</TR-Name>
     <JP-Detail>戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ BB (ช้า) 3 ลำ, CL 1 ลำ, และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-1</TR-Detail>
+    <TR-Detail>จัดเรือ BB/BBV ช้า 3 ลำ, CL 1 ลำ และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 5-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>260</ID>
     <JP-Name>「戦艦部隊」北方海域に突入せよ！</JP-Name>
     <TR-Name>B32: ปฏิบัติการกองเรือประจัญบานในทะเลทางตอนเหนือ</TR-Name>
     <JP-Detail>戦艦2隻と直援軽空母1隻(正規空母無し)基幹の艦隊で北方AL海域に突入、敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ BB 2 ลำ (ห้ามใช้ BBV), CVL 1 ลำ และอะไรก็ได้อีก 3 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 3-5</TR-Detail>
+    <TR-Detail>จัดเรือ BB 2 ลำ [ห้ามใช้ BBV], CVL 1 ลำ และเรืออะไรก็ได้อีก 3 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 3-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>261</ID>
     <JP-Name>海上輸送路の安全確保に努めよ！</JP-Name>
     <TR-Name>Bw10: ออกรบ 10</TR-Name>
     <JP-Detail>鎮守府正面の対潜哨戒を反復実施し、安全な海上輸送路を確保せよ！</JP-Detail>
-    <TR-Detail>ชนะบอส 1-5 ให้ได้ Rank A ขึ้นไป จำนวน 3 ครั้ง</TR-Detail>
+    <TR-Detail>ชนะบอสด่าน 1-5 ให้ได้ Rank A ขึ้นไป 3 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>262</ID>
     <JP-Name>「西村艦隊」南方海域へ進出せよ！</JP-Name>
-    <TR-Name>B33: ปฏิบัติการกองเรือนิชิมุระในทะเลทางตอนใต้</TR-Name>
+    <TR-Name>B33: ปฏิบัติการกองเรือนิชิมูระในทะเลทางตอนใต้</TR-Name>
     <JP-Detail>「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ ฟุโซ, ยามาชิโระ, โมกามิ, ชิงุเระ, มิจิซิโอะ และอะไรก็ได้อีก 1 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-1</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุโซ (扶桑/Fusou), ยามาชิโระ (山城/Yamashiro), โมกามิ (最上/Mogami), ชิกุเระ (時雨/Shigure), มิจิชิโอะ (満潮/Michishio) และเรืออะไรก็ได้อีก 1 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>263</ID>
     <JP-Name>「第六戦隊」南西海域へ出撃せよ！</JP-Name>
     <TR-Name>B34: ปฏิบัติการกองเรือที่ 6 ในทะเลทางตะวันตกเฉียงใต้</TR-Name>
     <JP-Detail>「古鷹」「加古」「青葉」「衣笠」を基幹とした「第六戦隊」で、沖ノ島沖の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ ฟุรุทากะ, คาโกะ, อาโอบะ, คินุกาสะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-5</TR-Detail>
+    <TR-Detail>จัดเรือ อาโอบะ (青葉/Aoba), คินุกาสะ (衣笠/Kinugasa), คาโกะ (加古/Kako), ฟุรุทากะ (古鷹/Furutaka) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>264</ID>
     <JP-Name>「空母機動部隊」西へ！</JP-Name>
     <TR-Name>Bm6: ออกรบ 6</TR-Name>
     <JP-Detail>航空母艦2隻(随伴駆逐艦2隻)を基幹とする空母機動艦隊で、カレー洋の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ CV 2 ลำ, DD 2 ลำ, และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 4-2</TR-Detail>
+    <TR-Detail>จัดเรือ CV/CVL 2 ลำ, DD 2 ลำ และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 4-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>265</ID>
     <JP-Name>海上護衛強化月間</JP-Name>
     <TR-Name>Bm5: ออกรบ 5</TR-Name>
     <JP-Detail>鎮守府正面海域の対潜哨戒を強化し、敵潜水艦を制圧、安全な海上輸送体制を確立せよ！</JP-Detail>
-    <TR-Detail>ชนะบอส 1-5 ให้ได้ Rank A ขึ้นไป จำนวน 10 ครั้ง</TR-Detail>
+    <TR-Detail>ชนะบอสด่าน 1-5 ให้ได้ Rank A ขึ้นไป 10 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>266</ID>
     <JP-Name>「水上反撃部隊」突入せよ！</JP-Name>
     <TR-Name>Bm7: ออกรบ 7</TR-Name>
     <JP-Detail>駆逐艦を旗艦とした重巡1隻軽巡1隻駆逐艦4隻からなる水上挺身部隊、沖ノ島沖に突入せよ！</JP-Detail>
-    <TR-Detail>ตั้งเรือ DD เป็นเรือธง 1 ลำ, CA 1 ลำ, CL 1 ลำ, และลำที่เหลือเป็น DD ไปชนะบอสให้ได้ Rank S ในด่าน 2-5</TR-Detail>
+    <TR-Detail>จัดเรือ DD เป็นเรือธง, DD 4 ลำ, CA 1 ลำ [ห้ามใช้ CAV], CL 1 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>267</ID>
     <JP-Name>「第十一駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>B35: ปฏิบัติการกองเรือพิฆาตที่ 11</TR-Name>
     <JP-Detail>「第十一駆逐隊」を含む艦隊で出撃し、オリョール海の敵を撃破せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ ฟุบุกิ, ซิรายูกิ, ฮัทสึยูกิ, มุราคุโมะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสในด่าน 2-3</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุบุกิ (吹雪/Fubuki), ชิรายูกิ (白雪/Shirayuki), ฮัทสึยูกิ (初雪/Hatsuyuki), มุราคุโมะ (叢雲/Murakumo) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสด่าน 2-3 ให้ได้</TR-Detail>
   </Quest>
   <Quest>
     <ID>268</ID>
     <JP-Name>「第十一駆逐隊」対潜哨戒！</JP-Name>
-    <TR-Name>B36: กองเรือพิฆาตที่ 11 (กองเรือลาดตะเวนต่อต้านเรือดำน้ำ)</TR-Name>
+    <TR-Name>B36: ปฏิบัติการกองเรือพิฆาตที่ 11 ต่อต้านเรือดำน้ำ</TR-Name>
     <JP-Detail>「第十一駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ ฟุบุกิ, ซิรายูกิ, ฮัทสึยูกิ, มุราคุโมะ ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 1-5</TR-Detail>
+    <TR-Detail>จัดเรือ ฟุบุกิ (吹雪/Fubuki), ชิรายูกิ (白雪/Shirayuki), ฮัทสึยูกิ (初雪/Hatsuyuki), มุราคุโมะ (叢雲/Murakumo) ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 1-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>269</ID>
     <JP-Name>「第二一駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>B37: ปฏิบัติการกองเรือพิฆาตที่ 21</TR-Name>
     <JP-Detail>「第二一駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ ฮัทสึฮารุ , เนโนฮิ, วาคาบะ, ฮัทสึชิโมะ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 3-1</TR-Detail>
+    <TR-Detail>จัดเรือ ฮัทสึฮารุ (初春/Hatsuharu), ฮัทสึชิโมะ (初霜/Hatsushimo), เนโนฮิ (子日/Nenohi), วาคาบะ (若葉/Wakaba) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 3-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>270</ID>
     <JP-Name>「第二二駆逐隊」出撃せよ！</JP-Name>
     <TR-Name>B39: ปฏิบัติการกองเรือพิฆาตที่ 22</TR-Name>
     <JP-Detail>「第二二駆逐隊」を含む艦隊で南西諸島防衛線に出撃、敵主力艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ ซัทสึกิ, ฟุมิสึกิ, นางาสึกิ, DD 1 ลำ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 1-4</TR-Detail>
+    <TR-Detail>จัดเรือ ซัทสึกิ (皐月/Satsuki), ฟุมิสึกิ (文月/Fumizuki), นางาสึกิ (長月/Nagatsuki),เรือพิฆาต (DD) 1 ลำ และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 1-4</TR-Detail>
   </Quest>
   <Quest>
     <ID>271</ID>
     <JP-Name>「那智戦隊」抜錨せよ！</JP-Name>
     <TR-Name>B38: ปฏิบัติการกองเรือนาจิ</TR-Name>
     <JP-Detail>旗艦「那智」及び「初霜」「霞」「潮」「曙」他1隻の艦隊でバシー島沖の敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>ตั้งเรือ นาจิ เป็นเรือธง, ฮัทสึชิโมะ, คาสุมิ, อุชิโอะ, อาเคโบโนะ และอะไรก็ได้อีก 1 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-2</TR-Detail>
+    <TR-Detail>จัดเรือ นาจิ (那智/Nachi) เป็นเรือธง, ฮัทสึชิโมะ (初霜/Hatsushimo), คาสุมิ (霞/Kasumi), อุชิโอะ (潮/Ushio), อาเคโบโนะ (曙/Akebono) และเรืออะไรก็ได้อีก 1 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-2</TR-Detail>
   </Quest>
  <Quest>
     <ID>272</ID>
     <JP-Name>「改装防空重巡」出撃せよ！</JP-Name>
     <TR-Name>B40: ปฏิบัติการกองเรือลาดตะเวนหนักต่อต้านอากาศยาน</TR-Name>
     <JP-Detail>摩耶改または摩耶改二及び軽巡1駆逐2隻を含む艦隊でオリョール海の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ มายะ, CL 1 ลำ, DD 2 ลำ และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-3</TR-Detail>
+    <TR-Detail>จัดเรือ มายะ (摩耶/Maya), CL 1 ลำ, DD 2 ลำ และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>273</ID>
     <JP-Name>新編「三川艦隊」ソロモン方面へ！</JP-Name>
-    <TR-Name>B41: ปฏิบัติการกองเรือมิคาวะที่เกาะโซโลม่อน</TR-Name>
+    <TR-Name>B41: ปฏิบัติการกองเรือมิคาวะในศึกโซโลมอน</TR-Name>
     <JP-Detail>第一艦隊に編成した「三川艦隊」を南方海域に進出させ、同方面の敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>ตั้งเรือ โจไค ไคนิ เป็นเรือธง, และเลือกเรือมา 5 ลำ จากรายการนี้ อาโอบะ, คินุกาสะ, คาโกะ, ฟุรุทากะ, เทนริว, ยูบาริ ไปชนะบอสให้ได้ Rank S ในด่าน 5-1</TR-Detail>
+    <TR-Detail>จัดเรือ โจไค ไคนิ (鳥海改ニ/Choukai Kai Ni) เป็นเรือธง และเลือกเรืออีก 5 ลำจากรายการนี้ อาโอบะ (青葉/Aoba), คินุกาสะ (衣笠/Kinugasa), คาโกะ (加古/Kako), ฟุรุทากะ (古鷹/Furutaka), เทนริว (天龍/Tenryuu), ยูบาริ (夕張/Yuubari) ไปชนะบอสให้ได้ Rank S ในด่าน 5-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>274</ID>
     <JP-Name>「第六駆逐隊」対潜哨戒なのです！</JP-Name>
-    <TR-Name>B42: ปฏิบัติการกองเรือพิฆาตที่ 6 (ต่อต้านเรือดำน้ำ)</TR-Name>
+    <TR-Name>B42: ปฏิบัติการกองเรือพิฆาตที่ 6 ต่อต้านเรือดำน้ำ</TR-Name>
     <JP-Detail>「第六駆逐隊」を含む艦隊で鎮守府正面へ展開、対潜哨戒を実施せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ อาคัทสึกิ, ฮิบิกิ (หรือเวลนุยก็ได้), อินาซึมะ, อิคาซึจิ ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 1-5</TR-Detail>
+    <TR-Detail>จัดเรือ อาคัทสึกิ (暁/Akatsuki), ฮิบิกิ/เวลนุย (響/Hibiki/Верный), อินาซึมะ (雷/Inazuma), อิคาซึจิ (電/Ikazuchi) ไปชนะบอสให้ได้ Rank C ขึ้นไปในด่าน 1-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>275</ID>
     <JP-Name>抜錨！「第十八戦隊」</JP-Name>
     <TR-Name>B43: ปฏิบัติการกองเรือที่ 18</TR-Name>
     <JP-Detail>「天龍」「龍田」を基幹戦力とした「第十八戦隊」で出撃し、オリョール海の敵主力を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ เทนริว, ทัตสึตะ, และอะไรก็ได้อีก 4 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-3</TR-Detail>
+    <TR-Detail>จัดเรือ เทนริว (天龍/Tenryuu) และ ทัตสึตะ (龍田/Tatsuta) และเรืออะไรก็ได้อีก 4 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>276</ID>
     <JP-Name>海上突入部隊、進発せよ！</JP-Name>
     <TR-Name>B44: ปฏิบัติการกองเรือจู่โจมภาคพื้นน้ำ</TR-Name>
     <JP-Detail>「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方海域進出作戦を実施、敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ ฮิเอย์, คิริชิมะ, นาการะ, อาคัทสึกิ, อิคาซึจิ, อินาซึมะ ไปชนะบอสให้ได้ Rank S ในด่าน 5-1</TR-Detail>
+    <TR-Detail>จัดเรือ ฮิเอย์ (比叡/Hiei), คิริชิมะ (霧島/Kirishima), นาการะ (長良/Nagara), อาคัทสึกิ (暁/Akatsuki), อิคาซึจิ (雷/Ikazuchi), อินาซึมะ (電/Inazuma) ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 5-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>277</ID>
     <JP-Name>「第六駆逐隊」対潜哨戒を徹底なのです！</JP-Name>
-    <TR-Name>B45: ปฏิบัติการอีกครั้งกองเรือพิฆาติที่ 6 (ต่อต้านเรือดำน้ำ)</TR-Name>
+    <TR-Name>B45: ปฏิบัติการกองเรือพิฆาตที่ 6 ต่อต้านเรือดำน้ำอีกครั้ง</TR-Name>
     <JP-Detail>「第六駆逐隊」を含む艦隊で鎮守府正面で対潜哨戒を実施、敵潜水艦部隊を痛打せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ อาคัทสึกิ ไคนิ, ฮิบิกิ (หรือเวลนุยก็ได้), อิคาซึจิ, อินาซึมะ ไปชนะบอสให้ได้ Rank A ขึ้นไป ในด่าน 1-5</TR-Detail>
+    <TR-Detail>จัดเรือ อาคัทสึกิ ไคนิ (暁改二/Akatsuki Kai Ni), ฮิบิกิ/เวลนุย (響/Hibiki/Верный), อินาซึมะ (雷/Inazuma), อิคาซึจิ (電/Ikazuchi) ไปชนะบอสให้ได้ Rank A ขึ้นไปในด่าน 1-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>278</ID>
     <JP-Name>「第一水雷戦隊」ケ号作戦、突入せよ！</JP-Name>
-    <TR-Name>B46: ปฏิบัติการกองเรือตอปิโดที่ 1 กับภาระกิจ KE</TR-Name>
+    <TR-Name>B46: ปฏิบัติการ KE ของกองเรือตอร์ปิโดที่ 1</TR-Name>
     <JP-Detail>北方突入準備を完了した「一水戦」で北方キス島に突入！包囲網を破り、友軍を救出せよ！</JP-Detail>
-    <TR-Detail>ตั้งเรือ อาบุคุมะ เป็นเรือธง, ฮิบิกิ (หรือเวลนุยก็ได้), ฮัทสึชิโมะ, วาคาบะ, ซามิดาเระ, ชิมะคาเซะ ไปชนะบอสให้ได้ Rank B ขึ้นไป ในด่าน 3-2</TR-Detail>
+    <TR-Detail>จัดเรือ อาบุคุมะ (阿武隈/Abukuma) เป็นเรือธง, ฮิบิกิ/เวลนุย (響/Hibiki/Верный), ฮัทสึชิโมะ (初霜/Hatsushimo), วาคาบะ (若葉/Wakaba), ซามิดาเระ (五月雨/Samidare), ชิมะคาเซะ (島風/Shimakaze) ไปชนะบอสให้ได้ Rank B ขึ้นไปในด่าน 3-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>279</ID>
     <JP-Name>「第一水雷戦隊」北方ケ号作戦、再突入！</JP-Name>
-    <TR-Name>B47: ปฏิบัติการกองเรือตอปิโดที่ 1 กับภาระกิจ KE (อีกครั้ง)</TR-Name>
+    <TR-Name>B47: ปฏิบัติการ KE ของกองเรือตอร์ปิโดที่ 1 อีกครั้ง</TR-Name>
     <JP-Detail>北方再突入準備の新編「一水戦」で北方キス島に再突入を敢行、同撤収作戦を完遂せよ！</JP-Detail>
-    <TR-Detail>ตั้งเรือ อาบุคุมะ ไคนิ เป็นเรือธง, ฮิบิกิ (หรือเวลนุยก็ได้), ยูกุโมะ, นากานามิ, อากิกุโมะ, ชิมะคาเซะ ไปชนะบอสให้ได้ Rank S ในด่าน 3-2</TR-Detail>
+    <TR-Detail>จัดเรือ อาบุคุมะ ไคนิ (阿武隈改二/Abukuma Kai Ni) เป็นเรือธง, ฮิบิกิ/เวลนุย (響/Hibiki/Верный), ยูกุโมะ (夕雲/Yuugumo), นากานามิ (長波/Naganami), อากิกุโมะ (秋雲/Akigumo), ชิมะคาเซะ (島風/Shimakaze) ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 3-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>285</ID>
     <JP-Name>「空母機動部隊」北方海域に進出せよ！</JP-Name>
-    <TR-Name>B49: กองเรือบรรทุกเครื่องบินมุงหน้าสู่ทะเลทางตอนเหนือ!</TR-Name>
+    <TR-Name>B49: ปฏิบัติการกองเรือบรรทุกเครื่องบินในทะเลเหนือ</TR-Name>
     <JP-Detail>航空母艦を旗艦とした空母機動部隊を北方AL海域方面に展開、敵戦力を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ CV เป็นเรือธง, และอะไรก็ได้อีก 5 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 3-5</TR-Detail>
+    <TR-Detail>จัดเรือ CV เป็นเรือธง, และเรืออะไรก็ได้อีก 5 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 3-5</TR-Detail>
   </Quest>
   <Quest>
     <ID>286</ID>
     <JP-Name>鎮守府正面の対潜哨戒を強化せよ！</JP-Name>
-    <TR-Name>B48: เสริมความแข็งแกร่งทีมเรือลาดตะเวนต่อต้านเรือดำน้ำของฐานทัพเรือ</TR-Name>
+    <TR-Name>B48: ปรับสมรรถนะกองเรือต่อต้านเรือดำน้ำ</TR-Name>
     <JP-Detail>鎮守府正面の対潜哨戒を強化し、海上資源輸送路の安全を確立せよ！</JP-Detail>
-    <TR-Detail>จัดเรือไปชนะบอสให้ได้ Rank B ขึ้นไปในด่าน 1-5 จำนวน 4 ครั้ง</TR-Detail>
+    <TR-Detail>ชนะบอสด่าน 1-5 ให้ได้ Rank A ขึ้นไป 4 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>287</ID>
     <JP-Name>「第五航空戦隊」珊瑚諸島沖に出撃せよ！</JP-Name>
-    <TR-Name>B50: ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 5 ที่หมู่เกาะ Coral</TR-Name>
+    <TR-Name>B50: ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 5 ที่หมู่เกาะคอรัล</TR-Name>
     <JP-Detail>再編成した「第五航空戦隊」を珊瑚諸島沖に展開、敵機動部隊を捕捉撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ โชคาคุ (翔鶴), ซุยคาคุ (瑞鶴), โอโบโระ (朧), อากิกุโมะ (秋雲) และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 5-2</TR-Detail>
+    <TR-Detail>จัดเรือ โชคาคุ (翔鶴/Shoukaku), ซุยคาคุ (瑞鶴/Zuikaku), โอโบโระ (朧/Oboro), อากิกุโมะ (秋雲/Akigumo) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 5-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>288</ID>
     <JP-Name>新編「第二一戦隊」北方へ出撃せよ！</JP-Name>
-    <TR-Name>B51: ปฏิบัติการกองเรือที่ 21 ทางเหนือ</TR-Name>
+    <TR-Name>B51: ปฏิบัติการกองเรือที่ 21 ในทะเลเหนือ</TR-Name>
     <JP-Detail>新編「第二一戦隊」を基幹とする艦隊で北方海域モーレイ海に出撃、敵を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ นาจิ ไคนิ (那智改二), อาชิงาระ ไคนิ (足柄改二), ทามะ (多摩), คิโสะ (木曾) และอะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 3-1</TR-Detail>
+    <TR-Detail>จัดเรือ นาจิ ไคนิ (那智改二/Nachi Kai Ni), อาชิงาระ ไคนิ (足柄改二/Ashigara Kai Ni), ทามะ (多摩/Tama), คิโสะ (木曾/Kiso) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 3-1</TR-Detail>
   </Quest>
   <Quest>
     <ID>289</ID>
     <JP-Name>「第十六戦隊(第一次)」出撃せよ！</JP-Name>
     <TR-Name>B52: ปฏิบัติการกองเรือลาดตระเวนที่ 16 รุ่นใหม่</TR-Name>
     <JP-Detail>「第十六戦隊(第一次)」をバシー島沖に展開、敵艦隊を撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ อาชิงาระ (足柄) เป็นเรือธง, คุมะ (球磨), นาการะ (長良) และอะไรก็ได้อีก 3 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 2-2</TR-Detail>
+    <TR-Detail>จัดเรือ อาชิงาระ (足柄/Ashigara) เป็นเรือธง, คุมะ (球磨/Kuma), นาการะ (長良/Nagara) และเรืออะไรก็ได้อีก 3 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-2</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
     <TR-Name>C1: ซ้อมรบครั้งแรก</TR-Name>
     <JP-Detail>他の提督(プレイヤー)の艦隊と「演習」を行おう！</JP-Detail>
-    <TR-Detail>ซ้อมรบ 1 ครั้ง</TR-Detail>
+    <TR-Detail>สู้ในโหมดซ้อมรบ (PVP) 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>302</ID>
     <JP-Name>大規模演習</JP-Name>
     <TR-Name>C4w: ซ้อมรบ 3</TR-Name>
     <JP-Detail>今週中に「演習」で他の提督の艦隊に対して20回「勝利」しよう！</JP-Detail>
-    <TR-Detail>ชนะซ้อมรบ 20 ครั้ง ใน 1 สัปดาห์</TR-Detail>
+    <TR-Detail>ชนะการซ้อมรบ (PVP) 20 ครั้ง ใน 1 สัปดาห์</TR-Detail>
   </Quest>
   <Quest>
     <ID>303</ID>
     <JP-Name>「演習」で練度向上！</JP-Name>
     <TR-Name>C2d1: ซ้อมรบ 1</TR-Name>
     <JP-Detail>本日中に他の司令官の艦隊に対して3回「演習」を挑もう！</JP-Detail>
-    <TR-Detail>ซ้อมรบ 3 ครั้ง (แพ้หรือชนะก็ได้)</TR-Detail>
+    <TR-Detail>สู้ในโหมดซ้อมรบ (PVP) 3 ครั้ง ใน 1 วัน (แพ้หรือชนะก็ได้)</TR-Detail>
   </Quest>
   <Quest>
     <ID>304</ID>
     <JP-Name>「演習」で他提督を圧倒せよ！</JP-Name>
     <TR-Name>C3d2: ซ้อมรบ 2</TR-Name>
     <JP-Detail>本日中に他の司令官の艦隊との「演習」で5回以上「勝利」をおさめよう！</JP-Detail>
-    <TR-Detail>ชนะซ้อมรบ 5 ครั้ง ใน 1 วัน</TR-Detail>
+    <TR-Detail>ชนะการซ้อมรบ (PVP) 5 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>306</ID>
     <JP-Name>式の準備！(その弐)</JP-Name>
     <TR-Name>WC01: แต่งงานกับเรือที่รัก 2</TR-Name>
     <JP-Detail>本日中に「演習」で2回以上「勝利」をおさめ、式への気持ちを整理しよう！</JP-Detail>
-    <TR-Detail>แสดงความรักที่คุณมีให้กับเรือ โดยการชนะการซ้อมรบ 2 ครั้ง</TR-Detail>
+    <TR-Detail>ชนะการซ้อมรบ (PVP) 2 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>307</ID>
     <JP-Name>艦隊の練度向上に努めよ！</JP-Name>
     <TR-Name>C5: ซ้อมรบเสริม 1</TR-Name>
     <JP-Detail>作戦前に艦隊の練度向上を図る！本日中に「演習」で3回以上「勝利」をおさめよう！</JP-Detail>
-    <TR-Detail>ชนะซ้อมรบ 3 ครั้ง ใน 1 วัน</TR-Detail>
+    <TR-Detail>ชนะการซ้อมรบ (PVP) 3 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>308</ID>
     <JP-Name>演習を強化、艦隊の練度向上に努めよ！</JP-Name>
     <TR-Name>C6: ซ้อมรบเสริม 2</TR-Name>
     <JP-Detail>艦隊のさらなる練度向上を図る！本日中に「演習」で4回以上「勝利」をおさめよう！</JP-Detail>
-    <TR-Detail>ชนะซ้อมรบ 4 ครั้ง ใน 1 วัน</TR-Detail>
+    <TR-Detail>ชนะการซ้อมรบ (PVP) 4 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>309</ID>
     <JP-Name>北方再突入に備え、練度向上に努めよ！</JP-Name>
     <TR-Name>C7: ซ้อมรบเสริม 3</TR-Name>
     <JP-Detail>艦隊再突入に備え、艦隊練度向上を図る！本日中に「演習」で4回以上「勝利」せよ！</JP-Detail>
-    <TR-Detail>ชนะซ้อมรบ 4 ครั้ง ใน 1 วัน</TR-Detail>
+    <TR-Detail>ชนะการซ้อมรบ (PVP) 4 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>311</ID>
     <JP-Name>精鋭艦隊演習</JP-Name>
     <TR-Name>C8m: ซ้อมรบเสริม 4</TR-Name>
     <JP-Detail>同日中に「演習」で7回以上「勝利」をおさめ、我が精鋭艦隊の練度を示そう！</JP-Detail>
-    <TR-Detail>ชนะซ้อมรบ 7 ครั้ง ใน 1 วัน</TR-Detail>
+    <TR-Detail>ชนะการซ้อมรบ (PVP) 7 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>401</ID>
     <JP-Name>はじめての「遠征」！</JP-Name>
     <TR-Name>D1: ส่งสำรวจครั้งแรก</TR-Name>
     <JP-Detail>艦隊を「遠征」に出発させよう！</JP-Detail>
-    <TR-Detail>ส่งสำรวจจำนวน 1 ครั้ง</TR-Detail>
+    <TR-Detail>ส่งสำรวจ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>402</ID>
     <JP-Name>「遠征」を３回成功させよう！</JP-Name>
     <TR-Name>D2d1: สำรวจ 1</TR-Name>
     <JP-Detail>本日中に「遠征」３回成功させよう！</JP-Detail>
-    <TR-Detail>ส่งสำรวจให้สำเร็จ 3 ครั้ง ใน 1 วัน</TR-Detail>
+    <TR-Detail>ส่งสำรวจสำเร็จ 3 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>403</ID>
     <JP-Name>「遠征」を１０回成功させよう！</JP-Name>
     <TR-Name>D3d2: สำรวจ 2</TR-Name>
     <JP-Detail>本日中に「遠征」10回成功させよう！</JP-Detail>
-    <TR-Detail>ส่งสำรวจให้สำเร็จ 10 ครั้ง ใน 1 วัน</TR-Detail>
+    <TR-Detail>ส่งสำรวจสำเร็จ 10 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>404</ID>
     <JP-Name>大規模遠征作戦、発令！</JP-Name>
     <TR-Name>D4w1: สำรวจ 3</TR-Name>
     <JP-Detail>今週中に「遠征」30回成功させよう！</JP-Detail>
-    <TR-Detail>ส่งสำรวจให้สำเร็จ 30 ครั้ง ใน 1 สัปดาห์</TR-Detail>
+    <TR-Detail>ส่งสำรวจสำเร็จ 30 ครั้ง ใน 1 สัปดาห์</TR-Detail>
   </Quest>
   <Quest>
     <ID>405</ID>
@@ -1076,14 +1076,14 @@
     <JP-Name>第二次潜水艦派遣作戦</JP-Name>
     <TR-Name>D6: ส่งสำรวจเรือดำน้ำ 2</TR-Name>
     <JP-Detail>第二次潜水艦派遣作戦を成功させよう！</JP-Detail>
-    <TR-Detail>ส่งสำรวจที่ 30 ให้สำเร็จ 1 ครั้ง</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 30 ให้สำเร็จอีก 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>408</ID>
     <JP-Name>潜水艦派遣作戦による技術入手の継続！</JP-Name>
     <TR-Name>D7: ส่งสำรวจเรือดำน้ำ 3</TR-Name>
     <JP-Detail>第三次及び第四次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！</JP-Detail>
-    <TR-Detail>ส่งสำรวจที่ 30 ให้สำเร็จ 2 ครั้ง</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 30 ให้สำเร็จอีก 2 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>409</ID>
@@ -1118,7 +1118,7 @@
     <JP-Name>(続)航空火力艦の運用を強化せよ！</JP-Name>
     <TR-Name>D12: ส่งสำรวจเรือประจัญบานบรรทุกเครื่องบิน 2</TR-Name>
     <JP-Detail>「航空戦艦運用演習」を継続実施し、航空火力艦の運用の強化に引き続き努めよ！</JP-Detail>
-    <TR-Detail>ส่งสำรวจที่ 23 ให้สำเร็จ 4 ครั้ง</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 23 ให้สำเร็จอีก 4 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>414</ID>
@@ -1130,9 +1130,9 @@
   <Quest>
     <ID>415</ID>
     <JP-Name>遠洋潜水艦作戦の成果を拡大せよ！</JP-Name>
-    <TR-Name>D14: สำรวจ 39 อีกครั้ง</TR-Name>
+    <TR-Name>D14: สำรวจ 39 อีก 2 ครั้ง</TR-Name>
     <JP-Detail>「遠洋潜水艦作戦」を継続実施し、潜水艦隊の練度向上と敵艦隊漸減に努めよ！</JP-Detail>
-    <TR-Detail>ส่งสำรวจที่ 39 ให้สำเร็จ 2 ครั้ง</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 39 ให้สำเร็จอีก 2 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>416</ID>
@@ -1167,14 +1167,14 @@
     <JP-Name>機動部隊の運用を強化せよ！</JP-Name>
     <TR-Name>D19: สำรวจเพื่อเพิ่มประสิทธิภาพของกองทัพ</TR-Name>
     <JP-Detail>機動部隊遠征を実施、「MO作戦」及び「敵母港空襲作戦」を展開、これを成功させよ！</JP-Detail>
-    <TR-Detail>ส่งสำรวจที่ 35 และ 26</TR-Detail>
+    <TR-Detail>ส่งสำรวจที่ 26 และ 35 ให้สำเร็จอย่างละ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>501</ID>
     <JP-Name>はじめての「補給」！</JP-Name>
-    <TR-Name>E1: เติมเสบียงครั้งแรก</TR-Name>
+    <TR-Name>E1: เติมยุทธปัจจัยครั้งแรก</TR-Name>
     <JP-Detail>補給は大事です！燃料・弾薬を艦に「補給」しよう！</JP-Detail>
-    <TR-Detail>เติมเสบียง 1 ครั้ง</TR-Detail>
+    <TR-Detail>เติมยุทธปัจจัย 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>502</ID>
@@ -1188,21 +1188,21 @@
     <JP-Name>艦隊大整備！</JP-Name>
     <TR-Name>E3d1: ซ่อมเรือ 1</TR-Name>
     <JP-Detail>各艦隊から整備が必要な艦を5隻以上ドック入りさせ、大規模な整備をしよう！</JP-Detail>
-    <TR-Detail>ซ่อมเรือ 5 ลำ ใน 1 วัน</TR-Detail>
+    <TR-Detail>ซ่อมเรือ 5 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>504</ID>
     <JP-Name>艦隊酒保祭り！</JP-Name>
-    <TR-Name>E4d2: เติมเสบียง 1</TR-Name>
+    <TR-Name>E4d2: เติมยุทธปัจจัย 1</TR-Name>
     <JP-Detail>艦隊酒保祭り！各艦に延べ15回以上の補給を実施しよう！</JP-Detail>
-    <TR-Detail>เติมเสบียง 15 ครั้ง ใน 1 วัน</TR-Detail>
+    <TR-Detail>เติมยุทธปัจจัย 15 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>601</ID>
     <JP-Name>はじめての「建造」！</JP-Name>
     <TR-Name>F1: ต่อเรือครั้งแรก</TR-Name>
     <JP-Detail>「工廠」で鋼材などの資材を使って新しい艦を「建造」しよう！</JP-Detail>
-    <TR-Detail>ต่อเรือ 1 ครั้ง</TR-Detail>
+    <TR-Detail>ต่อเรือ 1 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>602</ID>
@@ -1214,16 +1214,16 @@
   <Quest>
     <ID>603</ID>
     <JP-Name>はじめての「解体」！</JP-Name>
-    <TR-Name>F3: ย่อยเรือครั้งแรก</TR-Name>
+    <TR-Name>F3: แยกส่วนเรือครั้งแรก</TR-Name>
     <JP-Detail>「工廠」で不要な艦を「解体」してみよう！</JP-Detail>
-    <TR-Detail>ย่อยเรือ 1 ลำ</TR-Detail>
+    <TR-Detail>แยกส่วนเรือ 1 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>604</ID>
     <JP-Name>はじめての「廃棄」！</JP-Name>
-    <TR-Name>F4: ย่อยอาวุธครั้งแรก</TR-Name>
+    <TR-Name>F4: แยกส่วนอาวุธครั้งแรก</TR-Name>
     <JP-Detail>「工廠」で不要な装備アイテムを「廃棄」してみよう！</JP-Detail>
-    <TR-Detail>ย่อยอาวุธ 1 ครั้ง</TR-Detail>
+    <TR-Detail>แยกส่วนอาวุธ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>605</ID>
@@ -1237,7 +1237,7 @@
     <JP-Name>新造艦「建造」指令</JP-Name>
     <TR-Name>F6d2: ต่อเรือ 1</TR-Name>
     <JP-Detail>「工廠」で艦娘を本日中に新たに「建造」しよう！</JP-Detail>
-    <TR-Detail>ต่อเรือ 1 ครั้ง ใน 1 วัน</TR-Detail>
+    <TR-Detail>ต่อเรือ 1 ลำ ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>607</ID>
@@ -1251,132 +1251,132 @@
     <JP-Name>艦娘「建造」艦隊強化！</JP-Name>
     <TR-Name>F8d4: ต่อเรือ 2</TR-Name>
     <JP-Detail>艦隊強化のため、「工廠」で艦娘を本日中に3隻「建造」しよう！</JP-Detail>
-    <TR-Detail>ต่อเรือ 3 ครั้ง ใน 1 วัน</TR-Detail>
+    <TR-Detail>ต่อเรือ 3 ลำ ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>609</ID>
     <JP-Name>軍縮条約対応！</JP-Name>
-    <TR-Name>F9d5: ย่อยเรือ 1</TR-Name>
+    <TR-Name>F9d5: แยกส่วนเรือ 1</TR-Name>
     <JP-Detail>少し艦隊規模が大きくなりすぎました！「工廠」で不要な艦を2隻「解体」してください！</JP-Detail>
-    <TR-Detail>ย่อยเรือ 2 ลำ ใน 1 วัน</TR-Detail>
+    <TR-Detail>แยกส่วนเรือ 2 ลำ ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>610</ID>
     <JP-Name>「大型艦建造」の準備！(その弐)</JP-Name>
-    <TR-Name>F10: ปลดล็อกอู่ต่อเรือใหญ่ 2 (LSC)</TR-Name>
+    <TR-Name>F10: เตรียมพร้อมสำหรับอู่ต่อเรือใหญ่</TR-Name>
     <JP-Detail>大型艦建造の準備をします！「工廠」で装備アイテムを4回「廃棄」してみてください！</JP-Detail>
-    <TR-Detail>ย่อยอาวุธ 4 ครั้ง</TR-Detail>
+    <TR-Detail>แยกส่วนอาวุธ 4 ครั้ง [ปลดล็อกระบบอู่ต่อเรือใหญ่]</TR-Detail>
   </Quest>
   <Quest>
     <ID>611</ID>
     <JP-Name>式の準備！(その壱)</JP-Name>
     <TR-Name>WF01: แต่งงานกับเรือที่รัก 1</TR-Name>
     <JP-Detail>式の準備をします！「工廠」で装備アイテムを2回「廃棄」して身の回りの整理を！</JP-Detail>
-    <TR-Detail>แสดงความรักที่คุณมีให้กับเรือที่รัก โดยการย่อยอาวุธ 2 ครั้ง</TR-Detail>
+    <TR-Detail>แยกส่วนอาวุธ 2 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>612</ID>
     <JP-Name>輸送用ドラム缶の準備</JP-Name>
     <TR-Name>F11: เตรียมความพร้อมถังสำรวจ</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを3回「廃棄」して、輸送用のドラム缶を準備します。</JP-Detail>
-    <TR-Detail>ย่อยอาวุธ 3 ครั้ง</TR-Detail>
+    <TR-Detail>แยกส่วนอาวุธ 3 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>613</ID>
     <JP-Name>資源の再利用</JP-Name>
-    <TR-Name>F12w: ย่อยอาวุธ 1</TR-Name>
+    <TR-Name>F12w: แยกส่วนอาวุธ 1</TR-Name>
     <JP-Detail>「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよう！</JP-Detail>
-    <TR-Detail>ย่อยอาวุธ 24 ครั้ง ใน 1 สัปดาห์</TR-Detail>
+    <TR-Detail>แยกส่วนอาวุธ 24 ครั้ง ใน 1 สัปดาห์</TR-Detail>
   </Quest>
   <Quest>
     <ID>614</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>F13: ปรับโมเดลเครื่องบิน [Type 97 Torpedo Bomber (Tomonaga Squadron)]</TR-Name>
     <JP-Detail>「九七式艦攻(友永隊)」搭載空母を秘書艦にした状態で新たに「天山」を2つ廃棄！</JP-Detail>
-    <TR-Detail>ตั้งเรือ ฮิริว ไคนิ เป็นเรือธง, และ ติดตั้งเครื่องบิน Type 97 Torpedo Bomber (Tomonaga  [ห้ามล็อกเครื่องบินเด็ดขาด], จากนั้นย่อยเครื่องบิน Tenzan (Heavenly Mountain) จำนวน 2 ลำ [ให้กดย่อยทีละลำ]</TR-Detail>
+    <TR-Detail>จัดเรือ ฮิริว ไคนิ ติดตั้งเครื่องบิน Type 97 Torpedo Bomber (九七式艦攻(友永隊)) [ห้ามล็อกเครื่องบิน] จากนั้นแยกส่วนเครื่องบิน Tenzan (天山) 2 ลำ [แยกส่วนทีละลำ]</TR-Detail>
   </Quest>
   <Quest>
     <ID>615</ID>
     <JP-Name>機種転換</JP-Name>
    <TR-Name>F14: ปรับโมเดลเครื่องบิน [Type 99 Dive Bomber (Egusa Squadron)]</TR-Name>
     <JP-Detail>「九九式艦爆(江草隊)」搭載空母を秘書艦にした状態で新たに「彗星」を2つ廃棄！</JP-Detail>
-    <TR-Detail>ตั้งเรือ โซริว เป็นเรือธง, และติดตั้งเครื่องบิน Type 99 Dive Bomber (Egusa Squadron) [ห้ามล็อกเครื่องบินเด็ดขาด], จากนั้นย่อยเครื่องบิน Suisei (Comet) จำนวน 2 ลำ [ให้กดย่อยทีละลำ]</TR-Detail>
+    <TR-Detail>จัดเรือ โซริว ติดตั้งเครื่องบิน Type 99 Dive Bomber (九九式艦爆(江草隊)) [ห้ามล็อกเครื่องบิน] จากนั้นแยกส่วนเครื่องบิน Suisei (彗星) 2 ลำ [แยกส่วนทีละลำ]</TR-Detail>
   </Quest>
   <Quest>
     <ID>616</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>F15: ปรับโมเดลเครื่องบิน [Zero Fighter Type 52 Type C (601 Air Group)]</TR-Name>
     <JP-Detail>「零戦52型丙(六〇一空)」搭載空母を秘書艦にした状態で新たに「烈風」を2つ廃棄！</JP-Detail>
-    <TR-Detail>ให้เรือธง ติดตั้งเครื่องบิน Zero Fighter Type 52 Type C (601 Air Group) [ห้ามล็อกเครื่องบินเด็ดขาด], จากนั้นย่อยเครื่องบิน Reppuu (Strong Gale) จำนวน 2 ลำ [ให้กดย่อยทีละลำ]</TR-Detail>
+    <TR-Detail>จัดเรือธง ติดตั้งเครื่องบิน Zero Fighter Type 52 Type C (零戦52型丙(六〇一空)) [ห้ามล็อกเครื่องบิน] จากนั้นแยกส่วนเครื่องบิน Reppuu (烈風) 2 ลำ [แยกส่วนทีละลำ]</TR-Detail>
   </Quest>
   <Quest>
     <ID>617</ID>
     <JP-Name>「伊良湖」の準備</JP-Name>
-    <TR-Name>F16: เตรียมความพร้อมขนมอิราโกะ</TR-Name>
+    <TR-Name>F16: เตรียมความพร้อมสำหรับขนมอิราโกะ</TR-Name>
     <JP-Detail>「工廠」で不要な装備アイテムをいくつか「廃棄」して、新型給糧艦召喚の準備をしましょう！</JP-Detail>
-    <TR-Detail>ย่อยอาวุธ 10 ครั้ง</TR-Detail>
+    <TR-Detail>แยกส่วนอาวุธ 10 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>618</ID>
     <JP-Name>はじめての「装備改修」！</JP-Name>
-    <TR-Name>F17: อัพเกรดอาวุธครั้งแรก</TR-Name>
+    <TR-Name>F17: พัฒนาอาวุธครั้งแรก</TR-Name>
     <JP-Detail>「改修工廠」で「装備」を改修してみましょう！明石さん、お願いします！</JP-Detail>
-    <TR-Detail>อัพเกรดอาวุธ 1 ครั้ง</TR-Detail>
+    <TR-Detail>พัฒนาอาวุธ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>619</ID>
     <JP-Name>装備の改修強化</JP-Name>
-    <TR-Name>F18d6: อัพเกรดอาวุธ 1</TR-Name>
+    <TR-Name>F18d6: พัฒนาอาวุธ 1</TR-Name>
     <JP-Detail>「改修工廠」で「装備」の改修強化に努めます。</JP-Detail>
-    <TR-Detail>อัพเกรดอาวุธ 1 ครั้ง ใน 1 วัน (ล้มเหลวได้)</TR-Detail>
+    <TR-Detail>พัฒนาอาวุธ 1 ครั้ง ใน 1 วัน (ล้มเหลวได้)</TR-Detail>
   </Quest>
   <Quest>
     <ID>622</ID>
     <JP-Name>機種転換</JP-Name>
     <TR-Name>F20: ปรับโมเดลเครื่องบิน [Type 97 Torpedo Bomber (Murata Squadron)]</TR-Name>
     <JP-Detail>「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！</JP-Detail>
-   <TR-Detail>ตั้งเรือ โชคาคุ เป็นเรือธง, และติดตั้งเครื่องบิน Type 97 Torpedo Bomber (Murata Squadron) [ห้ามล็อกเครื่องบินเด็ดขาด], จากนั้นย่อยเครื่องบิน Tenzan (Heavenly Mountain) 2 ครั้ง [ให้กดย่อยทีละลำ]</TR-Detail>
+   <TR-Detail>จัดเรือ โชคาคุ ติดตั้งเครื่องบิน Type 97 Torpedo Bomber (Murata Squadron) (九七式艦攻(村田隊)) [ห้ามล็อกเครื่องบิน] จากนั้นแยกส่วนเครื่องบิน Tenzan (天山) 2 ลำ [แยกส่วนทีละลำ]</TR-Detail>
    </Quest>
   <Quest>
     <ID>623</ID>
     <JP-Name>精鋭「九七式艦攻」部隊の編成</JP-Name>
-    <TR-Name>F19: กำหนดการใหม่มุราตะ</TR-Name>
+    <TR-Name>F19: ปรับกำลังพลฝูงบินมุราตะ</TR-Name>
     <JP-Detail>「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！</JP-Detail>
-    <TR-Detail>ตั้งเรือ อาคากิ หรือ โชคาคุ เป็นเรือธง จากนั้นย่อย Type 97 Torpedo Bomber) 3 ครั้ง [ให้กดย่อยทีละลำ]</TR-Detail>
+    <TR-Detail>จัดเรือ อาคากิ หรือ โชคาคุ เป็นเรือธง จากนั้นแยกส่วนเครื่องบิน Type 97 Torpedo Bomber (九七式艦攻) 3 ลำ [แยกส่วนทีละลำ]</TR-Detail>
   </Quest>
   <Quest>
     <ID>624</ID>
     <JP-Name>試作艤装の準備</JP-Name>
     <TR-Name>F21: เตรียมความพร้อมสำหรับยุทโธปกรณ์ต้นแบบ</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを7つ「廃棄」して、「試製甲板カタパルト」を準備します。</JP-Detail>
-    <TR-Detail>ย่อยอาวุธ 7 ครั้ง</TR-Detail>
+    <TR-Detail>แยกส่วนอาวุธ 7 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
     <JP-Name>はじめての「近代化改修」！</JP-Name>
     <TR-Name>G1: อัพเกรดเรือครั้งแรก</TR-Name>
     <JP-Detail>任意の艦を近代化改修(合成)して、強化せよ！</JP-Detail>
-    <TR-Detail>อัพเกรดเรือให้สำเร็จ 1 ครั้ง</TR-Detail>
+    <TR-Detail>อัพเกรดเรือสำเร็จ 1 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>702</ID>
     <JP-Name>艦の「近代化改修」を実施せよ！</JP-Name>
     <TR-Name>G2d: อัพเกรดเรือ 1</TR-Name>
     <JP-Detail>近代化改修を実施して、２回以上これを成功させよ！</JP-Detail>
-    <TR-Detail>อัพเกรดเรือให้สำเร็จ 2 ครั้ง ใน 1 วัน</TR-Detail>
+    <TR-Detail>อัพเกรดเรือสำเร็จ 2 ครั้ง ใน 1 วัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>703</ID>
     <JP-Name>「近代化改修」を進め、戦備を整えよ！</JP-Name>
     <TR-Name>G3w: อัพเกรดเรือ 2</TR-Name>
     <JP-Detail>一週間の間に、近代化改修を１5回成功させよ！</JP-Detail>
-    <TR-Detail>อัพเกรดเรือให้สำเร็จ 15 ครั้ง ใน 1 สัปดาห์</TR-Detail>
+    <TR-Detail>อัพเกรดเรือสำเร็จ 15 ครั้ง ใน 1 สัปดาห์</TR-Detail>
   </Quest>
   <Quest>
     <ID>704</ID>
     <JP-Name>「大型艦建造」の準備！(その壱)</JP-Name>
-    <TR-Name>G4: ปลดล็อกอู่ต่อเรือใหญ่ 1 (LSC)</TR-Name>
+    <TR-Name>G4: เตรียมพร้อมสำหรับอู่ต่อเรือใหญ่</TR-Name>
     <JP-Detail>大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！</JP-Detail>
-    <TR-Detail>อัพเกรดเรือให้สำเร็จ 4 ครั้ง</TR-Detail>
+    <TR-Detail>อัพเกรดเรือสำเร็จ 4 ครั้ง</TR-Detail>
   </Quest>
 </Quests>
