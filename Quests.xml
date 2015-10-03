@@ -1333,14 +1333,14 @@
   <Quest>
     <ID>622</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F20: ปรับโมเดลเครื่องบิน [Type 97 Torpedo Bomber (Murata Squadron)]</TR-Name>
+    <TR-Name>F19: ปรับโมเดลเครื่องบิน [Type 97 Torpedo Bomber (Murata Squadron)]</TR-Name>
     <JP-Detail>「九七式艦攻(村田隊)」搭載「翔鶴」を秘書艦にして、新たに「天山」を2つ廃棄！</JP-Detail>
    <TR-Detail>จัดเรือ โชคาคุ ติดตั้งเครื่องบิน Type 97 Torpedo Bomber (Murata Squadron) (九七式艦攻(村田隊)) [ห้ามล็อกเครื่องบิน] จากนั้นแยกส่วนเครื่องบิน Tenzan (天山) 2 ลำ [แยกส่วนทีละลำ]</TR-Detail>
    </Quest>
   <Quest>
     <ID>623</ID>
     <JP-Name>精鋭「九七式艦攻」部隊の編成</JP-Name>
-    <TR-Name>F19: ปรับกำลังพลฝูงบินมุราตะ</TR-Name>
+    <TR-Name>F20: ปรับกำลังพลฝูงบินมุราตะ</TR-Name>
     <JP-Detail>「翔鶴」または「赤城」を秘書艦にした状態で新たに「九七式艦攻」を3つ廃棄！</JP-Detail>
     <TR-Detail>จัดเรือ อาคากิ หรือ โชคาคุ เป็นเรือธง จากนั้นแยกส่วนเครื่องบิน Type 97 Torpedo Bomber (九七式艦攻) 3 ลำ [แยกส่วนทีละลำ]</TR-Detail>
   </Quest>
