@@ -28,7 +28,9 @@ https://github.com/KCV-Localisation/KanColleViewer/releases
 
 การติดตั้งภาษาไทย เนื่องจากยังไม่มีการส่งแพทซ์เข้าไป จึงใช้วิธีทับไฟล์ภาษากับ English
 ตรวจสอบว่าเวอร์ชั่นของการแปลเดิมเป็นเวอร์ชั่นล่าสุด 
+
 ดาวน์โหลด Quests.xml เวอร์ชั่นภาษาไทย
+https://github.com/KC-TH/KanColleViewer-Translations/releases
 
 1. เข้าโฟเดอร์ Translations
 
