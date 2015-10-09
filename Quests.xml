@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.39">
+<Quests Version="1.0.40">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -972,6 +972,20 @@
     <TR-Name>B52: ปฏิบัติการกองเรือลาดตระเวนที่ 16 รุ่นใหม่</TR-Name>
     <JP-Detail>「第十六戦隊(第一次)」をバシー島沖に展開、敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>จัดเรือ อาชิงาระ (足柄/Ashigara) เป็นเรือธง, คุมะ (球磨/Kuma), นาการะ (長良/Nagara) และเรืออะไรก็ได้อีก 3 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-2</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>290</ID>
+    <JP-Name>秋刀魚漁：「秋刀魚」を収獲しよう！</JP-Name>
+    <TR-Name>เทศกาลปลาซันมะ 1</TR-Name>
+    <JP-Detail>近海及び北方海域の漁場に展開する敵艦隊を撃破して、「秋刀魚」を3尾入手せよ！</JP-Detail>
+    <TR-Detail>จัดเรือไปหาปลาซันมะ 3 ตัว</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>291</ID>
+    <JP-Name>秋刀魚漁：「秋刀魚」をもっと収獲しなきゃ！</JP-Name>
+    <TR-Name>เทศกาลปลาซันมะ 2</TR-Name>
+    <JP-Detail>ちょっと大変だけれど、漁場の安全を確保して「秋刀魚」を10尾確保しなきゃ駄目よ！</JP-Detail>
+    <TR-Detail>จัดเรือไปหาปลาซันมะ 10 ตัว</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
