@@ -976,21 +976,21 @@
   <Quest>
     <ID>290</ID>
     <JP-Name>秋刀魚漁：「秋刀魚」を収獲しよう！</JP-Name>
-    <TR-Name>เทศกาลปลาซันมะ 1</TR-Name>
+    <TR-Name>BF1: เทศกาลปลาซันมะ 1</TR-Name>
     <JP-Detail>近海及び北方海域の漁場に展開する敵艦隊を撃破して、「秋刀魚」を3尾入手せよ！</JP-Detail>
     <TR-Detail>จัดเรือไปหาปลาซันมะ 3 ตัว</TR-Detail>
   </Quest>
   <Quest>
     <ID>291</ID>
     <JP-Name>秋刀魚漁：「秋刀魚」をもっと収獲しなきゃ！</JP-Name>
-    <TR-Name>เทศกาลปลาซันมะ 2</TR-Name>
+    <TR-Name>BF2: เทศกาลปลาซันมะ 2</TR-Name>
     <JP-Detail>ちょっと大変だけれど、漁場の安全を確保して「秋刀魚」を10尾確保しなきゃ駄目よ！</JP-Detail>
     <TR-Detail>จัดเรือไปหาปลาซันมะ 10 ตัว</TR-Detail>
   </Quest>
   <Quest>
     <ID>292</ID>
     <JP-Name>秋刀魚漁：もっと頑張ってもいいのよ！</JP-Name>
-    <TR-Name>เทศกาลปลาซันมะ 3</TR-Name>
+    <TR-Name>BF3: เทศกาลปลาซันมะ 3</TR-Name>
     <JP-Detail>かなり大変だけれど、秋刀魚漁、もっともっと頑張ってもいいのよ！</JP-Detail>
     <TR-Detail>จัดเรือไปหาปลาซันมะ 30 ตัว หามาอีกเยอะ ๆ เลยนะคะผู้การ ทั้งหมดนี้ก็เพื่ออาคากิซังค่ะ!!!</TR-Detail>
   </Quest>
