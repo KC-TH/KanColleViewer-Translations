@@ -2,8 +2,11 @@ KC-TH　「Kantai Collection Translators」
 ===========================
 
 แปลโดย KC-TH 
+
 https://github.com/KC-TH
+
 https://www.facebook.com/KC.TH.Translators
+
 @Arialypse @Anime-Thai
 
 อิงบนพื้นฐานคำแปลจาก KC3 Kai ภาษาไทย เวอร์ชั่น 21 (จะออกอัพเดทวันที่ 6 ตุลาคม 2015)
