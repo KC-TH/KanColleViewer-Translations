@@ -1,11 +1,6 @@
-[KC-TH/KanColleViewer-Translations]
+KC-TH　「Kantai Collection Translators」
+https://www.facebook.com/KC.TH.Translators
 ===========================
-
-ทีมงาน KCV แปลไทย'BETA
-
-ร่วมทดสอบการภาษาไทยสำหรับ เควส ใน KCV'BETA rev
-1
-ทดสอบทำงานกับ KCV เวอร์ชั่น 3.8.2 ของ gakada/yuyuvn/yuubari/grabacr07
 
 แปลโดย KC-TH (https://github.com/KC-TH)
 @Arialypse @Anime-Thai
