@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.41">
+<Quests Version="1.0.42">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -419,6 +419,26 @@
     <TR-Name>A58: จัดกองเรือลาดตระเวนที่ 16 รุ่นใหม่</TR-Name>
     <JP-Detail>「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！</JP-Detail>
     <TR-Detail>จัดเรือ อาชิงาระ (足柄/Ashigara) เป็นเรือธง, คุมะ (球磨/Kuma), นาการะ (長良/Nagara) ลงในกองเรือหลัก</TR-Detail>
+  </Quest>
+    <ID>164</ID>
+    <JP-Name>「第三航空戦隊」を編成せよ！</JP-Name>
+    <TR-Name>A59: ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 3</TR-Name>
+    <JP-Detail>「瑞鶴改」を旗艦とし、「瑞鳳」「千歳」「千代田」を加えた4隻の空母部隊を編成せよ！</JP-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ ไค (Zuikaku Kai) เป็นเรือธง, ซุยโฮ (Zuihou), จิโตเสะ CVL (Chitose CVL), จิโยดะ CVL (Chiyoda CVL) [จิโตเสะ/จิโยดะ CVL เท่านั้น] ลงในกองเรือหลัก</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>165</ID>
+    <JP-Name>「第四航空戦隊」を編成せよ！</JP-Name>
+    <TR-Name>A60: ปฏิบัติการกองเรือที่ 4</TR-Name>
+    <JP-Detail>航空戦艦「伊勢改」及び「日向改」を基幹戦力とした第四航空戦隊を編成せよ！</JP-Detail>
+    <TR-Detail>จัดเรือ อิเสะ ไค (Ise Kai), ฮิวงะ ไค (Hyuuga Kai) ลงในกองเรือหลัก</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>166</ID>
+    <JP-Name>「小沢艦隊」を編成せよ！</JP-Name>
+    <TR-Name>A61: ปฏิบัติการกองเรือโอซาว่า</TR-Name>
+    <JP-Detail>「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！</JP-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ ไค (Zuikaku Kai) เป็นเรือธง, ซุยโฮ ไค (Zuihou Kai), จิโตเสะ (CVL), จิโยดะ (CVL), อิเสะ ไค (Ise Kai), ฮิวงะ ไค (Hyuuga Kai) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
    <Quest>
     <ID>201</ID>
@@ -994,6 +1014,19 @@
     <JP-Detail>かなり大変だけれど、秋刀魚漁、もっともっと頑張ってもいいのよ！</JP-Detail>
     <TR-Detail>จัดเรือไปหาปลาซันมะ 30 ตัว หามาอีกเยอะ ๆ เลยนะคะผู้การ ทั้งหมดนี้ก็เพื่ออาคากิซังค่ะ!!!</TR-Detail>
   </Quest>
+    <ID>293</ID>
+    <JP-Name>「第三航空戦隊」南西諸島防衛線に出撃！</JP-Name>
+    <TR-Name>B53: ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 3 เกาะนันเซย์</TR-Name>
+    <JP-Detail>編成した「第三航空戦隊」を南西諸島防衛線に展開、敵侵攻艦隊を捕捉撃滅せよ！</JP-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง, ซุยโฮ (Zuihou), จิโตเสะ CVL (Chitose CVL), จิโยดะ CVL (Chiyoda CVL) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 1-4</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>294</ID>
+    <JP-Name>「小沢艦隊」出撃せよ！</JP-Name>
+    <TR-Name>B54: ปฏิบัติการกองเรือโอซาว่าออกรบ</TR-Name>
+    <JP-Detail>「小沢艦隊」を沖ノ島海域前面に展開し、侵攻する敵機動部隊を捕捉、これを撃滅せよ！</JP-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง, ซุยโฮ (Zuihou), จิโตเสะ (CVL), จิโยดะ (CVL), อิเสะ ไค (Ise Kai), ฮิวงะ ไค (Hyuuga Kai) ไปชนะบอสให้ได้ Rank S ในด่าน 2-4</TR-Detail>
+  </Quest>
   <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
@@ -1371,6 +1404,19 @@
     <TR-Name>F21: เตรียมความพร้อมสำหรับยุทโธปกรณ์ต้นแบบ</TR-Name>
     <JP-Detail>「工廠」で装備アイテムを7つ「廃棄」して、「試製甲板カタパルト」を準備します。</JP-Detail>
     <TR-Detail>แยกส่วนอาวุธ 7 ครั้ง</TR-Detail>
+  </Quest>
+    <ID>625</ID>
+    <JP-Name>試製航空艤装の追加試作</JP-Name>
+    <TR-Name>F23: เตรียมความพร้อมสำหรับยุทโธปกรณ์ต้นแบบเพิ่มเติม</TR-Name>
+    <JP-Detail>「工廠」で装備アイテムを9つ「廃棄」して、「試製甲板カタパルト」を追加試作します。</JP-Detail>
+    <TR-Detail>แยกส่วนอาวุธ 9 ครั้ง</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>626</ID>
+    <JP-Name>精鋭「艦戦」隊の新編成</JP-Name>
+    <TR-Name>F22: ปรับกำลังพลฝูงบินรบชั้นสูง</TR-Name>
+    <JP-Detail>要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！</JP-Detail>
+    <TR-Detail>จัดเรือ โฮโช เป็นเรือธง ใส่ Type 21 Zero Fighter ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 21 Zero Fighter 2 ลำและ Type 96 Fighter 1 ลำ [แยกส่วนทีละลำ] เสียลูกเรือ 1 อัน</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
