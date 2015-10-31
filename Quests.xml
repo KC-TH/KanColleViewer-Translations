@@ -441,6 +441,13 @@
     <JP-Detail>「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！</JP-Detail>
     <TR-Detail>จัดเรือ ซุยคาคุ ไค (Zuikaku Kai) เป็นเรือธง, ซุยโฮ ไค (Zuihou Kai), จิโตเสะ (CVL), จิโยดะ (CVL), อิเสะ ไค (Ise Kai), ฮิวงะ ไค (Hyuuga Kai) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
+  <Quest>
+    <ID>167</ID>
+    <JP-Name>新航空戦隊を編成せよ！</JP-Name>
+    <TR-Name>A62: ปรับกำลังพลกองเรือบรรทุกเครื่องบินใหม่</TR-Name>
+    <JP-Detail>改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！</JP-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ ไคนิ (Zuikaku Kai Ni), โชคาคุ ไคนิ (Shoukaku Kai Ni) และเรือพิฆาต (DD) 2 ลำ ลงในกองเรือหลัก</TR-Detail>
+  </Quest>
    <Quest>
     <ID>201</ID>
     <JP-Name>敵艦隊を撃破せよ！</JP-Name>
@@ -1420,6 +1427,55 @@
     <TR-Name>F23: ปรับกำลังพลฝูงบินรบชั้นสูง</TR-Name>
     <JP-Detail>要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！</JP-Detail>
     <TR-Detail>จัดเรือ โฮโช เป็นเรือธง ใส่ Type 21 Zero Fighter ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 21 Zero Fighter 2 ลำและ Type 96 Fighter 1 ลำ [แยกส่วนทีละลำ] เสียลูกเรือ 1 อัน</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>627</ID>
+    <JP-Name>機種転換</JP-Name>
+    <TR-Name>F24: ปรับกำลังพลฝูงบิน Zero Fighter 21</TR-Name>
+    <JP-Detail>「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
+    <TR-Detail>จัดเรือธงใส่ Type 21 Zero Fighter (Skilled) [ห้ามล็อค] จากนั้นแยกส่วน Type 52 Zero Fighter 2 ลำ</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>628</ID>
+    <JP-Name>機種転換</JP-Name>
+    <TR-Name>F25: ปรับกำลังพลฝูงบิน Zero Fighter 21 อีกครั้ง</TR-Name>
+    <JP-Detail>練度max「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
+    <TR-Detail>จัดเรือธงใส่ Type 21 Zero Fighter (Skilled) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 52 Zero Fighter 2 ลำ</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>629</ID>
+    <JP-Name>「艦戦」隊の再編成</JP-Name>
+    <TR-Name>F26: ปรับกำลังพลฝูงบิน Zero Fighter 52 (Skilled)</TR-Name>
+    <JP-Detail>練度max「零戦52型(熟練)」搭載「瑞鶴」秘書艦で「零戦52型丙(六〇一空)」を廃棄！</JP-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Type 52 Zero Fighter (Skilled) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 52-C Zero Fighter (601 Air Group)</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>630</ID>
+    <JP-Name>「艦戦」隊の再編成</JP-Name>
+    <TR-Name>F28: ปรับกำลังพลฝูงบิน Zero Fighter 21 (Skilled)</TR-Name>
+    <JP-Detail>練度max「零戦21型(熟練)」搭載「瑞鶴」が秘書の状態で、「零戦21型」を2つ廃棄！</JP-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Type 21 Zero Fighter (Skilled) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 21 Zero Fighter 2 ลำ</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>631</ID>
+    <JP-Name>機種転換＆部隊再編</JP-Name>
+    <TR-Name>F27: ปรับกำลังพลฝูงบิน Zero Fighter 52C</TR-Name>
+    <JP-Detail>練度max「零戦52型丙(付岩井小隊)」搭載「瑞鶴」秘書艦で、「零戦62型(爆戦)」を2つ廃棄！</JP-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Type 52 Model C (Iwai Squadron) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 62 Zero Fighter-Bomber 2 ลำ</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>632</ID>
+    <JP-Name>機種転換</JP-Name>
+    <TR-Name>F29: ปรับกำลังพลฝูงบิน Zero Fighter 21 (Iwamoto)</TR-Name>
+    <JP-Detail>練度max「零戦21型(付岩本小隊)」搭載「瑞鶴」秘書艦で、「零戦52型」を2つ廃棄！</JP-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Type 21 Zero Fighter (Iwamoto Squadron) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 52 Zero Fighter 2 ลำ</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>633</ID>
+    <JP-Name>機種転換＆部隊再編</JP-Name>
+    <TR-Name>F30: ปรับกำลังพลฝูงบิน Zero Fighter 52A</TR-Name>
+    <JP-Detail>部隊を再編する！練度max「零戦52型甲(付岩本小隊)」搭載「瑞鶴」秘書艦で、「彩雲」を2つ廃棄！</JP-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Type 52 Model A (Iwamoto Squadron) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Saiun 2 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
