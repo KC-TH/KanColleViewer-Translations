@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.42">
+<Quests Version="1.0.43">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1461,7 +1461,7 @@
     <JP-Name>機種転換＆部隊再編</JP-Name>
     <TR-Name>F27: ปรับกำลังพลฝูงบิน Zero Fighter 52C</TR-Name>
     <JP-Detail>練度max「零戦52型丙(付岩井小隊)」搭載「瑞鶴」秘書艦で、「零戦62型(爆戦)」を2つ廃棄！</JP-Detail>
-    <TR-Detail>จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Type 52 Model C (Iwai Squadron) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 62 Zero Fighter-Bomber 2 ลำ</TR-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Type 52-C Zero Fighter (Iwai Squadron) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 62 Zero Fighter-Bomber 2 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>632</ID>
@@ -1475,7 +1475,7 @@
     <JP-Name>機種転換＆部隊再編</JP-Name>
     <TR-Name>F30: ปรับกำลังพลฝูงบิน Zero Fighter 52A</TR-Name>
     <JP-Detail>部隊を再編する！練度max「零戦52型甲(付岩本小隊)」搭載「瑞鶴」秘書艦で、「彩雲」を2つ廃棄！</JP-Detail>
-    <TR-Detail>จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Type 52 Model A (Iwamoto Squadron) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Saiun 2 ลำ</TR-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง ใส่ Type 52-A Zero Fighter (Iwamoto Squadron) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Saiun 2 ลำ</TR-Detail>
   </Quest>
   <Quest>
     <ID>701</ID>
