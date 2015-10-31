@@ -1020,14 +1020,14 @@
     <JP-Name>「第三航空戦隊」南西諸島防衛線に出撃！</JP-Name>
     <TR-Name>B53: ปฏิบัติการกองเรือบรรทุกเครื่องบินที่ 3 เกาะนันเซย์</TR-Name>
     <JP-Detail>編成した「第三航空戦隊」を南西諸島防衛線に展開、敵侵攻艦隊を捕捉撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง, ซุยโฮ (Zuihou), จิโตเสะ CVL (Chitose CVL), จิโยดะ CVL (Chiyoda CVL) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 1-4</TR-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ ไค (Zuikaku Kai) เป็นเรือธง, ซุยโฮ (Zuihou), จิโตเสะ CVL (Chitose CVL), จิโยดะ CVL (Chiyoda CVL) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ในด่าน 1-4</TR-Detail>
   </Quest>
   <Quest>
     <ID>294</ID>
     <JP-Name>「小沢艦隊」出撃せよ！</JP-Name>
     <TR-Name>B54: ปฏิบัติการกองเรือโอซาว่าออกรบ</TR-Name>
     <JP-Detail>「小沢艦隊」を沖ノ島海域前面に展開し、侵攻する敵機動部隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>จัดเรือ ซุยคาคุ (Zuikaku) เป็นเรือธง, ซุยโฮ (Zuihou), จิโตเสะ (CVL), จิโยดะ (CVL), อิเสะ ไค (Ise Kai), ฮิวงะ ไค (Hyuuga Kai) ไปชนะบอสให้ได้ Rank S ในด่าน 2-4</TR-Detail>
+    <TR-Detail>จัดเรือ ซุยคาคุ ไค (Zuikaku Kai) เป็นเรือธง, ซุยโฮ ไค (Zuihou Kai), จิโตเสะ CVL (Chitose CVL), จิโยดะ CVL (Chiyoda CVL), อิเสะ ไค (Ise Kai), ฮิวงะ ไค (Hyuuga Kai) ไปชนะบอสให้ได้ Rank S ในด่าน 2-4</TR-Detail>
   </Quest>
   <Quest>
     <ID>301</ID>
