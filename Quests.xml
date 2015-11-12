@@ -698,7 +698,7 @@
     <JP-Name>敵北方艦隊主力を撃滅せよ！</JP-Name>
     <TR-Name>Bw7: ออกรบ 7</TR-Name>
     <JP-Detail>北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！</JP-Detail>
-    <TR-Detail>ชนะบอสด่าน 3-3, 3-4, 3-5 รวมกันให้ได้ Rank B ขึ้นไป 5 ครั้ง</TR-Detail>
+    <TR-Detail>ชนะบอสด่าน 3-3, 3-4, 3-5 รวมกัน ให้ได้ Rank B ขึ้นไป 5 ครั้ง</TR-Detail>
   </Quest>
   <Quest>
     <ID>242</ID>
