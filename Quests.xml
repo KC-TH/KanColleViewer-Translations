@@ -1424,7 +1424,7 @@
   <Quest>
     <ID>626</ID>
     <JP-Name>精鋭「艦戦」隊の新編成</JP-Name>
-    <TR-Name>F22: ปรับกำลังพลฝูงบินรบชั้นสูง</TR-Name>
+    <TR-Name>F22m1: ปรับกำลังพลฝูงบินรบชั้นสูง</TR-Name>
     <JP-Detail>要熟練搭乗員：練度max「零戦21型」搭載「鳳翔」秘書艦で「零戦21型」x2「九六艦戦」x1廃棄！</JP-Detail>
     <TR-Detail>จัดเรือ โฮโช เป็นเรือธง ใส่ Type 0 Fighter Model 21 ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 0 Fighter Model 21 2 ลำและ Type 96 Fighter 1 ลำ [แยกส่วนทีละลำ] เสียลูกเรือ 1 อัน</TR-Detail>
   </Quest>
@@ -1438,7 +1438,7 @@
   <Quest>
     <ID>628</ID>
     <JP-Name>機種転換</JP-Name>
-    <TR-Name>F25: ปรับกำลังพลฝูงบิน Zero Fighter 21 อีกครั้ง</TR-Name>
+    <TR-Name>F25m2: ปรับกำลังพลฝูงบิน Zero Fighter 21 อีกครั้ง</TR-Name>
     <JP-Detail>練度max「零戦21型(熟練)」搭載空母を秘書艦にして、新たに「零戦52型」を2つ廃棄！</JP-Detail>
     <TR-Detail>จัดเรือธงใส่ Type 0 Fighter Model 21 (Skilled) ยศเต็ม [ห้ามล็อค] จากนั้นแยกส่วน Type 0 Fighter Model 52 2 ลำ</TR-Detail>
   </Quest>
