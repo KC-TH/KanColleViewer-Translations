@@ -1079,6 +1079,21 @@
     <TR-Detail>จัดเรือ คาสุมิ (Kasumi) เป็นเรือธง, อาชิงาระ (Ashigara), โอโยโดะ (Ooyodo), อาซาชิโมะ (Asashimo) และ คิโยชิโมะ (Kiyoshimo) และเรืออะไรก็ได้อีก 1 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-5</TR-Detail>
   </Quest>
   <Quest>
+    <ID>298</ID>
+    <JP-Name>師走の「間宮」のお手伝い</JP-Name>
+    <TR-Name>SB06: ช่วยมามิยะเตรียมงานสิ้นปี</TR-Name>
+    <JP-Detail>提督お手伝いすみません…「お飾り材料」を16個集めて頂けないでしょうか？</JP-Detail>
+    <TR-Detail>หาเครื่องประดับตกแต่ง จำนวน 16 ชิ้น</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>299</ID>
+    <JP-Name>年越し準備！師走の「間宮」のお手伝い</JP-Name>
+    <TR-Name>SB07: ช่วยมามิยะทำเครื่องรางรับปีใหม่</TR-Name>
+    <JP-Detail>提督…もしよかったら…「お飾り材料」32個使って、お飾りを一緒に作りませんか？</JP-Detail>
+    <TR-Detail>หาเครื่องประดับตกแต่ง จำนวน 32 ชิ้น</TR-Detail>
+  </Quest>
+ 
+  <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
     <TR-Name>C1: ซ้อมรบครั้งแรก</TR-Name>
