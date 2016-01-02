@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.49">
+<Quests Version="1.0.50">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1091,6 +1091,34 @@
     <TR-Name>SB07: ช่วยมามิยะทำเครื่องรางรับปีใหม่</TR-Name>
     <JP-Detail>提督…もしよかったら…「お飾り材料」32個使って、お飾りを一緒に作りませんか？</JP-Detail>
     <TR-Detail>หาเครื่องประดับตกแต่ง จำนวน 32 ชิ้น</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>801</ID>
+    <JP-Name>謹賀新年！「水雷戦隊」出撃始め！</JP-Name>
+    <TR-Name>SB08: สวัสดีปีใหม่! กับกองเรือตอร์ปิโด</TR-Name>
+    <JP-Detail>水雷戦隊を製油所地帯沿岸に展開！同海域の敵艦隊を撃滅、新年の暁に勝利を刻むのです！</JP-Detail>
+    <TR-Detail>จัดเรือ CL 1 ลำ และเรือ DD 5 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 1-3</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>802</ID>
+    <JP-Name>新年の「伊良湖」のお手伝い！</JP-Name>
+    <TR-Name>SB09: ช่วยงานอิราโกะในวันปีใหม่</TR-Name>
+    <JP-Detail>大丈夫、新年は収集任務じゃないんです！東部オリョール海の敵艦隊を三回撃滅してください！</JP-Detail>
+    <TR-Detail>จัดกองเรืออะไรก็ได้ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-3 จำนวน 3 ครั้ง</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>803</ID>
+    <JP-Name>漲る戦艦魂！大艦巨砲なお正月！</JP-Name>
+    <TR-Name>SB10: Burning Love รับปีใหม่! ด้วยปืนใหญ่และเรือประจัญบาน</TR-Name>
+    <JP-Detail>戦艦4隻を基幹戦力とする艦隊をカレー洋へ展開！敵艦隊を反復撃滅し、同海域を制圧せよ！</JP-Detail>
+    <TR-Detail>จัดเรือ BB/FBB/BBV 4 ลำ และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 4-2 จำนวน 2 ครั้ง</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>804</ID>
+    <JP-Name>迎春！「機動部隊」抜錨せよ！</JP-Name>
+    <TR-Name>SB11: สวัสดีปีใหม่! กับกองเรือบรรทุกเครื่องบิน</TR-Name>
+    <JP-Detail>空母2隻を基幹戦力とする機動部隊をMS諸島沖に展開、来襲する敵攻略部隊を反復撃滅せよ！</JP-Detail>
+    <TR-Detail>จัดเรือ CV/CVB/CVL 2 ลำ และเรืออะไรก็ได้อีก 4 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 6-2 จำนวน 2 ครั้ง</TR-Detail>
   </Quest>
  
   <Quest>
