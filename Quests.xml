@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.52">
+<Quests Version="1.0.53">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1134,7 +1134,21 @@
     <JP-Detail>空母2隻を基幹戦力とする機動部隊をMS諸島沖に展開、来襲する敵攻略部隊を反復撃滅せよ！</JP-Detail>
     <TR-Detail>จัดเรือ CV/CVB/CVL 2 ลำ และเรืออะไรก็ได้อีก 4 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 6-2 จำนวน 2 ครั้ง</TR-Detail>
   </Quest>
- 
+  <Quest>
+    <ID>234</ID>
+    <JP-Name>水上反撃作戦【礼号作戦】を完遂せよ！</JP-Name>
+    <TR-Name>ทำปฏิบัติการ Rei-Go! ให้สำเร็จ</TR-Name>
+    <JP-Detail>カンパン湾より突入部隊を出撃させ、水上反撃作戦【礼号作戦】を完遂せよ！</JP-Detail>
+    <TR-Detail>ผ่านด่าน Winter 2016: E-2</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>421</ID>
+    <JP-Name>親善艦参加観艦式を実施せよ！</JP-Name>
+    <TR-Name>เตรียมการต้อนรับสาวเรือรบคนใหม่</TR-Name>
+    <JP-Detail>期間限定海域において、海外からの親善艦を招いて特別観艦式を実施せよ！</JP-Detail>
+    <TR-Detail>จัดเรืออะไรก็ได้ 6 ลำ, เรือธงเลเวล 6 ขึ้นไปและเลเวลรวม 15 ขึ้นไป ส่งสำรวจที่ 175 ให้สำเร็จ 1 ครั้ง</TR-Detail>
+  </Quest>
+  
   <Quest>
     <ID>301</ID>
     <JP-Name>はじめての「演習」！</JP-Name>
