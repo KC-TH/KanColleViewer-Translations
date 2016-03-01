@@ -653,11 +653,11 @@
     <TR-Name>Ro.43 Seaplane</TR-Name>
   </Item>
   <Item>
-    <JP-Name>16inch三連装砲 Mk.7</JP-Name>
-    <TR-Name>16inch Triple Gun Mount Mk.7</TR-Name>
-  </Item>
-   <Item>
     <JP-Name>Ro.44水上戦闘機</JP-Name>
     <TR-Name>Ro.44 Seaplane Fighter</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>16inch三連装砲 Mk.7</JP-Name>
+    <TR-Name>16inch Triple Gun Mount Mk.7</TR-Name>
   </Item>
 </Equipment>
