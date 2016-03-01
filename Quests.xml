@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.53">
+<Quests Version="1.0.54">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -468,6 +468,13 @@
     <TR-Name>A65: ปรับปรุงกองเรือต่อสู้เตรียมโต้กลับ</TR-Name>
     <JP-Detail>駆逐艦「霞」旗艦、「足柄」「大淀」「朝霜」「清霜」他の水上反撃部隊を再編成せよ！</JP-Detail>
     <TR-Detail>จัดเรือ คาสุมิ (Kasumi) เป็นเรือธง, อาชิงาระ (Ashigara), โอโยโดะ (Ooyodo), อาซาชิโมะ (Asashimo) และ คิโยชิโมะ (Kiyoshimo) ลงในกองเรือหลัก</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>171</ID>
+    <JP-Name>「第三十一戦隊(第一次)」を編成せよ！</JP-Name>
+    <TR-Name>A66: จัดกองเรือพิฆาตที่ 31</TR-Name>
+    <JP-Detail>「五十鈴改二」旗艦、「皐月改二」「卯月改」を含む、対潜機動水上部隊を編成せよ！</JP-Detail>
+    <TR-Detail>จัดเรือ อิสุซุ ไคนิ (Isuzu Kai Ni) เป็นเรือธง, ซัทสึกิ ไคนิ (Satsuki Kai Ni) และ อุซึกิ ไค (Uzuki Kai) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
    <Quest>
     <ID>201</ID>
@@ -1091,6 +1098,13 @@
     <TR-Name>B59: กองเรือคาสุมิต่อต้านกองเรือทะเลลึก</TR-Name>
     <JP-Detail>旗艦「霞改二」で駆逐艦3隻を含む艦隊で南西諸島沖ノ島沖に突入！敵主力を撃滅せよ！</JP-Detail>
     <TR-Detail>จัดเรือ คาสุมิ ไคนิ (Kasumi Kai Ni) เป็นเรือธง, เรือ DD 2 ลำ และเรืออะไรก็ได้อีก 3 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-5</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>807</ID>
+    <JP-Name>「第三十一戦隊」出撃せよ！</JP-Name>
+    <TR-Name>B60: ปฏิบัติการเรือพิฆาตที่ 31</TR-Name>
+    <JP-Detail>第三十一戦隊(第一次)を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！</JP-Detail>
+    <TR-Detail>จัดเรือ อิสุซุ ไคนิ (Isuzu Kai Ni) เป็นเรือธง, ซัทสึกิ ไคนิ (Satsuki Kai Ni) และ อุซึกิ ไค (Uzuki Kai) และเรืออะไรก็ได้อีก 3 ลำ ไปรับยุทธปัจจัยให้ได้ในด่าน 1-6</TR-Detail>
   </Quest>
   <Quest>
     <ID>298</ID>
