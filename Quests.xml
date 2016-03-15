@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.54">
+<Quests Version="1.0.55">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -475,6 +475,13 @@
     <TR-Name>A66: จัดกองเรือพิฆาตที่ 31</TR-Name>
     <JP-Detail>「五十鈴改二」旗艦、「皐月改二」「卯月改」を含む、対潜機動水上部隊を編成せよ！</JP-Detail>
     <TR-Detail>จัดเรือ อิสุซุ ไคนิ (Isuzu Kai Ni) เป็นเรือธง, ซัทสึกิ ไคนิ (Satsuki Kai Ni) และ อุซึกิ ไค (Uzuki Kai) ลงในกองเรือหลัก</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>172</ID>
+    <JP-Name>「第二七駆逐隊」を編成せよ！</JP-Name>
+    <TR-Name>A67: จัดกองเรือพิฆาตที่ 27</TR-Name>
+    <JP-Detail>「白露改」旗艦、「時雨」「春雨」「五月雨」４隻による第二七駆逐隊を編成せよ！</JP-Detail>
+    <TR-Detail>จัดเรือ ชิราสึยุ ไค (Shiratsuyu Kai) เป็นเรือธง, ชิกุเระ (Shigure), ฮารุซาเมะ (Harusame) และซามิดาเระ (Samidare) ลงในกองเรือหลัก</TR-Detail>
   </Quest>
    <Quest>
     <ID>201</ID>
@@ -1102,9 +1109,16 @@
   <Quest>
     <ID>807</ID>
     <JP-Name>「第三十一戦隊」出撃せよ！</JP-Name>
-    <TR-Name>B60: ปฏิบัติการเรือพิฆาตที่ 31</TR-Name>
+    <TR-Name>B60: ปฏิบัติการกองเรือพิฆาตที่ 31</TR-Name>
     <JP-Detail>第三十一戦隊(第一次)を鎮守府近海航路に出撃させ、同航路の安全確保に努めよ！</JP-Detail>
     <TR-Detail>จัดเรือ อิสุซุ ไคนิ (Isuzu Kai Ni) เป็นเรือธง, ซัทสึกิ ไคนิ (Satsuki Kai Ni) และ อุซึกิ ไค (Uzuki Kai) และเรืออะไรก็ได้อีก 3 ลำ ไปรับยุทธปัจจัยให้ได้ในด่าน 1-6</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>808</ID>
+    <JP-Name>「第二七駆逐隊」出撃せよ！</JP-Name>
+    <TR-Name>B61: ปฏิบัติการกองเรือพิฆาตที่ 27</TR-Name>
+    <JP-Detail>「白露改」旗艦の第二七戦隊を含む艦隊をオリョール海に展開、同海域の敵艦隊を撃滅せよ！</JP-Detail>
+    <TR-Detail>จัดเรือ ชิราสึยุ ไค (Shiratsuyu Kai) เป็นเรือธง, ชิกุเระ (Shigure), ฮารุซาเมะ (Harusame) และซามิดาเระ (Samidare) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-3</TR-Detail>
   </Quest>
   <Quest>
     <ID>298</ID>
