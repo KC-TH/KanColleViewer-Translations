@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Quests Version="1.0.55">
+<Quests Version="1.0.56">
   <Quest>
     <ID>101</ID>
     <JP-Name>はじめての「編成」！</JP-Name>
@@ -1119,6 +1119,13 @@
     <TR-Name>B61: ปฏิบัติการกองเรือพิฆาตที่ 27</TR-Name>
     <JP-Detail>「白露改」旗艦の第二七戦隊を含む艦隊をオリョール海に展開、同海域の敵艦隊を撃滅せよ！</JP-Detail>
     <TR-Detail>จัดเรือ ชิราสึยุ ไค (Shiratsuyu Kai) เป็นเรือธง, ชิกุเระ (Shigure), ฮารุซาเมะ (Harusame) และซามิดาเระ (Samidare) และเรืออะไรก็ได้อีก 2 ลำ ไปชนะบอสให้ได้ Rank S ขึ้นไปในด่าน 2-3</TR-Detail>
+  </Quest>
+  <Quest>
+    <ID>809</ID>
+    <JP-Name>強襲上陸作戦用戦力を増強せよ！</JP-Name>
+    <TR-Name>B62: เสริมกองกำลังหน่วยจู่โจมภาคพื้นดิน</TR-Name>
+    <JP-Detail>中部海域における航空偵察「K作戦」を実施しつつ、強襲上陸作戦用戦力の強化を図れ！</JP-Detail>
+    <TR-Detail>ชนะบอสด่าน 6-3 ให้ได้ Rank B ขึ้นไป</TR-Detail>
   </Quest>
   <Quest>
     <ID>298</ID>
