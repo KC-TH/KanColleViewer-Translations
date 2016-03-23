@@ -665,11 +665,11 @@
     <TR-Name>Type 2 Seaplane Fighter Kai</TR-Name>
   </Item>
   <Item>
-    <JP-Name>大発動艇(八九式中戦車&陸戦隊)</JP-Name>
-    <TR-Name>Daihatsu Landing Craft (Type 89 Medium Tank & Landing Force)</TR-Name>
-  </Item>
-  <Item>
     <JP-Name>特二式内火艇</JP-Name>
     <TR-Name>Special Type 2 Amphibious Landing Craft</TR-Name>
+  </Item>
+  <Item>
+    <JP-Name>大発動艇(八九式中戦車&amp;陸戦隊)</JP-Name>
+    <TR-Name>Daihatsu Landing Craft (Type 89 Medium Tank &amp; Landing Force)"</TR-Name>
   </Item>
 </Equipment>
